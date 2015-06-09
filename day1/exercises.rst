@@ -1,4 +1,5 @@
-Exercises in somewhat arbitrary order:
+Day 1 Exercises
+===============
 
 1) Create a file called ``hello.py`` that can be used in both of the following ways:
 
