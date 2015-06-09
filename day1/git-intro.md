@@ -1,7 +1,8 @@
-#Git Excercises
-============
+Git Excercises
+==============
 
-###Initial Exploration
+Initial Exploration
+-------------------
 
 1. Make a repository on GitHub for your research this summer.  Give it a useful name, related to the science (e.g., not usrp-2015).  
 
@@ -48,9 +49,8 @@ To summarize, this is what a typical simple workflow should look like:
 	
 **One more note-- whenever you rename or remove files that are being tracked by git, use the 'git rm' or 'git mv' commands rather than just 'rm' or 'mv'.  That way git won't get confused. 
 	
----
-	
-###Branching
+Branching
+------------
 
 One of the biggest advantages of git is that it allows you to experiment without worrying about breaking your code.  Usually by default you will be working on a branch called 'master', which you can confirm with the 'git branch' command:
 
