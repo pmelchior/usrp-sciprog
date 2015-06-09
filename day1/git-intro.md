@@ -103,7 +103,9 @@ You may find yourself in a position where you want to contribute to a GitHub rep
 3.  Create a new branch (e.g., 'tdm-edits')
 4.  Make any desired changes on this branch.
 5.  Push this branch back to your repo:
+
 		$ git push origin tdm-edits
+
 6.  On GitHub, create a pull request following [these instructions]( https://help.github.com/articles/creating-a-pull-request/) (or actually, there will likely be a helpful little "create pull request" button on your repo page to shortcut this process).
 7.  The owner of the repo can then review it and decide whether/when to merge it in, and can also make comments.  You can continue to push changes to this branch while the pull request is still open.
 
