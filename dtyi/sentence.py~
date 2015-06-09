@@ -1,0 +1,14 @@
+#!/usr/bin/python env
+
+
+def main():
+    escape_chars = {'!', '?', '.'}
+    sentence = ""
+    print 'Enter a word (. ! or ? to end): '
+    while(not (input() in escape_chars)):
+        sentence = sentence + input()
+        print 'Enter a word (. ! or ? to end): '
+    print sentence
+
+if __name__ == "__main__":
+    main()
