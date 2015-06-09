@@ -31,4 +31,6 @@ Day 1 Exercises
 
 3) (From `@jakevdp <https://github.com/jakevdp/2014_fall_ASTR599/blob/master/notebooks/01_basic_training.ipynb>`_):  Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”. If you finish quickly... see how **few** characters you can write this program in (this is known as "code golf": going for the fewest key strokes).
 
-4) Write a program that prints out all words (and their frequencies) in a given file, ordered by frequency.
+4) Write a program that prints out all words (and their frequencies) in a given file, ordered by frequency.  Hint: the ``np.argsort()`` function may be useful. 
+
+    
