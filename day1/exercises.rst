@@ -46,6 +46,20 @@ Day 1 Exercises
     2
 
 
-5) Write a program called ``wordfreq.py`` that prints out all words longer than three letters (and their frequencies) in a given file, ordered by frequency.  
+5) Write a program called ``wordfreq.py`` that prints out all words longer than three letters (and their frequencies) in a given file, ordered by frequency.  Run this on ``ihaveadream.txt``, and check it vis-a-vis ``ihaveadream_freqs.txt``, which has my results of this exercise::
+
+    $ head ihaveadream_freqs.txt
+    will: 27
+    that: 24
+    this: 20
+    freedom: 20
+    from: 18
+    have: 17
+    with: 16
+    negro: 13
+    ring: 12
+    dream: 11
+
+6) Some fun with object-oriented programming: make a file called ``solarsystem.py`` that defines ``Star``, ``Planet``, and ``System`` objects that enable the provided notebook file to work as demonstrated.  If you finish this, feel free to add more functionality to these objects!
 
     
