@@ -15,3 +15,5 @@ Daily Schedule
 * 1530-1630 (NMC) Open lab time
 
 NMC = New Media Center, Lewis Library
+
+[Link to intro Python notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks).
