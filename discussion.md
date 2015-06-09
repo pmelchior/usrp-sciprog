@@ -2,7 +2,7 @@ Student-led discussion prompts:
 
 * Explain something you've recently learned about scientific programming (in the broad sense; maybe a Python trick, maybe a command-line tool, maybe an organizational app, etc.), and why you've found it useful.
     
-  * For finding points near other points: KD-tree!  
+  * For finding points near other points when you have lots of points: KD-tree!  
 
 * Give a summary of a recent [astrobites](http://astrobites.org) post or astro-ph paper you found interesting.
 * Describe a recent situation where you were confused about something, and then figured it out. (odds are you won't be the only one to be confused about this same thing!)
