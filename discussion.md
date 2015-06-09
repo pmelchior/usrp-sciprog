@@ -4,7 +4,10 @@ Student-led discussion prompts:
     
   * For finding points near other points when you have lots of points: KD-tree!  
 
-* Give a summary of a recent [astrobites](http://astrobites.org) post or astro-ph paper you found interesting.
+* Give a summary of a recent [astrobites](http://astrobites.org) post or astro-ph paper (or other cool science) you found interesting.
+
+    * Talked about how the Fermi telescope works to detect gamma rays. 
+
 * Describe a recent situation where you were confused about something, and then figured it out. (odds are you won't be the only one to be confused about this same thing!)
 
   * Tried to print a big image with standard buffered image Java library and ran into maximum integer for large image! (might try to fix with PNGJ-- more optimized for large images; won't crash) 
