@@ -46,6 +46,6 @@ Day 1 Exercises
     2
 
 
-5) Write a program that prints out all words (and their frequencies) in a given file, ordered by frequency.  Hint: the ``np.argsort()`` function may be useful. 
+5) Write a program called ``wordfreq.py`` that prints out all words longer than three letters (and their frequencies) in a given file, ordered by frequency.  
 
     
