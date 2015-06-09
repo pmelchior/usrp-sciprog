@@ -93,7 +93,25 @@ Using branches will make more sense when you are actually working with code, but
 		$ git branch
 		* master
 
-
-
+Collaborating: Submitting a pull request
+---------------
 		
-		
+You may find yourself in a position where you want to contribute to a GitHub repository that is not yours.  In this case, you can't just clone -> make changes -> push, because you will not have push access to the repository (that is, unless you've been explicitly added as a collaborator).  Instead, you have to go through a process called a "pull request," whereby you submit a branch to the repo owner, and she gets to decide whether to merge that branch in.  The process to do this is the following:
+
+1.  Fork the repository (press the "Fork" button on GitHub), which creates for you a linked---but totally independent---copy of the entire original repository that you now own.
+2.  Clone **your** version of the repository onto your machine.
+3.  Create a new branch (e.g., 'tdm-edits')
+4.  Make any desired changes on this branch.
+5.  Push this branch back to your repo:
+		$ git push origin tdm-edits
+6.  On GitHub, create a pull request following `these instructions <https://help.github.com/articles/creating-a-pull-request/>`_.
+7.  The owner of the repo can then review it and decide whether/when to merge it in, and can also make comments.  You can continue to push changes to this branch while the pull request is still open.
+
+You should submit your solutions to the exercises via pull requests, following this pattern (after forking this repo to your account):
+
+	$ git clone git@github.com:yourgithubname/usrp-sciprog
+	$ cd usrp-sciprog/day1/exercises
+	$ git checkout -b ex-day1
+	$ mkdir yourname
+	<write your exercises in this folder, add/commit as needed>
+	$ git push origin ex-day1
