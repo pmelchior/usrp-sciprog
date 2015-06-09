@@ -1,4 +1,5 @@
-First course:  Intro
+Intro to Day 1
+==============
 
 “Scientific computing”: broad definition.  We all use our computers to do our research; lots of it is coding, but not all.  In order to be most productive/effective researchers, we have to use the computer well.
 
