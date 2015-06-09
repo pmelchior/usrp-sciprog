@@ -2,7 +2,6 @@
 Resources for the "Intro to Scientific Programming" mini-course for the Princeton Undergraduate Summer Research Program, 2015 
 
 Daily Schedule
-----------
 
 * 1000-1030 (0-S-9) "office hours"
 * 1030-1100 (0-S-9) coffee/discussions
