@@ -1,6 +1,8 @@
 Git Excercises
 ==============
 
+After going through this mini tutorial, definitely take some time to read [this](http://www.sbf5.com/~cduan/technical/git/).  It's a great explanation of how git actually works.
+
 Initial Exploration
 -------------------
 
