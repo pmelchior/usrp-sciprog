@@ -1,6 +1,14 @@
 Day 1 Exercises
 ===============
 
+Do each of the following exercises, submitting the solutions via pull requests to this repository (see the git-intro notes).
+
+**RULES**
+
+* Every variable/function/class name should be meaningful
+* Variable/function names should be lowercase, class names uppercase
+* Write a documentation string (even if minimal) for every function.
+
 1) Create a file called ``hello.py`` that can be used in both of the following ways:
 
 * From the system command line::
