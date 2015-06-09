@@ -13,7 +13,7 @@ Initial Exploration
 		$ cd
     	$ mkdir repositories
     	$ cd repositories
-    	$ git clone git@github.com:username/reponame
+    	$ git clone git@github.com:username/reponame  (or git clone https://github.com/username/reponame.git)
     
 3.  Edit the readme file on your laptop to include a sentence or two describing your project.
 
