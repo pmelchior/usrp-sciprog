@@ -106,14 +106,26 @@ You may find yourself in a position where you want to contribute to a GitHub rep
 
 		$ git push origin tdm-edits
 
-6.  On GitHub, create a pull request following [these instructions]( https://help.github.com/articles/creating-a-pull-request/) (or actually, there will likely be a helpful little "create pull request" button on your repo page to shortcut this process).
+6.  On GitHub, create a pull request following [these instructions]( https://help.github.com/articles/creating-a-pull-request/) (or actually, there should be a helpful little "create pull request" button on your repo page after you push, to shortcut this process).
 7.  The owner of the repo can then review it and decide whether/when to merge it in, and can also make comments.  You can continue to push changes to this branch while the pull request is still open.
 
-You should submit your solutions to the exercises via pull requests, following this pattern (after forking this repo to your account):
+**You should submit your solutions to each exercise via a pull request, following this pattern** (after forking this repo to your account):
 
 	$ git clone git@github.com:yourgithubname/usrp-sciprog
 	$ cd usrp-sciprog/day1/exercises
-	$ git checkout -b ex-day1
+	$ git checkout -b day1-ex1
 	$ mkdir yourname
-	<write your exercises in this folder, add/commit as needed>
-	$ git push origin ex-day1
+	<write your hello.py (or whatever) in this folder, add/commit as needed>
+	$ git push origin day1-ex1
+
+Once the pull request is merged, you can feel free to delete this branch.
+
+**Note:** when you have a forked repository, often the "upstream" (original) repo will be updated and you will want to incorporate those changes into your local forked copy.  This is how to do that:
+
+	
+	$ git remote add upstream git@github.com:timothydmorton/usrp-sciprog
+	$ git fetch upstream
+	$ git checkout master
+	$ git merge upstream/master
+
+
