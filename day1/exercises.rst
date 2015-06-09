@@ -31,6 +31,21 @@ Day 1 Exercises
 
 3) (From `@jakevdp <https://github.com/jakevdp/2014_fall_ASTR599/blob/master/notebooks/01_basic_training.ipynb>`_):  Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”. If you finish quickly... see how **few** characters you can write this program in (this is known as "code golf": going for the fewest key strokes).
 
-4) Write a program that prints out all words (and their frequencies) in a given file, ordered by frequency.  Hint: the ``np.argsort()`` function may be useful. 
+4) Write a function called ``sum_digits`` that returns the sum of the digits of an integer argument; that is, ``sum_digits(123)`` should return ``6``.  Use this function in a program called ``sum_digits.py`` that prints out the sum of the digits of every integer multiple of the first argument, up to either the second argument (if included) or the first argument's square.  That is::
+
+    $ ./sum_digits.py 4
+    4
+    8
+    3
+    7
+    $ ./sum_digits.py 4 20
+    4
+    8
+    3
+    7
+    2
+
+
+5) Write a program that prints out all words (and their frequencies) in a given file, ordered by frequency.  Hint: the ``np.argsort()`` function may be useful. 
 
     
