@@ -10,6 +10,8 @@ Daily Schedule
 * 1200-1300 Lunch
 * 1300-1400 (NMC) Course 2
 * 1400-1415 Break
-* 1415-1430 Discussion
+* 1415-1430 (NMC) Discussion
 * 1430-1530 (NMC) Course 3
 * 1530-1630 (NMC) Open lab time
+
+NMC = New Media Center, Lewis Library
