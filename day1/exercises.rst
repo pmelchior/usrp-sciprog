@@ -3,17 +3,17 @@ Day 1 Exercises
 
 1) Create a file called ``hello.py`` that can be used in both of the following ways:
 
-  * From the system command line::
-  
-      $ ./hello.py
-      Hello world!
-  
-  * From the python command line::
-  
-      >>> import hello
-      >>> hello.hello()
-      Hello world!
-      
+* From the system command line::
+
+    $ ./hello.py
+    Hello world!
+
+* From the python command line::
+
+   >>> import hello
+   >>> hello.hello()
+   Hello world!
+
 2) (From `@jakevdp <https://github.com/jakevdp/2014_fall_ASTR599/blob/master/notebooks/01_basic_training.ipynb>`_): Create a program (a .py file) which repeatedly asks the user for a word. The program should append all the words together. When the user types a "!", "?", or a ".", the program should print the resulting sentence and exit.
 
    For example, a session might look like this::
