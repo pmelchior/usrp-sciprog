@@ -32,7 +32,7 @@ class Planet(object):
 		": %d days," % self.period +    \
 		" %.2f R_earth," % self.radius +\
 		" %.2f M_earth," % self.mass +  \
-		" density = %.1f g/cc" % (self.mass*Planet.DENSITY_EARTH/self.radius**3)
+		" density = %.1f g/cc" % self.density
 
 	#def __setmass__(self, mass, value):
 		#self.__dict__[mass] = value
