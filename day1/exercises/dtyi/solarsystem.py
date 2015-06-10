@@ -17,12 +17,13 @@ class Star:
 class Planet(object):
 
 	DENSITY_EARTH = 5.51
-	def __init__(self, period, radius, mass=0, name="Earth"):
+	def __init__(self, period, radius, mass=None, name=""):
 		self.period = period
 		self.radius = radius
-		if mass == 0:
+		if mass is None:
 			self.mass = self.radius**2
-		else: self.mass = mass
+		else:
+			self.mass = mass
 		#self.density = self.mass*Planet.DENSITY_EARTH/self.radius**3
 		self.name = name
 
@@ -39,6 +40,9 @@ class Planet(object):
 
 	@property
 	def density(self):
+		"""
+		Compute the density from mass~r^3
+		"""
 		return self.mass*Planet.DENSITY_EARTH/self.radius**3
 
 
@@ -53,7 +57,14 @@ class System(object):
 		self.planets = planets
 
 	def add_planet(self, planet):
+		"""
+		Add a planet to a System's list of planets.
+		"""
 		self.planets.append(planet)
+		if planet.name == "":
+			numbername = self.star.name + "-" + chr(ord('a') + self.n_planets)
+			print 'Planet does not have name, will be named '+numbername+'.'
+			planet.name = numbername
 
 	@property
 	def n_planets(self):
@@ -80,14 +91,6 @@ class System(object):
 	#	if planet.name == key: return True
 	#	else: return False
 
-
-
-def sum_digits(n):
-	sum = 0;
-	while(n != 0):
-		sum += n%10
-		n/=10
-	print sum
 
 if __name__ == "__main__":
 	print "Hello, world!"

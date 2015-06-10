@@ -10,10 +10,11 @@ def sum_digits(n):
 	print sum
 
 if __name__ == "__main__":
+	mult = int(sys.argv[1])
 	if len(sys.argv)==3:
-		mult = int(sys.argv[2])
+		limit = int(sys.argv[2])
 	else:
-		mult = int(sys.argv[1])
+		limit = mult**2
 
-	for i in range(1,mult+1):
-	    sum_digits(i*int(sys.argv[1]))
+	for i in range(mult, limit+1, mult):
+	    sum_digits(i)
