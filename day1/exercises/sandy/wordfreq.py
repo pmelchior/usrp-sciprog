@@ -17,4 +17,6 @@ for line in fulltxt:
 			collect.append(word)
 
 freqs = Counter(collect)
-print freqs
+
+for w, c in freqs.most_common():
+	print w, c
