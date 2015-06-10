@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+#!/usr/bin/env python
+
+>>>>>>> day1-ex1
 def hello():
 	print("Hello World!")
 
