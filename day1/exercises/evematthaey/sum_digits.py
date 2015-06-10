@@ -1,6 +1,9 @@
-#! /usr/bin/env python                                                                                                        
-''' sum_digits.py                                                                                                             
-takes user input and returns the sum of hte digits of the integer input                                                       
+#! /usr/bin/env python                                                                                                       \
+                                                                                                                              
+''' sum_digits.py                                                                                                            \
+                                                                                                                              
+takes user input and returns the sum of hte digits of the integer input                                                      \
+                                                                                                                              
 '''
 
 import sys
