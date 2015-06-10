@@ -5,6 +5,8 @@ General feedback on exercises
 
 * Also, please only submit one exercise per pull request.  In other words, for each exercise you work on, create a new branch and use that branch for the pull request (e.g., `day1-ex1`, `day1-ex2`, etc.).  This will (a) give you more practice with branching/pushing/pull-requesting, and (b) allow your code review (my comments) to be more atomistic rather than all-at-once.
 
+* Make your branch names (like your Python variable names) meaningful.  i.e., don't just call a branch (`tdm`).
+
 * Everyone should be sure that they've added the `upstream` remote to their fork of the repository.  In other words, from within your version of the `usrp-sciprog` repo, execute the following:
 
 		$ git remote add upstream https://github.com/timothydmorton/usrp-sciprog.git
