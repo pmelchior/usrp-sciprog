@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 import numpy as np
 import sys
-
 def darts(n):
 	'''generates n (x,y) points and checks if they fall within the unit circle'''
 	n=int(n)
