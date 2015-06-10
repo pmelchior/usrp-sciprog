@@ -2,10 +2,14 @@
 
 def askword():
 
-	s = raw_input('Enter a word (. ! or ? to end): ')
-	print s
-	if s in [',', 'i', '?']:
-		break
+	sentence = ''
+	end = True
+	while end:
+		word = raw_input('Enter a Word (. ! or ? to end): ')
+		sentence += word + ' '
+		if word in ['.', '!', '?']: 
+			end = False
+	print sentence
 
 if __name__ == '__main__':
 	askword()
