@@ -7,6 +7,7 @@ Student-led discussion prompts:
 * Give a summary of a recent [astrobites](http://astrobites.org) post or astro-ph paper (or other cool science) you found interesting.
 
     * Talked about how the Fermi telescope works to detect gamma rays. 
+    * Uranus has clouds/weather (sometimes!)
 
 * Describe a recent situation where you were confused about something, and then figured it out. (odds are you won't be the only one to be confused about this same thing!)
 
