@@ -85,11 +85,21 @@ class PiGuess_N:
 		x = self.n_list
 		y = [i - np.pi for i in self.pi_list]
 		plt.figure()
-		plt.plot(x,y,'o')
+		plt.semilogx(x,y,'o')
 		plt.xlabel('n')
 		plt.ylabel('pi estimate - pi')
 		plt.show()
 
+	#query methods
+
+	def pi_list(self):
+		return self.pi_list
+
+	def time_list(self):
+		return self.time_list
+
+	def n_list(self):
+		return self.n_list
 class PiGuess_Single:
 	'''generates many pi estimates at using the same number of darts and performs analysis thereof''' 
 		
@@ -107,4 +117,21 @@ class PiGuess_Single:
 		plt.figure()
 		plt.hist(self.pi_list, bins=int(np.sqrt(self.iterations)))
 		plt.show()
+
+	#query methods
+
+	def n(self):
+		return self.n
+
+	def iterations(self):
+		return self.iterations
+
+	def pi_list(self):
+		return self.pi_list
+
+	def mean(self):
+		return self.mean
+
+	def std(self):
+		return self.std
 
