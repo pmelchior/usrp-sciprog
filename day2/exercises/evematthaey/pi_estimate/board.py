@@ -18,7 +18,7 @@ class Board:
       for i in range(0, self.n):
          x, y = genpoint.point();
          is_inside = checkpoint.check(x, y);
-         if ~is_inside:
+         if is_inside:
             self.numcirclepoints += 1;
             self.numsquarepoints += 1;
             self.circlepoints.append((x,y));
@@ -31,12 +31,12 @@ class Board:
    def showboard(self):
       ''' creates a plt figure of the board and saves it in current directory'''
       plt.figure();
-      x_circle = [x[0] for x in self.circlepoints]
-      y_circle = [x[1] for x in self.circlepoints]
-      plt.scatter(x_circle, y_circle, c='r')
       x_square = [x[0] for x in self.squarepoints]
       y_square = [x[1] for x in self.squarepoints]
       plt.scatter(x_square, y_square, c='b')
+      x_circle = [x[0] for x in self.circlepoints]
+      y_circle = [x[1] for x in self.circlepoints]
+      plt.scatter(x_circle, y_circle, c='r')
       plt.xlabel('x')
       plt.ylabel('y')
       plt.savefig('board_{}.png'.format(self.n))
@@ -45,4 +45,4 @@ class Board:
 
    def calculate_pi(self):
       ''' calculates pi using the board created here '''
-      return 4 * self.numcirclepoints / self.numsquarepoints
+      return 4.0 * self.numcirclepoints / self.numsquarepoints

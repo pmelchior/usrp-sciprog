@@ -13,13 +13,13 @@ def testn(n, k):
    ''' 
    gens k boards of n points and uses them to calculate calculate pi k times, and plots the resulting values in a histogram 
    '''
-   pi_ests = [];
+   pi_ests = np.zeros(k);
    for i in range(0, k):
       b = board.Board(n);
-      pi_ests.append(b.calculate_pi());
-   print len(pi_ests)
+      pi_ests[i] = (b.calculate_pi());
+      
    plt.figure()
-   plt.hist(pi_ests, 30)
+   plt.hist(pi_ests[pi_ests>2.7], 30)
    plt.ylabel('frequency')
    plt.xlabel('estimated pi value using {} points/board'.format(n))
    plt.savefig('/Users/evematthaey/repositories/usrp-sciprog/day2/exercises/evematthaey/pi_estimate/pivaluehist_{}_{}.png'.format(n, k))
@@ -32,16 +32,16 @@ def accuracy():
    '''
    num_points = []
    pi_errs = []
-   for i in range(0, 40):
-        num_points.append(100 * 1.2589**i)
-        b = Board(num_points[i])
-        pi_errs.append(b.calculate_pi() - np.pi);
+   for j in range(0, 40):
+        num_points.append(int(100 * 1.2589**j))
+        b = board.Board(int(100 * 1.2589**j))
+        pi_errs.append(b.calculate_pi()/np.pi);
 
    plt.figure()
    plt.semilogx(num_points, pi_errs)
-   plt.xlabel('log number of points on board')
-   plt.ylabel('error on pi measurement')
-   plt.savefig('pi_errors.png')
+   plt.xlabel('number of points on board')
+   plt.ylabel('measured pi / actual pi')
+   plt.savefig('/Users/evematthaey/repositories/usrp-sciprog/day2/exercises/evematthaey/pi_estimate/pi_errors.png')
    plt.close()
 
 
