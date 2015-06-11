@@ -2,10 +2,11 @@
 import sys
 
 def sum_digits(number):
-	numarr = list(number)
+	# adds individual digits in the input
 	sum = 0
-	for i in range(0,len(number)):
-		sum += int(numarr[i])
+	numstr = str(number)
+	for num in numstr:
+		sum += int(num)
 	return sum
 
 if len(sys.argv) > 2:
@@ -13,11 +14,9 @@ if len(sys.argv) > 2:
 else:
 	stop = int(sys.argv[1])**2
 
-number = sys.argv[1]
-i = int(number)
+i = 0
 counter = 1
 while i < stop:
 	i = int(sys.argv[1])*counter
-	number = str(i)
-	print sum_digits(number)
+	print sum_digits(i)
 	counter += 1
