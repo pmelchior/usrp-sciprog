@@ -14,19 +14,17 @@ def int_sum(x):
 
 import sys
 x = sys.argv[1]
-limit = int(x)**2
+limit = int(x) * int(x)
 print(len(sys.argv))
 
-if len(sys.argv) < 3:
+if len(sys.argv) ==2:
     while x <= limit:
-        sum2 = int_sum(x)
-        print(sum2)
+        print(int_sum(x))
         x += x
 
 else:
     y = sys.argv[2]
     while x <= y:
-        sum2 = int_sum(x)
-        print(sum2)
+        print(int_sum(x))
         x += x
    
