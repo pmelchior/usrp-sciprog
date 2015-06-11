@@ -1,9 +1,12 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 from __future__ import division
 
 def sum_digits(n):
+    '''
+    Returns the sum of the digits of the integer input.
+    '''
    i = 0
    while n:
        i, n = i + n % 10, n // 10
