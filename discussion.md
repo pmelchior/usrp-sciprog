@@ -15,3 +15,4 @@ Student-led discussion prompts:
 
 * Describe a small feature of your everyday research routine that you just couldn't do without and that you think others might find helpful/useful.
   * ctl + a, ctl + e, ctl + k, ctl + y in terminal/emacs/other things
+  * In Sublime Text, you can overwrite all instances of a variable using `ctl + f -> alt + enter`
