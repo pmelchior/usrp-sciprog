@@ -17,3 +17,5 @@ Student-led discussion prompts:
   * ctl + a, ctl + e, ctl + k, ctl + y in terminal/emacs/other things
   * In Sublime Text, you can overwrite all instances of a variable using `ctl + f -> alt + enter`
   * in terminal `ctl + r` look through history of commands
+  * how to make aliases: e.g. `alias computer="ssh -X user@computer.astro.princeton.edu"` --> put this in your `~/.bash_profile` file.
+  * `ls -ltrh` 
