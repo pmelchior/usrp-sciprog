@@ -14,3 +14,4 @@ Student-led discussion prompts:
   * Tried to print a big image with standard buffered image Java library and ran into maximum integer for large image! (might try to fix with PNGJ-- more optimized for large images; won't crash) 
 
 * Describe a small feature of your everyday research routine that you just couldn't do without and that you think others might find helpful/useful.
+  * ctl + a, ctl + e, ctl + k, ctl + y in terminal/emacs/other things
