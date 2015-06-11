@@ -4,11 +4,16 @@ import numpy as np
 class pi_estimator:
 
 	def __init__(self, n):
-		tosses = np.random.random_sample((n,2))
+		"""
+		Makes a sample of n points in a unit square,
+		and checks which ones lie within a unit circle,
+		estimating pi as 4* that proportion.
+		"""
+		self.tosses = np.random.random_sample((n,2))
 		self.within = 0
 
 		for i in range(n):
-			if tosses[i][0]**2+tosses[i][1]**2 < 1:
+			if self.tosses[i][0]**2+self.tosses[i][1]**2 < 1:
 				self.within+=1
 
 		self.estimate = 4*self.within/float(n)
