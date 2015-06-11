@@ -1,20 +1,14 @@
 #!/usr/bin/env python
-
-"""
- METHOD: convert given number n to a string ex. n = 555, str(n) = 'n'
- Then loop it. ex. for c in s: print c.
- This will print the string(n) as a list. Then add the parts of that list.
-"""
- 
 def sum_digits(n):
     number = str(n)
-    print sum(int(c) for c in number) #sum the digits in the string
-
+    return sum(int(c) for c in number) #use return not print
+"""This function sums the digits in a string """
 
 def sumrepeated(n, y=None): # n not defined until def () closes, so need to pass y until later
-    total = 0       
+    total = 0
+    n = int(n)
     if y is None:
-        y=n**2     
+        y = n**2     
     while total < y:
         total = int(total) + int(n)
         if total < 10:
@@ -25,8 +19,12 @@ def sumrepeated(n, y=None): # n not defined until def () closes, so need to pass
         sum_digits(y)
     else:
         pass
+"""This function repeatedly sums a number given up until the argument squared
+(if no other argument provided) or until the second argument. """
 
-sumrepeated(4)
-
-#Everything seems to work except when I run sumrepeated(4, 20) I get 3 "None"s.
-#Sumrepeated(4) prints 2 "None"s. 
+import sys
+sys.argv
+x = sys.argv[1]
+y = int(sys.argv[2])
+sumrepeated(x,y)
+print "\n"
