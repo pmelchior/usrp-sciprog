@@ -13,7 +13,8 @@ import time
 
 def generate_darts(size):
 	"""
-	Returns a specified number of [x,y] coordinate pairs in the range [-1,1)
+	Returns a specified number of [x,y] coordinate pairs in the \
+	range [-1,1)
 	"""
 	x = 2 * np.random.random(size) - 1
 	y = 2 * np.random.random(size) - 1
@@ -25,41 +26,74 @@ def is_in_circle(dart_x,dart_y):
 	"""
 	return (math.sqrt(dart_x**2 + dart_y**2) <= 1)
 
+def throw_darts(number):
+	"""
+	Throws a specified number of darts and returns the number that landed \
+	in the circle
+	"""
+	darts_x, darts_y = generate_darts(number)
+	counter = 0
+	for i in range(number):
+		if is_in_circle(darts_x[i],darts_y[i]):
+			counter +=1
+			continue
+	return counter
+
 def draw_circle(r,phi):
+	"""Converts radial coordinate pairs to Cartesian pairs
+	"""
 	return r*np.cos(phi), r*np.sin(phi)
 
+#def plot_darts(number):
 
-number = [100,1000,10000,1000000]
 
-plots = np.empty([len(number),3])
-for i,n in enumerate(number):
-	#print i,n
-	start = time.time()
-	darts_x, darts_y = generate_darts(n)
-	#print darts_x, darts_y
-	counter = 0
-	for j in range(n):
-		if is_in_circle(darts_x[j],darts_y[j]):
-			counter += 1
-			continue
 
-	plots[i,0] = 4*counter/float(n)
-	end = time.time()
-	plots[i,1] = end - start
-	plots[i,2] = math.pi - plots[i,0]
 
-phis = np.arange(0,6.28,0.01)
-r=1
 
-plt.figure(1)
-plt.plot(number,plots[:,1])
-plt.xlabel('Number of darts')
-plt.ylabel('Calculation time in seconds')
-plt.title('Runtime of pi_estimate.py')
 
-# plt.xlim(-1,1)
-# plt.ylim(-1,1)
-# plt.plot(darts_x,darts_y,c='k',',')
-# plt.plot(*draw_circle(r,phis),c='k',ls='-')
-# plt.show()
+if __init__ == "__main__":
+
+	# number = [100,1000,10000,1000000]
+
+	# plots = np.empty([len(number),2])
+	# for i,n in enumerate(number):
+	# 	start = time.time()
+	# 	counter = throw_darts(n)
+	# 	plots[i,0] = 4*counter/float(n)
+	# 	end = time.time()
+	# 	plots[i,1] = end - start
+
+
+
+	# plt.figure(1)
+	# plt.plot(number,plots[:,1])
+	# plt.xlabel('Number of darts')
+	# plt.ylabel('Calculation time in seconds')
+	# plt.title('Runtime of pi_estimate.py')
+
+
+	# darts_x, darts_y = generate_darts(100)
+	# phis = np.arange(0,6.28,0.01)
+	# r=1
+
+	# plt.figure(2)
+	# plt.xlim(-1,1)
+	# plt.ylim(-1,1)
+	# plt.plot(darts_x,darts_y,'k.')
+	# plt.plot(*draw_circle(r,phis),c='k',ls='-')
+	# plt.title('Plot of dart location of 100 darts')
+	# plt.show()
+
+	N = 100
+	trials = 30
+	estimates = np.empty(trials)
+
+	for i in range(trials):
+		counter = throw_darts(N)
+		estimates[i] = 4*counter/float(N)
+
+	plt.figure(3)
+	hist = np.histogram(estimates)
+	plt.plot(estimates,hist)
+	plt.show()
 
