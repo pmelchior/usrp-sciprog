@@ -38,3 +38,11 @@ class Pi_Series(object):
 			string_rep += str(self.estims[run]).ljust(13)
 			string_rep += " %.4f seconds" %self.times[run] + "\n"
 		return string_rep
+
+	def powerfit(self):
+		A = np.vstack([np.log(self.counts), np.ones(len(self.counts))]).T
+		m,c = np.linalg.lstsq(A, np.log(self.times))[0]
+		return np.exp(m*np.log(self.counts)+c),m
+
+	def sigmas(self):
+		return 2*np.sqrt((np.pi-np.pi**2/4)/np.array(self.counts))
