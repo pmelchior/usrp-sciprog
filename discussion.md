@@ -19,3 +19,7 @@ Student-led discussion prompts:
   * in terminal `ctl + r` look through history of commands
   * how to make aliases: e.g. `alias computer="ssh -X user@computer.astro.princeton.edu"` --> put this in your `~/.bash_profile` file.
   * `ls -ltrh` 
+  * Don't underestimate the productivity increase from more screen space. 
+    * on linux department machines-- you can switch desktops with `ctl + alt + <arrow keys>`
+  * `screen` program!  look it up.
+  * `tramp` in emacs-- allows you to edit files remotely even without (explicitly) logging on to remote machine.
