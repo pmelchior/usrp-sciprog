@@ -21,3 +21,4 @@ Student-led discussion prompts:
   * `ls -ltrh` 
   * Don't underestimate the productivity increase from more screen space. 
     * on linux department machines-- you can switch desktops with `ctl + alt + <arrow keys>`
+  * `screen` program!  look it up.
