@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import numpy as np
 import time
-import pi_estimate.estimator as es
+from . import estimator as es
 
 class Pi_Series(object):
 
@@ -25,7 +25,7 @@ class Pi_Series(object):
 		    
 		    start_time = time.time()
 		    
-		    self.estims.append(es.pi_estimator(n).estimate)
+		    self.estims.append(es.Pi_Estimator(n).estimate)
 		    #print str(self.estims[-1]).ljust(8),    
 		    
 		    self.times.append((time.time()-start_time))

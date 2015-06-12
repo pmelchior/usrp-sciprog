@@ -1,14 +1,14 @@
 #!/usr/bin/env python
 import numpy as np
 
-class pi_estimator:
-
+class Pi_Estimator:
+	"""
+	Makes a sample of n points in a unit square,
+	and checks which ones lie within a unit circle,
+	estimating pi as 4* that proportion.
+	"""
 	def __init__(self, n):
-		"""
-		Makes a sample of n points in a unit square,
-		and checks which ones lie within a unit circle,
-		estimating pi as 4* that proportion.
-		"""
+
 		self.tosses = np.random.random_sample((n,2))
 		self.within = 0
 
