@@ -1,0 +1,62 @@
+import numpy as np
+import time
+import matplotlib.pyplot as pl
+from matplotlib import rc, rcParams
+rcParams.update({'font.size': 20})
+#set up tex interpreter
+rc('text',usetex=True)
+
+
+def estimate(N):
+
+	in_count = 0
+
+	for i in range(0, N):
+		new_x = np.random.rand()
+		new_y = np.random.rand()
+
+		dist = np.sqrt((new_x - 0.5)**2 + (new_y - 0.5)**2)
+
+		if dist < 0.5:
+			in_count += 1
+
+	return float(in_count)/N*4
+
+"""
+print estimate(100)
+print estimate(1000)
+print estimate(10000)
+print estimate(1e6)
+"""
+
+def time_estimate(N):
+	start = time.time()
+
+	result = estimate(N)
+
+	end = time.time()
+
+	return [result, end - start]
+
+"""
+Nlist = np.logspace(1, 5, num=20).astype(int)
+timelist = []
+
+for n in Nlist:
+	[new_pi, new_t] = time_estimate(n)
+
+	timelist = timelist + [new_t]
+
+timelist = np.array(timelist)
+
+pl.figure(1)
+pl.clf()
+pl.hold(True)
+pl.plot(Nlist, timelist, 'r-.')
+pl.xlabel('N')
+pl.ylabel('t (s)')
+pl.xscale('log')
+pl.show()
+"""
+
+
