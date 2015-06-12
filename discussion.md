@@ -22,3 +22,4 @@ Student-led discussion prompts:
   * Don't underestimate the productivity increase from more screen space. 
     * on linux department machines-- you can switch desktops with `ctl + alt + <arrow keys>`
   * `screen` program!  look it up.
+  * `tramp` in emacs-- allows you to edit files remotely even without (explicitly) logging on to remote machine.
