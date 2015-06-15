@@ -1,3 +1,4 @@
+import string
 class Star(object):
     def __init__(self,name="Sun",mass=1.,radius=1.):
     	self.name = name
@@ -21,14 +22,21 @@ class System(object):
     	self.planets=planets
     	self.n_planets=len(planets)
     def add_planet(self,new_planet):
+    	if (new_planet.name=="Earth"): #Default, no provided
+    		new_planet.name="Demisol"
+    	suffix = ""
+    	alphabets = list(string.ascii_lowercase)
+    	#n = --- contain Demisol
+    	
+    	for i in self.planets:
+    		if i.name==	"Earth":
+    			suffix="-"+alphabets[n]
     	self.planets.append(new_planet)
     	self.n_planets+=1
-    # def __getitem__(self,idx):
-    # 	print self.planets
-    	# for i in self.planets:
-    	# 	if i.name ==idx:
-    	# 		print i
-    	# return ""
+    def __getitem__(self,idx):
+    	for i in self.planets:
+    		if i.name ==idx:
+    			return i
 
 
     def __str__(self):
