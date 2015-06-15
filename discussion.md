@@ -23,3 +23,9 @@ Student-led discussion prompts:
     * on linux department machines-- you can switch desktops with `ctl + alt + <arrow keys>`
   * `screen` program!  look it up.
   * `tramp` in emacs-- allows you to edit files remotely even without (explicitly) logging on to remote machine.
+  * `history-search-backward`: let's you search through previously typed commands at the prompt level
+  
+  
+  
+  
+  
