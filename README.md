@@ -3,7 +3,7 @@ Resources for the "Intro to Scientific Programming" mini-course for the Princeto
 Daily Schedule
 ----------
 
-* 1000-1030 (Room 33) Group Discussions
+* 1000-1030 (Room 33) Group Discussion
 * 1030-1100 (Room 33) Astro Coffee
 * 1100-1200 (Room 33) Course 1
 * 1200-1300 Lunch
