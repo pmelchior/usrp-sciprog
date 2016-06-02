@@ -11,9 +11,9 @@ flux.
 parameters (`delta, T, tau, t0`---depth, duration, ingress duration, and
     center time) and return a trapezoid as a function of time.  
 
-4.  Write a function that will take an Nx4 array of trapezoidal parameters
-and plot a different trapezoid for each row of parameters (all at the same
-   time values).
+4.  Write a function that will take an Nx4 array (or a list of 4-element
+lists/arrays) of trapezoidal parameters and plot a different trapezoid for each
+row of parameters (all at the same time values).
 
 5.  Use (4) to make four different plots that show how the trapezoid shape
 changes when you vary each parameter independently (maybe 10 examples per
