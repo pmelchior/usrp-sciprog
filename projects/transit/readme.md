@@ -34,9 +34,9 @@ data set, and display these results using (7).
 9.  Re-structure the above code using a custom-defined `TransitSignal`
 object so that you can do the following:
 
-    signal = TransitSignal(7016.01)
-    signal.plot()  # This plots only the data
-    signal.plot(params=[0.0005, 15, 3, 0.])  # this: model/data/residuals
-    best_params = signal.best_fit()
-    signal.plot(params=best_params)
+        signal = TransitSignal(7016.01)
+        signal.plot()  # This plots only the data
+        signal.plot(params=[0.0005, 15, 3, 0.])  # this: model/data/residuals
+        best_params = signal.best_fit()
+        signal.plot(params=best_params)
 
