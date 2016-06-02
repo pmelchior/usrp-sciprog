@@ -34,9 +34,13 @@ data set, and display these results using (7).
 9.  Re-structure the above code using a custom-defined `TransitSignal`
 object so that you can do the following:
 
-        signal = TransitSignal(7016.01)
+        signal = TransitSignal(7016.01) 
         signal.plot()  # This plots only the data
         signal.plot(params=[0.0005, 15, 3, 0.])  # this: model/data/residuals
         best_params = signal.best_fit()
         signal.plot(params=best_params)
+
+If you get to the point where you can do (9), you are set up to automatically
+analyze thousands of signals with just a few lines of code, as long as you have
+access to the data!
 
