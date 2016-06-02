@@ -9,8 +9,7 @@ Daily Schedule
 * 1100-1200 (Room 33) Course 1
 * 1200-1300 Lunch
 * 1300-1400 (Room 33 or NMC, tbd) Course 2
-* 1400-1415 Break
-* 1415-1430 (NMC) Discussion
+* 1400-1430 Break / Discussion time
 * 1430-1530 (NMC) Course 3
 * 1530-1630 (NMC) Open lab time
 
