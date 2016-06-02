@@ -8,7 +8,7 @@ arrays: `time` and `flux`, read from the file.
 flux.  
 
 3.  Write a function implementing the trapezoid model.  It should take four
-parameters (`delta, T, tau, t0`, or depth, duration, ingress duration, and
+parameters (`delta, T, tau, t0`---depth, duration, ingress duration, and
     center time) and return a trapezoid as a function of time.  
 
 4.  Write a function that will take an Nx4 array of trapezoidal parameters
