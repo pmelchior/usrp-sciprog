@@ -1,8 +1,8 @@
 #Fit a transiting planet signal with a trapezoid model
 
 
-1.  Write a function that takes a filename as an argument and returns two
-arrays: `time` and `flux`, read from the file.
+1.  Write a function that takes the object numer (e.g. 7016.01) as an argument
+and returns two arrays: `time` and `flux`, read from the data file.
 
 2.  Write a function that takes a filename as an argument and plots time vs.
 flux.  
