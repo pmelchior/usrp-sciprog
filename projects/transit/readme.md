@@ -41,6 +41,5 @@ object so that you can do the following:
         signal.plot(params=best_params)
 
 If you get to the point where you can do (9), you are set up to automatically
-analyze thousands of signals with just a few lines of code, as long as you have
-access to the data!
+analyze thousands of signals with just a few lines of code!
 
