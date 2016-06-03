@@ -1,6 +1,6 @@
 # Estimating the value of Pi
 
-Write a program that estimates the value of pi by the 'throw darts at a wall' method.  That is, generate random `(x,y)` points and see if they fall within the unit circle, and use these results to estimate pi.  
+Write a function that estimates the value of pi by the 'throw darts at a wall' method.  That is, generate random `(x,y)` points and see if they fall within the unit circle, and use these results to estimate pi.  
 
 * Do this estimate using 100, 1000, 10,000, and 1e6 points.  (hint: check out the [timeit](https://docs.python.org/2/library/timeit.html) module to help with timing snippets of code.)
 * How long does the calculation take for different numbers of points?  Make a figure that illustrates how the calculation time depends on the number of points.
