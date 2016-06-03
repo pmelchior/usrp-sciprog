@@ -32,6 +32,6 @@ The problem you solved so far is $Ax=b$, and errors don't occur. With errors the
 
 1. Construct the modified design matrix and data vector and get a new estimate of $H_0$. Has it changed? Use `np.dot `, `np.transpose`, and `np.linalg.inv`.
 
-2. Compute the parameter covariance matrix $S=(A^\top \Sigma^{-1} A)^{-1}$ and read off the variance of $H_0$. How large is the relative error?  Would that help with item 6) above?
+2. Compute the parameter covariance matrix $S=(A^\top \Sigma^{-1} A)^{-1}$ and read off the variance of $H_0$. Update your plot to illustrate that uncertainty. How large is the relative error?  Would that help with item 6) above?
 
-3. Compare your result from 1) with $SA^\top \Sigma^{-1}b $.
+3. Compare your result from 1) with $SA^\top \Sigma^{-1}b$.
