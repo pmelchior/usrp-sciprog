@@ -8,4 +8,4 @@ Write a program that estimates the value of pi by the 'throw darts at a wall' me
 * Run this calculation many times for a single `N` (number of darts), and plot a histogram of the results.  What is the mean and standard deviation of these estimates?
 * Make a plot that illustrates the precision of the pi estimate as a function of number of random points used.
 
-Make a notebook that demonstrates how your `pi_estimate` module works, as well as presenting the results of all your calculations.  The notebook should have minimal complicated code in it; rather, it should initialize objects and call functions defined within the `pi_estimate` module.
+Make a notebook that demonstrates how your code works, as well as presenting the results of all your calculations.  The notebook should have minimal complicated code in it; rather, it should initialize objects or call functions defined within a module you have written.
