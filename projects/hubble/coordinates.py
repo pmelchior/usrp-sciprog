@@ -1,6 +1,5 @@
-import numpy as np
-
 def Dec2Deg(dec):
+    import numpy as np
     try:
         assert not isinstance(dec, basestring)
         coord_deg = np.empty(len(dec))
@@ -10,7 +9,6 @@ def Dec2Deg(dec):
         return coord_deg
     except AssertionError:
         return Dec2Deg([dec])[0]
-
 
 def Ra2Deg(ra):
     return 15*Dec2Deg(ra)
