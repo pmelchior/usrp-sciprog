@@ -1,7 +1,7 @@
 Team bio for the URSP organizers
 --------------------------------
 
-Timothy Morton grew up in Columbus, OH, went to undergrad at Harvard, 
+Timothy Morton grew up in Columbus, OH, did his undergrad study at Harvard, 
 received his [PhD](http://thesis.library.caltech.edu/8024/) from Caltech, and moved to Princeton in 2013. His
 research focus is on the demographics of exoplanet systems, and he has done a
 lot of work in particular regarding [distinguishing true planets from astrophysical false positives](http://www.nytimes.com/2016/05/11/science/kepler-planets-nasa.html?_r=0) for the Kepler
