@@ -4,9 +4,9 @@ Team bio for the URSP organizers
 Timothy Morton received his PhD from Caltech and moved to Princeton in 2013. His
 research focus is on the demographics of exoplanet systems, and he has done a
 lot of work in particular regarding astrophysical false positives for the Kepler
-mission.  This is his third year helping to organize the URSP.  His wife is a
-cosmologist at the Institute for Advanced Study, and they have a 3 year-old son
-named Andrej.  Outside astronomy, data science, and family, his interests
+mission.  This is his third year helping to organize the URSP.  His [wife](http://www.sns.ias.edu/~verag/) is a
+cosmologist at the [Institute for Advanced Study](https://www.ias.edu/), and they have a 3 year-old son
+named [Andrej](https://www.youtube.com/watch?v=CAIhtf77jD0).  Outside astronomy, data science, and family, his interests
 include playing piano, choral music, and sports involving running, balls, or
 flying discs.
 
