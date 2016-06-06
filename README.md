@@ -19,3 +19,4 @@ Links of Interest
 ------------------
 
 * [Python intro course notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks).
+* [Fitting a model to data](http://arxiv.org/abs/1008.4686)
