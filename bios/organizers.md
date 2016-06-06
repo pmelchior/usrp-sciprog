@@ -1,7 +1,8 @@
 Team bio for the URSP organizers
 --------------------------------
 
-Timothy Morton received his [PhD](http://thesis.library.caltech.edu/8024/) from Caltech and moved to Princeton in 2013. His
+Timothy Morton grew up in Columbus, OH, did his undergrad study at Harvard, 
+received his [PhD](http://thesis.library.caltech.edu/8024/) from Caltech, and moved to Princeton in 2013. His
 research focus is on the demographics of exoplanet systems, and he has done a
 lot of work in particular regarding [distinguishing true planets from astrophysical false positives](http://www.nytimes.com/2016/05/11/science/kepler-planets-nasa.html?_r=0) for the Kepler
 mission.  This is his third year helping to organize the URSP.  His [wife](http://www.sns.ias.edu/~verag/) is a
@@ -19,3 +20,13 @@ He has been or is working on various surveys: CLASH (a large Hubble Space
 Telescope program), DES, LSST, J-PAS, and WFIRST.
 Outside work, he enjoys practicing Aikido, skiing, wind surfing, music and the
 arts.
+
+Andy Goulding received his PhD
+(http://adsabs.harvard.edu/abs/2010PhDT.......223G) from Durham
+University (UK) in 2010. He was a Smithsonian Postdoctoral Fellow at
+the Harvard-Smithsonian Center for Astrophysics from 2010-2014, and
+came to Princeton in the fall of 2014. His research focuses on the
+demographics of active galactic nuclei, and observations of the
+co-evolution of supermassive black holes and their host galaxies. This
+is his 2nd year helping with the USRP. His outside interests include
+competitive running and triathlons, skiing, diving and cinema.
