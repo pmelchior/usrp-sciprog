@@ -30,3 +30,15 @@ demographics of active galactic nuclei, and observations of the
 co-evolution of supermassive black holes and their host galaxies. This
 is his 2nd year helping with the USRP. His outside interests include
 competitive running and triathlons, skiing, diving and cinema.
+
+Nick Battaglia received his PhD
+(http://adsabs.harvard.edu/abs/2011PhDT.......270B) from the
+University of Toronto (Canada) in 2011. He was a McWilliams
+Postdoctoral fellow at Carnegie Mellon University from 2011-2014, and
+arrived in Princeton fall 2014. His research interests include
+cosmology, large-scale structure, numerical simulations, and
+reionization. He is a member of several observational cosmology
+experiments including the Atacama Cosmology Telescope, the Hyper
+Suprime Camera, and LSST. His previous outside interests included
+cooking, hiking, biking, and any sport imaginable, now they include
+stacking blocks and reading "Diggers Go" with his 16 month-old son.
