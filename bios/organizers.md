@@ -38,3 +38,5 @@ experiments including the Atacama Cosmology Telescope, the Hyper
 Suprime Camera, and LSST. His previous outside interests included
 cooking, hiking, biking, and any sport imaginable, now they include
 stacking blocks and reading "Diggers Go" with his 16 month-old son.
+
+Elinor Medezinski received her [PhD]http://www.pha.jhu.edu/~elinor/em_pthesis_110317.pdf) from Tel-Aviv University (Israel) in 2010. She was an Assistant Research Scientist (postdoc) at the Johns Hopkins University from 2010-2014, was a Postdoctoral fellow at the Racach Institute (Jerusalem, Israel) in 2015 and came to Princeton in fall 2015. Her research interest include observational cosmology, large-scale structure (in particular clusters of galaxies) and weak gravitational lensing. She has been involved several observational surveys - [CLASH](http://www.stsci.edu/~postman/CLASH/Home.html) and is currently part of the Hyper Suprime-Cam survey [HSC](http://www.naoj.org/Projects/HSC/surveyplan.html). Outside interests include traveling, photography, cooking, sailing and (mostly) surviving her toddler's terrible twos.
