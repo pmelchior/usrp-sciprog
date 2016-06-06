@@ -20,3 +20,13 @@ He has been or is working on various surveys: CLASH (a large Hubble Space
 Telescope program), DES, LSST, J-PAS, and WFIRST.
 Outside work, he enjoys practicing Aikido, skiing, wind surfing, music and the
 arts.
+
+Andy Goulding received his PhD
+(http://adsabs.harvard.edu/abs/2010PhDT.......223G) from Durham
+University (UK) in 2010. He was a Smithsonian Postdoctoral Fellow at
+the Harvard-Smithsonian Center for Astrophysics from 2010-2014, and
+came to Princeton in the fall of 2014. His research focuses on the
+demographics of active galactic nuclei, and observations of the
+co-evolution of supermassive black holes and their host galaxies. This
+is his 2nd year helping with the USRP. His outside interests include
+competitive running and triathlons, skiing, diving and cinema.
