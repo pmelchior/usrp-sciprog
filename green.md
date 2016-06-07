@@ -1,0 +1,1 @@
+Xzavier Flowers is a rising Sophomore at Florida Institute of Technology. He is majoring in Astronomy and Astrophysics. His favorite color is blue. Xzavier is really glad that was accepted to be a participant at Princeton University's Astro 2016 USRP. 
