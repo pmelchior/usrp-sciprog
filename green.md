@@ -1,1 +1,3 @@
 Xzavier Flowers is a rising Sophomore at Florida Institute of Technology. He is majoring in Astronomy and Astrophysics. His favorite color is blue. Xzavier is really glad that was accepted to be a participant at Princeton University's Astro 2016 USRP. 
+
+Katelyn Neese was born and raised in Norfolk, Virginia. She is a rising senior at Princeton University and is majoring in Astrophysics with the intent to go to graduate school. Her family at home consists of her mother, father, younger brother and younger sister. Outside of school, her hobbies include writing fiction, fishkeeping, running and rowing.
