@@ -4,3 +4,5 @@ Sam Cabot was created in stardate 9508 on the planet Zircon. His family was forc
 
 Amanda Newmark really likes chocolate. Dark chocolate. Not white chocolate; it isn't even real chocoalte!
 
+Anna Juranova is a second year student of astrophysics at Masaryk University in Brno, Czech Republic. She used to dance a lot, but that was a long time ago in a galaxy far far away. And she doesn't know what to write into her bio.
+
