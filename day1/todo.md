@@ -1,6 +1,6 @@
-# Day 1 (Tuesday, June 7)
+# Day 1 to-do checklist.
 
-Everyone should be able to do the following by the end of the day:
+Everyone should be able to do the following by the end of today:
 
 1. Choose a department computer for the summer, and log on to it. 
 

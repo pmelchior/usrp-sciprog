@@ -15,9 +15,9 @@ You probably have a laptop, some code has to run on supercomputing clusters, you
 
 Another way to think of this-- portable, self-contained code. 
 
-**FACT OF LIFE 3**: Very few professional scientists ever receive explicit training in how to do the above (programming, making your work portable/reproducible).
+**FACT OF LIFE 3**: Very few professional scientists ever receive explicit training in how to do the above (programming, making your work portable/reproducible).  You are fortunate to be here!
 
-**NON-NEGOTIABLE**:  Use version control (git) for everything.  Starting now.  Probably no one has made you do this before, but now is as good a time as any to start.  
+**NON-NEGOTIABLE**:  Use version control (git) for everything.  Starting now (as soon as you know how to).  Probably no one has made you do this before, but now is as good a time as any to start.  
 
 Principles to keep in mind:
 
