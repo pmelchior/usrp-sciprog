@@ -1,44 +1,43 @@
-# Day 1 (Tuesday, June 7)
+Intro to Day 1
+==============
 
-Everyone should be able to do the following by the end of the day:
+“Scientific computing”: broad definition.  We all use our computers to do our research; lots of it is coding, but not all.  In order to be most productive/effective researchers, we have to use the computer well.
 
-1. Choose a department computer for the summer, and log on to it. 
+**FACT OF LIFE 1**: Every research project you do will involve some coding.  
 
-2. Do the following from from a terminal (on both laptop and desktop, if, e.g., you are running Windows):
-	* Create a new directory
-	* Navigate between directories
-	* List the contents of a directory
-	* List all the contents of a directory matching a given pattern (e.g., all files with names ending with '.py')
-	* Create a blank file with a given name.
-	* Open a '.py' file with your favorite text editor supporting syntax highlighting/formatting (e.g., vi, emacs, SublimeText, etc.)
-	* Delete a file
-	* Delete a directory and all its contents (Be careful with this one!)
-	* Rename a file/directory
-	* Use `ssh` to log on to your department computer from your laptop.  This will require [setting up an "ssh key"](http://www.astro.princeton.edu/docs/SSH#Keys).
-	* Use `scp` to do both of the following:
-		* transfer a single file between your laptop and your department computer.
-		* transfer an entire directory & its contents between your laptop and your department computer.
-	* Understand the concept of "environment variables" and how to set them, both temporarily and permanently.  Especially understand what the `PATH` variable represents. 
-	
-3. Be comfortable with the following basic git/Github skills (we will practice these together with the "team bio" exercise):
-	* Understand what the terms 'repository', 'clone', 'fork', 'commit', 'push', 'pull', 'merge' mean
-	* Create a new repository on Github
-	* Fork someone else's repository from Github
-	* Clone an existing repository to your local computer.
-	* Add new files to a repository
-	* Change existing files, commit those changes locally, and push those changes to Github.
-	* Pull changes that other people have made onto your local repository.
+Use Python as much as possible.   Unless you are doing serious numerical computational work, you should have no need for compiled languages.  Don’t use IDL if you can help it.  MatLab is nice for some things but (a) licensed/expensive, and (b) not Python.
 
-4. Install [Anaconda](https://www.continuum.io/downloads) on both your personal computer and your department computer.
+**FACT OF LIFE 2**:  You will almost certainly have to work on multiple computers.
 
-5. Print "Hello World!" from all of the following:
-	* `python` command line
-	* `ipython` command line
-	* a `jupyter` python notebook
-	* executing a `hello.py` script from the command line.
+You probably have a laptop, some code has to run on supercomputing clusters, you have your office/department computer with access to data, etc. etc.  It’s good to know ways to do this gracefully.
 
-6. 	Use a combination of `ssh` and VNC to "remote desktop" into your department computer.  This requires the following steps:
-	* Go to System->Preferences->Remote Desktop on your desktop, make sure "allow other uses to view" and "allow other users to control" are checked, and then "require the user to enter this password" is also checked (use a password different from your astro department login).  Also make sure "You must confirm each access" is *not* checked.
-	* From a terminal on your laptop, run `ssh -L 5901:localhost:5900 user@computer.astro.princeton.edu`.  If you've ssh'd successfully before, this should work.
-	* From your laptop, use a VNC program to connect to `vnc://localhost:5901`.  If you have a Mac, the easiest way to do this is to click on the desktop (so 'Finder' is active), press Apple+k, and then enter `vnc://localhost:5901` as the server address.
-	
+**IDEAL**:  Any project you do should be 100% reproducible--- this could mean either by someone else, or by yourself in six months when you’ve forgotten everything but have to return to a project.
+
+Another way to think of this-- portable, self-contained code. 
+
+**FACT OF LIFE 3**: Very few professional scientists ever receive explicit training in how to do the above (programming, making your work portable/reproducible).
+
+**NON-NEGOTIABLE**:  Use version control (git) for everything.  Starting now.  Probably no one has made you do this before, but now is as good a time as any to start.  
+
+Principles to keep in mind:
+
+* Good project organization may take a little bit more time on the front end, but is 100% worth it.
+* Model, model, model!  Check out other folks’ code/projects and see what works!  (Full disclosure: this is how I’ve learned pretty much everything that I know.)
+
+##Purpose of this week
+
+* Basic familiarity with scientific computing using python
+* Basic familiarity with git/github
+
+**FACT**: All of you have a wide variety of experience.  [Informal poll: "about how many .py files do you think you've written?"]  
+
+Those of you with more experience, your practice this week may be more about teaching rather than learning---but as you will discover, you only really understand something if you can teach it!  
+
+## Today's goals
+
+* Intro to git
+	* Why git?
+	* What is git?
+	* How to use git?
+* 'Hello World!' using python (multiple ways)
+* By the end of the day, everyone here should be able to do everything on [this list](todo.md).  If you have checked all these off yourself, find someone to help!  
