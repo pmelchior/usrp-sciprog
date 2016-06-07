@@ -28,6 +28,7 @@ Principles to keep in mind:
 
 * Basic familiarity with scientific computing using python
 * Basic familiarity with git/github
+* Complete at least one mini-project with a team!
 
 **FACT**: All of you have a wide variety of experience.  [Informal poll: "about how many .py files do you think you've written?"]  
 
