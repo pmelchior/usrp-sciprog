@@ -32,7 +32,7 @@ Principles to keep in mind:
 
 **FACT**: All of you have a wide variety of experience.  [Informal poll: "about how many .py files do you think you've written?"]  
 
-Those of you with more experience, your practice this week may be more about teaching rather than learning---but as you will discover, you only really understand something if you can teach it!  
+For those of you with more experience, your practice this week may be more about teaching rather than learning---but as you will discover, you only really understand something if you can teach it!  
 
 ## Today's goals
 
