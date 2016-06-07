@@ -1,0 +1,1 @@
+Natalie Diaz grew up in the one and only 703 (Northern Virginia woohoo). She has a younger sister, Linda, and a hermit crab, Kitty. She loves music, books, and sunny days. She’s thrilled to be a part of USRP this summer and is excited to learn some astrophysics. Ad astra! 
