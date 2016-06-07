@@ -111,8 +111,6 @@ You may find yourself in a position where you want to contribute to a GitHub rep
 6.  On GitHub, create a pull request following [these instructions]( https://help.github.com/articles/creating-a-pull-request/) (or actually, there should be a helpful little "create pull request" button on your repo page after you push, to shortcut this process).
 7.  The owner of the repo can then review it and decide whether/when to merge it in, and can also make comments.  You can continue to push changes to this branch while the pull request is still open.
 
-To practice this, each team should create a "team bio" and submit it to this repository as a pull request.  To do this, **one** member of each team should fork this `usrp-sciprog` repository and add all team members as collaborators (so everyone has push access).  Create a bio file and have everyone edit by adding his/her own paragraph (see the [organizers' bio](../bios/organizers.md) for an example).  When you have a finished bio on your team's fork, then submit the pull request.
-
 **Note:** when you have a forked repository, often the "upstream" (original) repo will be updated and you will want to incorporate those changes into your local forked copy.  This is how to do that:
 
 
