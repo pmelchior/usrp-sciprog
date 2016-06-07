@@ -39,5 +39,6 @@ Those of you with more experience, your practice this week may be more about tea
 	* Why git?
 	* What is git?
 	* How to use git?
+* Practice collaborating with git: write a "team bio."
 * 'Hello World!' using python (multiple ways)
 * By the end of the day, everyone here should be able to do everything on [this list](todo.md).  If you have checked all these off yourself, find someone to help!  
