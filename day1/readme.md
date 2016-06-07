@@ -1,4 +1,4 @@
-#Purpose of this week
+#The purpose of this week
 
 * Basic familiarity with scientific computing using python
 * Basic familiarity with git/github
