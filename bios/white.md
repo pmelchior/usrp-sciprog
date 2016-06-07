@@ -1,0 +1,1 @@
+Carlos Anicetti was born in Vallejo, California, on 25 March 1997. He now lives in Tiburon. In addition to astrophysics, he enjoys volunteering at his local observatory, jogging, Roman history, and utterly failing to play video games with any sort of proficiency. He has a cat, who really more owns him rather than the other way around. He is quite excited for USRP.
