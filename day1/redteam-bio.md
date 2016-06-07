@@ -1,0 +1,1 @@
+*I am Nondh Panithanpaisal. I am from Bangkok, Thailand. I have lived in Thailand for 18years where I graduated from a public high school there. I decided to come to the USA in 2013 when I got a scholarship from Thai government to get a PhD in Astrophysics in the US.*
