@@ -4,7 +4,7 @@
 * Basic familiarity with git/github
 * Complete at least one mini-project with a team!
 
-**FACT**: All of you have a wide variety of experience.  [Informal poll: "about how many .py files do you think you've written?"]  
+**FACT**: All of you have a wide variety of experience.  [Informal poll: "How many .py files do you estimate you've written?"]  
 
 For those of you with more experience, your practice this week may be more about teaching rather than learning---but as you will discover, you only really understand something if you can teach it!  
 
