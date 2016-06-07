@@ -95,36 +95,27 @@ Using branches will make more sense when you are actually working with code, but
 		$ git branch
 		* master
 
-Collaborating: Submitting a pull request
+Collaborating: Forking & submitting a pull request
 ---------------
 		
 You may find yourself in a position where you want to contribute to a GitHub repository that is not yours.  In this case, you can't just clone -> make changes -> push, because you will not have push access to the repository (that is, unless you've been explicitly added as a collaborator).  Instead, you have to go through a process called a "pull request," whereby you submit a branch to the repo owner, and she gets to decide whether to merge that branch in.  The process to do this is the following:
 
 1.  Fork the repository (press the "Fork" button on GitHub), which creates for you a linked---but totally independent---copy of the entire original repository that you now own.
 2.  Clone **your** version of the repository onto your machine.
-3.  Create a new branch (e.g., 'tdm-edits')
+3.  [optional, but recommended] Create a new branch (e.g., 'tdm-edits')
 4.  Make any desired changes on this branch.
-5.  Push this branch back to your repo:
+5.  Push this branch (or just the master branch with `git push` if you did not create a new branch) back to your repo:
 
 		$ git push origin tdm-edits
-
+		
 6.  On GitHub, create a pull request following [these instructions]( https://help.github.com/articles/creating-a-pull-request/) (or actually, there should be a helpful little "create pull request" button on your repo page after you push, to shortcut this process).
 7.  The owner of the repo can then review it and decide whether/when to merge it in, and can also make comments.  You can continue to push changes to this branch while the pull request is still open.
 
-**You should submit your solutions to each exercise via a pull request, following this pattern** (after forking this repo to your account):
-
-	$ git clone git@github.com:yourgithubname/usrp-sciprog
-	$ cd usrp-sciprog/day1/exercises
-	$ git checkout -b day1-ex1
-	$ mkdir yourname
-	<write your hello.py (or whatever) in this folder, add/commit as needed>
-	$ git push origin day1-ex1
-
-Once the pull request is merged, you can feel free to delete this branch.
+To practice this, each team should create a "team bio" and submit it to this repository as a pull request.  To do this, **one** member of each team should fork this `usrp-sciprog` repository and add all team members as collaborators (so everyone has push access).  Create a bio file and have everyone edit by adding his/her own paragraph (see the [organizers' bio](../bios/organizers.md) for an example).  When you have a finished bio on your team's fork, then submit the pull request.
 
 **Note:** when you have a forked repository, often the "upstream" (original) repo will be updated and you will want to incorporate those changes into your local forked copy.  This is how to do that:
 
-	
+
 	$ git remote add upstream git@github.com:timothydmorton/usrp-sciprog
 	$ git fetch upstream
 	$ git checkout master
