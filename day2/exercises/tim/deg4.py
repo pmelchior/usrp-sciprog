@@ -1,5 +1,5 @@
 """
-Tim's solution to deg.py with the following formatting:
+Tim's solution
 
 store a list of radians and a list of cosines
 
