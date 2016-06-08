@@ -4,7 +4,7 @@
 1.  Write a function that takes the object numer (e.g. 7016.01) as an argument
 and returns two arrays: `time` and `flux`, read from the data file ('data/7016.01.txt').  
 
-2.  Write a function that takes a filename as an argument and plots time vs.
+2.  Write a function that takes the object number as an argument and plots time vs.
 flux of the data returned by (1).  
 
 3.  Write a function implementing the trapezoid model.  It should take four
