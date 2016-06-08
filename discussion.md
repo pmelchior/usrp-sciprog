@@ -1,10 +1,12 @@
 Student-led discussion prompts:
 
 * Explain something you've recently learned about scientific programming (in the broad sense; maybe a Python trick, maybe a command-line tool, maybe an organizational app, etc.), and why you've found it useful.
+    * Jupyter notebook is very useful!
     
 * Give a summary of a recent [astrobites](http://astrobites.org) post or astro-ph paper (or other cool science) you found interesting.
 
 * Describe a recent situation where you were confused about something, and then figured it out. (odds are you won't be the only one to be confused about this same thing!)
+	* `cygstart` in cygwin opens files, analogous to `open` on a mac.
 
 * Describe a small feature of your everyday research routine that you just couldn't do without and that you think others might find helpful/useful.
   * Previous examples from 2015:
@@ -18,6 +20,7 @@ Student-led discussion prompts:
     * `screen` program!  look it up.
     * `tramp` in emacs-- allows you to edit files remotely even without (explicitly) logging on to remote machine.
     * `history-search-backward`: let's you search through previously typed commands at the prompt level
+    * change the `PS1` environment variable to make your shell prompt look different
   
   
   
