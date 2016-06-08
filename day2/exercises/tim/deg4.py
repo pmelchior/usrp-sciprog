@@ -22,4 +22,3 @@ print('degrees radians cosines')
 for deg, rad, cos in zip(degrees, radians, cosines):
     print('{:-7.0f} {:7.5f} {:-9f}'.format(deg, rad, cos))
 
-
