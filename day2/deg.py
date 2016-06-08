@@ -1,4 +1,6 @@
-#Tim's solution to deg.py
+"""
+Tim's solution to deg.py
+"""
 
 from math import pi
 for deg in range(0,181,10):
