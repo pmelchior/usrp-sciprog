@@ -23,7 +23,12 @@ Student-led discussion prompts:
     * You can change the `PS1` environment variable to make your shell prompt look different
     * `history` lists previous commands; you can then execute `!123` (for example) to re-execute line 123 from your history.
     * `touch <filename>` creates a blank file that didn't exist before.
-  
+    * `zip` to iterate over multiple things at once in python
+    * `enumerate` is useful in python!
+    * code editors
+    	* TextWrangler
+    	* SublimeText (recommended!)
+	* There are GUIs for git:  e.g., Github Desktop, SourceTree
   
   
   
