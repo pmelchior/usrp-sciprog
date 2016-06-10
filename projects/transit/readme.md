@@ -21,7 +21,7 @@ data, and make a plot of the residuals (data - model) in a subplot.  Your
 first guess doesn't have to be spot-on---the residuals should tell you where
 you're off the most.
 
-6.  Use what you did in (5) to write a function that takes a filename and a
+6.  Use what you did in (5) to write a function that takes the object number and a
 parameter vector, and then makes the data + models + residuals plot.
 
 7.  Use [scipy.optimize.minimize](http://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html#scipy.optimize.minimize) to find the best-fit parameters for the 7016.01
