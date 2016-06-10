@@ -29,6 +29,7 @@ Student-led discussion prompts:
     	* TextWrangler
     	* SublimeText (recommended!)
 	* There are GUIs for git:  e.g., Github Desktop, SourceTree
+	* Overleaf for latex documents for online/collaborative editing
   
   
   
