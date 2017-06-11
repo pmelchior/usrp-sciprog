@@ -3,7 +3,7 @@ Resources for the "Intro to Scientific Programming" mini-course for the Princeto
 Daily Schedule
 ----------
 
-
+Rooms 33 and 30 are both in the Peyton Hall basement.
 
 * 0930-1000 "Office Hours"
 * 1000-1030  Group Discussion
