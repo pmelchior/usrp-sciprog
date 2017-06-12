@@ -30,7 +30,8 @@ Day 2 Exercises: Basic numpy & matplotlib
    It should return an array with the same shape as the input x or y array. The
    Gaussian function is:
 
-   $G({\bf x} \,|\, {\bf \mu},\Sigma) = \exp\left[-\frac{1}{2} \, (\vec{x} - \vec{\mu})^T \, \Sigma^{-1} \,(\vec{x} - \vec{\mu})\right]$
+   ![Gaussian](gaussian.png)
+
 
    for mean vector $\vec{\mu}$ and covariance matrix $\Sigma$.
 
