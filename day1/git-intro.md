@@ -12,36 +12,30 @@ Initial Exploration
 
 3. Clone this repository onto your computer (suggestion, make a 'respositories' directory under your home directory and clone it there):
 
-   ​
-
-   ​		$ cd
+   		$ cd
     		$ mkdir repositories
     		$ cd repositories
     		$ git clone  https://github.com/username/reponame.git  (or git clone git@github.com:username/reponame)
-
-   ​
 
 4. Edit the readme file on your laptop to include a sentence or two describing your project.
 
 5. Commit these changes and push them back to GitHub:
 
-   $ git commit -am 'descriptive but concise message'
+   	$ git commit -am 'descriptive but concise message'
    	$ git push
-   ​
-
+	
 6. Now, open another terminal, ssh into your department computer and repeat steps 2-4 (making some additional changes to the readme file this time).  
 
 7. Back on your laptop, pull these new changes
-   ​	
-   $ git pull 
-   ​	
+ 
+   	$ git pull 
+   	
    And that's how to 'sync' a repository between computers. Note: you can also edit files/commit changes directly on GitHub.  
 
 8. Now, create a new file (maybe called notes.txt or something) and put in some content.  To have git recognize and track this new file, you first have to add it to the repository; after which you can commit the changes.
 
-   $ git add notes.txt
+   	$ git add notes.txt
    	$ git commit -am 'added notes file' 
-   ​
 
 To summarize, this is what a typical simple workflow should look like:
 
