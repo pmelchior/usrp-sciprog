@@ -6,32 +6,34 @@ After going through this mini tutorial, definitely take some time to read [this]
 Initial Exploration
 -------------------
 
-1. Make a repository on GitHub for your research this summer.  Give it a useful name, related to the science (e.g., not usrp-2015).  
+1. If you don't already, create an account on github.com
 
-2. Clone this repository onto your computer (suggestion, make a 'respositories' directory under your home directory and clone it there):
+2. Make a repository on GitHub for your research this summer.  Give it a useful name, related to the science (e.g., not usrp-2015).  
+
+3. Clone this repository onto your computer (suggestion, make a 'respositories' directory under your home directory and clone it there):
 
    $ cd
     	$ mkdir repositories
     	$ cd repositories
     	$ git clone git@github.com:username/reponame  (or git clone https://github.com/username/reponame.git)
 
-3. Edit the readme file on your laptop to include a sentence or two describing your project.
+4. Edit the readme file on your laptop to include a sentence or two describing your project.
 
-4. Commit these changes and push them back to GitHub:
+5. Commit these changes and push them back to GitHub:
 
    $ git commit -am 'descriptive but concise message'
    	$ git push
    ​
 
-5. Now, open another terminal, ssh into your department computer and repeat steps 2-4 (making some additional changes to the readme file this time).  
+6. Now, open another terminal, ssh into your department computer and repeat steps 2-4 (making some additional changes to the readme file this time).  
 
-6. Back on your laptop, pull these new changes
+7. Back on your laptop, pull these new changes
    ​	
    $ git pull 
    ​	
    And that's how to 'sync' a repository between computers. Note: you can also edit files/commit changes directly on GitHub.  
 
-7. Now, create a new file (maybe called notes.txt or something) and put in some content.  To have git recognize and track this new file, you first have to add it to the repository; after which you can commit the changes.
+8. Now, create a new file (maybe called notes.txt or something) and put in some content.  To have git recognize and track this new file, you first have to add it to the repository; after which you can commit the changes.
 
    $ git add notes.txt
    	$ git commit -am 'added notes file' 
