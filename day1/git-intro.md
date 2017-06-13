@@ -44,9 +44,11 @@ To summarize, this is what a typical simple workflow should look like:
 		$ cd /path/to/my/project/dir
 		$ git pull
 		<edit and/or add some files>
-		$ git commit -am 'briefly describe changes'
+		$ git add <files I edited>
+		$ git commit -m 'briefly describe changes'
 		<edit some more>
-		$ git commit -am 'more changes'
+		$ git add <files I edited>
+		$ git commit -m 'more changes'
 		<when you're ready to stand up from computer>
 		$ git push
 
