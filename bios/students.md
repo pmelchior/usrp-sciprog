@@ -1,1 +1,1 @@
-Max Jerdee will be a Sophmore at Princeton next year. He'll be working with Peter Melchior this summer on developing algorithms to discern the properties of overlapping galaxies
+Max Jerdee will be a Sophmore at Princeton next year planning to major in Physics, Astrophysics, or Math. He'll be working with Peter Melchior this summer on developing algorithms to discern the properties of overlapping galaxies. 
