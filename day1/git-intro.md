@@ -12,10 +12,10 @@ Initial Exploration
 
 3. Clone this repository onto your computer (suggestion, make a 'respositories' directory under your home directory and clone it there):
 
-   $ cd
+   ​	$ cd
     	$ mkdir repositories
     	$ cd repositories
-    	$ git clone git@github.com:username/reponame  (or git clone https://github.com/username/reponame.git)
+    	$ git clone  https://github.com/username/reponame.git  (or git clone git@github.com:username/reponame)
 
 4. Edit the readme file on your laptop to include a sentence or two describing your project.
 
