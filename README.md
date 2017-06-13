@@ -3,16 +3,14 @@ Resources for the "Intro to Scientific Programming" mini-course for the Princeto
 Daily Schedule
 ----------
 
-Rooms 33 and 30 are both in the Peyton Hall basement.
-
-* 0930-1000 "Office Hours"
-* 1000-1030  Group Discussion
+* 0930-1000 "Office Hours"  (Peyton Room 30)
+* 1000-1030  Group Discussion (Peyton Room 33)
 * 1030-1100  Astro Coffee
-* 1100-1200  Course 1
+* 1100-1200  Course 1 (Room 33/30)
 * 1200-1300  Lunch
-* 1300-1400  Course 2
-* 1400-1430  Break / Discussion time
-* 1430-1630  Course 3 / Open lab time
+* 1300-1400  Group exercise work (Room 30)
+* 1400-1430  Break 
+* 1430-1630  Course 3 / Open lab time (Lewis Library computer lab)
 
 
 Links of Interest
