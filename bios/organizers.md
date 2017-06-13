@@ -15,8 +15,7 @@ He has been or is working on various surveys: [CLASH](http://www.stsci.edu/~post
 Outside work, he enjoys practicing Aikido, skiing, wind surfing, music and the
 arts.
 
-Andy Goulding received his [PhD]
-(http://adsabs.harvard.edu/abs/2010PhDT.......223G) from Durham
+Andy Goulding received his [PhD](http://adsabs.harvard.edu/abs/2010PhDT.......223G) from Durham
 University (UK) in 2010. He was a Smithsonian Postdoctoral Fellow at
 the Harvard-Smithsonian Center for Astrophysics from 2010-2014, and
 came to Princeton in the fall of 2014. His research focuses on the
