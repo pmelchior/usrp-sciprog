@@ -37,6 +37,7 @@ Initial Exploration
 
    		$ git add notes.txt
    		$ git commit -m 'added notes file'
+   		$ git push
 
 To summarize, this is what a typical simple workflow should look like:
 
