@@ -1,0 +1,1 @@
+Lucas Makinen is an undergraduate student at Princeton University from Alexandria, Virginia. He is currently pursuing the physics major, and has participated in several  research projects in the past with the Naval Research Laboratory in Washington, DC. In his spare time Lucas plays trumpet in the University Orchestra and Jazz Ensemble.
