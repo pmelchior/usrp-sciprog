@@ -1,5 +1,5 @@
 # usrp-sciprog
-Resources for the "Intro to Scientific Programming" mini-course for the Princeton Undergraduate Summer Research Program, June 13-16, 2017. 
+Resources for the "Intro to Scientific Programming" mini-course for the Princeton Undergraduate Summer Research Program, June 13-16, 2017.  I'm Tim and I want this line to say this.
 Daily Schedule
 ----------
 
