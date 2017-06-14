@@ -1,11 +1,10 @@
-#!/usr/bin/env python
-
 sentence = ""
-while True:	
-	word =  input("Enter somethin: ")
-	if (word=="!" or word=="?" or word=="."):
-		print(sentence)
-		sentence = sentence + word
-		exit()
-	else:
-		sentence = sentence + word + " "
+while True:
+    word = input("Enter a word (. ! or ? to end): ")
+    if (word=="!" or word=="?" or word=="."):
+        sentence = sentence.rstrip()
+        sentence = sentence + word
+        print(sentence)
+        exit()
+    else:
+        sentence += word + " "
