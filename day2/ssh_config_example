@@ -1,0 +1,5 @@
+# Create a file at ~/.ssh/config (or edit it if there is one already)
+Host leda
+HostName leda.astro.princeton.edu
+User adrn
+ForwardAgent yes
