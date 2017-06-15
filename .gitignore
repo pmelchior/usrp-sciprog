@@ -12,5 +12,6 @@
 *.toc
 Papers/*
 LaTeX/SOMETHING.pdf
+*.pyc
 python/__pycache__/
 .ipynb_checkpoints/
