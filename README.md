@@ -1,5 +1,6 @@
 # usrp-sciprog
-Resources for the "Intro to Scientific Programming" mini-course for the Princeton Undergraduate Summer Research Program, June 13-16, 2017. 
+Resources for the "Intro to Scientific Programming" mini-course for the Princeton Undergraduate Summer Research Program, June 13-16, 2017.
+
 Daily Schedule
 ----------
 
@@ -9,7 +10,7 @@ Daily Schedule
 * 1100-1200  Course 1 (Room 33/30)
 * 1200-1300  Lunch
 * 1300-1400  Group exercise work (Room 30)
-* 1400-1430  Break 
+* 1400-1430  Break
 * 1430-1630  Course 3 / Open lab time (Lewis Library computer lab)
 
 
