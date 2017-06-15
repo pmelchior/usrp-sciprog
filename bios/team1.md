@@ -1,0 +1,10 @@
+Max Jerdee will be a Sophmore at Princeton next year planning to major in Physics, Astrophysics, or Math. He'll be working with Peter Melchior this summer on developing algorithms to discern the properties of overlapping galaxies. 
+
+Yashodhar Govil was born in India, and has been constantly moving around since then. Before college, he had spent around 7 years in the US, including 4 years living in Princeton. He will be a Sophomore at Princeton next year. He'll be working with Renyue Cen to mine state-of-the-art data on redshifted galaxies.
+
+Madelyn Broome is a rising Junior at Princeton. She will be working with Nate Lust on developing a program that can perform a spectral analysis on raw data from the LSST (to the best of her understanding).
+
+Emery Trott grew up in Williamsburg, VA where he played baseball, soccer, and basketball at Lafayette High School. He graduated from Haverford College as an astrophysics major in the Spring of 2017. His younger brother [Reeves](http://www.tribeathletics.com/roster.aspx?rp_id=6993) just finished his freshman year at the College of William & Mary where he plays soccer and plans on pursuing a computer science major. Emery is interested in cosmology, specifically probing the nature of dark matter and dark energy using power spectra from galaxy surveys and the cosmic microwave background. His first research project was analyzing simulations to determine the detectability of multiplicity in high-redshift submillimeter galaxies with [Desika Narayanan](http://desika.haverford.edu/). Over the past year he has worked with [Daniel Grin](http://danielgrin.net/) and [Tristan Smith](https://darkuniverse.swarthmore.edu/) to complete his thesis on forecasting the sensitivity of the Large Synoptic Survey Telescope [(LSST)](https://www.lsst.org/) to ultra-light dark matter axions. This summer he will be working with [Vera Gluscevic](http://www.sns.ias.edu/~verag/) on forecasting the sensitivity of the Atacama Cosmology Telescope to drag force interactions between dark matter and baryonic matter prior to recombination.
+
+
+
