@@ -1,6 +1,6 @@
 class Star:
     
-    def __init__(self, mass = 1., radius = 0.5, name = 'Sol'):
+    def __init__(self, mass = 1., radius = 1., name = 'Sol'):
         self.mass = mass
         self.radius = radius
         self.name = name
@@ -29,7 +29,7 @@ class System:
 
     def __init__(self, star, planets):
         self.star = star
-        self.planets = planets
+        self.planets = reversed(planets)
         self.n_planets = len(planets)
         
     def __str__(self):
@@ -37,6 +37,11 @@ class System:
         for planet in self.planets:
             string = string + '\n  ' + str(planet)
         return string
+
+    def __getitem__(self, key):
+        if key == self.star.name: return self.star
+        for planet in self.planets:
+            if key == planet.name: return self.planet
 
     def add_planet(self, planet):
         self.planets.append(planet)
