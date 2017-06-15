@@ -1,4 +1,4 @@
-Student-led discussion prompts:
+Edited!Student-led discussion prompts:
 
 * Explain something you've recently learned about scientific programming (in the broad sense; maybe a Python trick, maybe a command-line tool, maybe an organizational app, etc.), and why you've found it useful.
 
