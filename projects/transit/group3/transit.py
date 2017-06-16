@@ -62,26 +62,28 @@ def vary_t0(t0s):
     plt.ylim(-250,50)
     return
 
-def plot_fit(7016.01, param_guess):
-    t,f = tr.read_data(7016.01)
-    plt.ylim(-600, 600)
-
-    fig = plt.figure(figsize=(6, 4))
+def plot_fit(filenum, param_guess):
+    t,f = read_data(filenum)
+    
+    fig, (sub1, sub2) = plt.subplots(2, sharex=True, sharey=True, gridspec_kw = {'height_ratios':[5, 2]})
     fig.text(0.5, 0.04, "Time from mid-transit [days]", ha='center')
-    fig.text(0.04, 0.5, 'Relative Flux', va='center', rotation='vertical')
+    fig.text(0.04, 0.5, 'Relative Flux [PPM]', va='center', rotation='vertical')
 
-    sub1 = fig.add_subplot(221) 
     trap1 = trapezoid(param_guess, t)
     sub1.scatter(t, f)
     sub1.plot(t, trap1)
 
-    newf = f - f2
+    newf = f - trap1
 
-    sub2 = fig.add_subplot(222)
     sub2.scatter(t, newf)
 
     trap2 = np.zeros(len(t))
     sub2.plot(t, trap2)
+
+    fig.subplots_adjust(hspace=0)
+    plt.setp([a.get_xticklabels() for a in fig.axes[:-1]], visible=False)
+    plt.ylim(-600, 600)
+
 
     return
 
