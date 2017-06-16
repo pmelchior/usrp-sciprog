@@ -40,7 +40,7 @@ def vary_depth(depths):
 def vary_duration(durations):
     for T in durations:
         pars = [0, T, 0.2, 200]
-        t = np.linspace(-2,2)
+        t = np.linspace(-2,2,1000)
         plt.plot(t, trapezoid(pars,t))
     plt.ylim(-250, 50)
     return
