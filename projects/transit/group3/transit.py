@@ -21,7 +21,7 @@ def plot_data(ob_num):
 def trapezoid(pars, t):
     f = np.zeros(len(t))
     t0, T, tau, depth = pars
-    ins = (t > (t0 - T/2)) & (t <= (t0 - T/2 + tau))
+    ins = -(t > (t0 - T/2)) & (t <= (t0 - T/2 + tau))
     ins = -ins * (t - t0 + T/2) * depth/tau
 
     return f + ins
