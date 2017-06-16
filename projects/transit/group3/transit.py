@@ -18,7 +18,7 @@ def plot_data(ob_num):
     plt.ylabel('Relative Flux [PPM]')
     pass
 
-def trapezoid(pars, t):
+def trapezoid(pars,t):
     f = np.zeros(len(t))
     t0, T, tau, depth = pars
     int = (t > (t0 - T/2)) & (t <= (t0 - T/2 + tau))
@@ -29,7 +29,12 @@ def trapezoid(pars, t):
     
     return inf * int - mid * depth + out * outf
 
-def vary_depth():
+def vary_depth(depths):
+    for i in depths:
+        pars = [0, 1.0, 0.2, i]
+        t=np.linspace(-2,2)
+        plt.plot(t, trapezoid(pars,t))
+    plt.ylim(-2017,50)
     pass
 
 def vary_duration():
