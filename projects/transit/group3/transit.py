@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from scipy.optimize import minimize
 
 def read_data(ob_num):
     with open('../data/'+str(ob_num)+'.txt') as f: 
@@ -63,27 +64,36 @@ def vary_t0(t0s):
 
 def plot_fit(filenum, param_guess):
     t,f = read_data(filenum)
-    plt.ylim(-600, 600)
+    
+    fig, (sub1, sub2) = plt.subplots(2, sharex=True, sharey=True, gridspec_kw = {'height_ratios':[5, 2]})
 
-    fig = plt.figure(figsize=(6, 4))
     fig.text(0.5, 0.04, "Time from mid-transit [days]", ha='center')
-    fig.text(0.04, 0.5, 'Relative Flux', va='center', rotation='vertical')
+    fig.text(0.04, 0.5, 'Relative Flux [PPM]', va='center', rotation='vertical')
 
-    sub1 = fig.add_subplot(221) 
     trap1 = trapezoid(param_guess, t)
     sub1.scatter(t, f)
     sub1.plot(t, trap1)
 
     newf = f - trap1
 
-    sub2 = fig.add_subplot(222)
     sub2.scatter(t, newf)
 
     trap2 = np.zeros(len(t))
     sub2.plot(t, trap2)
 
+    fig.subplots_adjust(hspace=0)
+    plt.setp([a.get_xticklabels() for a in fig.axes[:-1]], visible=False)
+    plt.ylim(-600, 600)
+
+
     return
 
-def fit_trapezoid():
-    pass
+def chisqr(pars):
+    t, y1 = read_data(7016.01)
+    y2 = trapezoid(pars, t)
+    return np.sum((y1-y2)**2)
 
+def fit_trapezoid(data_num, method = 'Nelder-Mead'):
+    val = minimize(chisqr, [0, 0.8, 0.2, 200], method=method)
+    del val['final_simplex']
+    return val
