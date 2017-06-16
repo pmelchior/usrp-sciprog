@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from scipy.optimize import minimize
 
 def read_data(ob_num):
     with open('../data/'+str(ob_num)+'.txt') as f: 
@@ -64,6 +65,12 @@ def vary_t0(t0s):
 def plot_fit():
     pass
 
-def fit_trapezoid():
-    pass
+def chisqr(pars):
+    t, y1 = read_data(7016.01)
+    y2 = trapezoid(pars, t)
+    return np.sum((y1-y2)**2)
 
+def fit_trapezoid(data_num, method = 'Nelder-Mead'):
+    val = minimize(chisqr, [0, 0.8, 0.2, 200], method=method)
+    del val['final_simplex']
+    return val
