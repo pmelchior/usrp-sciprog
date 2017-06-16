@@ -16,7 +16,7 @@ def plot_data(ob_num):
     plt.scatter(t,f)
     plt.xlabel('Time from the mid-transit [days]')
     plt.ylabel('Relative Flux [PPM]')
-    pass
+    return
 
 def trapezoid(pars,t):
     f = np.zeros(len(t))
@@ -35,7 +35,7 @@ def vary_depth(depths):
         t=np.linspace(-2,2,1000)
         plt.plot(t, trapezoid(pars,t))
     plt.ylim(-2017,50)
-    pass
+    return
 
 def vary_duration(durations):
     for T in durations:
@@ -48,21 +48,41 @@ def vary_duration(durations):
 def vary_tau(taus):
     for i in taus:
         pars = [0, 1.0, i, 200]
-        t=np.linspace(-2,2,1000)
+        t = np.linspace(-2,2,1000)
         plt.plot(t, trapezoid(pars,t))
     plt.ylim(-250,50)
-    pass
+    return
 
 def vary_t0(t0s):
     for i in t0s:
         pars = [i, 1.0, 0.2, 200]
-        t=np.linspace(-2,2,1000)
+        t = np.linspace(-2,2,1000)
         plt.plot(t, trapezoid(pars,t))
     plt.ylim(-250,50)
-    pass
+    return
 
-def plot_fit():
-    pass
+def plot_fit(7016.01, param_guess):
+    t,f = tr.read_data(7016.01)
+    plt.ylim(-600, 600)
+
+    fig = plt.figure(figsize=(6, 4))
+    fig.text(0.5, 0.04, "Time from mid-transit [days]", ha='center')
+    fig.text(0.04, 0.5, 'Relative Flux', va='center', rotation='vertical')
+
+    sub1 = fig.add_subplot(221) 
+    trap1 = trapezoid(param_guess, t)
+    sub1.scatter(t, f)
+    sub1.plot(t, trap1)
+
+    newf = f - f2
+
+    sub2 = fig.add_subplot(222)
+    sub2.scatter(t, newf)
+
+    trap2 = np.zeros(len(t))
+    sub2.plot(t, trap2)
+
+    return
 
 def fit_trapezoid():
     pass
