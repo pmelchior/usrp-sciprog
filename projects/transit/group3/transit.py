@@ -32,9 +32,14 @@ def trapezoid(pars, t):
 def vary_depth():
     pass
 
-def vary_duration():
-    pass
-
+def vary_duration(durations):
+    for T in durations:
+        pars = [0, T, 0.2, 200]
+        t = np.linspace(-2,2)
+        plt.plot(t, trapezoid(pars,t))
+    plt.ylim(-250, 50)
+    return
+ 
 def vary_tau():
     pass
 
