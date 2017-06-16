@@ -15,6 +15,8 @@ def plot_data(ob_num):
     t=data[:,0]
     f=data[:,1]
     plt.scatter(t,f)
+    plt.xlabel('Time from the mid-transit [days]')
+    plt.ylabel('Relative Flux [PPM]')
     pass
 
 def trapezoid():
