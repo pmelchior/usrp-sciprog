@@ -7,13 +7,17 @@ def read_data(ob_num):
     t=data[:,0]
     f=data[:,1]
     return(t,f)
-    pass
 
 def plot_data():
     pass
 
-def trapezoid():
-    pass
+def trapezoid(pars, t):
+    f = np.zeros(len(t))
+    t0, T, tau, depth = pars
+    ins = (t > (t0 - T/2)) & (t <= (t0 - T/2 + tau))
+    ins = -ins * (t - t0 + T/2) * depth/tau
+
+    return f + ins
 
 def vary_depth():
     pass
