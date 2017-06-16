@@ -9,7 +9,12 @@ def read_data(ob_num):
     return(t,f)
     pass
 
-def plot_data():
+def plot_data(ob_num):
+    with open('../data/'+str(ob_num)+'.txt') as f: 
+        data= np.loadtxt(f, dtype=float)
+    t=data[:,0]
+    f=data[:,1]
+    plt.scatter(t,f)
     pass
 
 def trapezoid():
