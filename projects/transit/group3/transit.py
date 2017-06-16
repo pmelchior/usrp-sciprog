@@ -21,10 +21,13 @@ def plot_data(ob_num):
 def trapezoid(pars, t):
     f = np.zeros(len(t))
     t0, T, tau, depth = pars
-    ins = (t > (t0 - T/2)) & (t <= (t0 - T/2 + tau))
-    ins = -ins * (t - t0 + T/2) * depth/tau
-
-    return f + ins
+    int = (t > (t0 - T/2)) & (t <= (t0 - T/2 + tau))
+    inf = (-(t - t0 + T/2) * depth/tau)
+    mid = (t >  t0 - T/2 + tau) & (t <= t0 + T/2 - tau)
+    out = (t >  t0 + T/2 - tau) & (t <= t0 + T/2)
+    outf= ((t - t0 - T/2) * depth/tau)
+    
+    return inf * int - mid * depth + out * outf
 
 def vary_depth():
     pass
