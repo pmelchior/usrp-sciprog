@@ -45,10 +45,20 @@ def vary_duration(durations):
     plt.ylim(-250, 50)
     return
  
-def vary_tau():
+def vary_tau(taus):
+    for i in taus:
+        pars = [0, 1.0, i, 200]
+        t=np.linspace(-2,2,1000)
+        plt.plot(t, trapezoid(pars,t))
+    plt.ylim(-250,50)
     pass
 
-def vary_t0():
+def vary_t0(t0s):
+    for i in t0s:
+        pars = [i, 1.0, 0.2, 200]
+        t=np.linspace(-2,2,1000)
+        plt.plot(t, trapezoid(pars,t))
+    plt.ylim(-250,50)
     pass
 
 def plot_fit():
