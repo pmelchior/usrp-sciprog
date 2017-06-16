@@ -15,3 +15,4 @@ LaTeX/SOMETHING.pdf
 *.pyc
 python/__pycache__/
 .ipynb_checkpoints/
+projects/transit/group3/transit.ipynb
