@@ -61,8 +61,8 @@ def vary_t0(t0s):
     plt.ylim(-250,50)
     return
 
-def plot_fit(7016.01, param_guess):
-    t,f = tr.read_data(7016.01)
+def plot_fit(filenum, param_guess):
+    t,f = read_data(filenum)
     plt.ylim(-600, 600)
 
     fig = plt.figure(figsize=(6, 4))
@@ -74,7 +74,7 @@ def plot_fit(7016.01, param_guess):
     sub1.scatter(t, f)
     sub1.plot(t, trap1)
 
-    newf = f - f2
+    newf = f - trap1
 
     sub2 = fig.add_subplot(222)
     sub2.scatter(t, newf)
