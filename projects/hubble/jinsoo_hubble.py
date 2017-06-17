@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import coordinates as coord
 
 data = np.genfromtxt("table1.txt",dtype=None,names=True)
+print(data)
 N = len(data)
 
 # fig = plt.figure()
