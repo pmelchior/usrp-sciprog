@@ -1,6 +1,0 @@
-
-Ryan Golant grew up in Falls Church, VA--around 20 minutes outside of DC--having lived in Northern Virginia his entire life. Ryan came to Princeton in the class of 2020 expecting to major in some STEM field, initially either physics or math. After studying a bit of astrophysics on his own, and taking AST 204 in his first year, Ryan developed a great interest in astro, and now intends to major in the subject. Ryan looks forward to studying weak gravitational lensing and dark energy with Jia Liu this summer.
-
-Carlos Anicetti is a rising junior and an Astrophysics major. He is from San Francisco, California. He has been interested in space for his entire life, and decided to become an astrophysicist after working at a small observatory during his time in high school (he is still employed there). He finds all of astrophysics extremely cool, but is particularly interested in exoplanets and quasars.
-
-Robert Raveanu is a rising sophomore and a prospective Physics major. He is from Timisoara, Romania. He has been interested in everything related to science for his entire life, but settled for physics in high school. He is still exploring what field to specialize in, but is particularly interested in cosmology.
