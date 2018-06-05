@@ -7,12 +7,13 @@ With that in mind, there are a few things we would like you all to do *before* a
 
 ## If you use Windows on your laptop:
 
-1. Please follow these instructions for installing the Windows Subsystem for Linux (WSL): https://docs.microsoft.com/en-us/windows/wsl/install-win10
+1. Please follow these instructions for installing the Windows Subsystem for Linux (WSL) - Ubuntu: https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 2. Install Git. Open your command prompt, type "bash" to start a bash shell. Then run the following commands:
 
     sudo apt update
     sudo apt install git
+    sudo apt install wget
 
 (you may need to type your computer login password)
 
@@ -36,7 +37,7 @@ With that in mind, there are a few things we would like you all to do *before* a
 
     xcode-select --install
 
-2. Install Anaconda for Mac with Python 3.6. Download and open this to install:
+2. Install Anaconda for Mac with Python 3.6. Download the following installer, then double-click to open it and follow instructions to install:
 
     https://repo.anaconda.com/archive/Anaconda3-5.2.0-MacOSX-x86_64.pkg
 
