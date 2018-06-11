@@ -122,5 +122,3 @@ You may find yourself in a position where you want to contribute to a GitHub rep
 	$ git fetch upstream
 	$ git checkout master
 	$ git merge upstream/master
-
-
