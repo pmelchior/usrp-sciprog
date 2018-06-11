@@ -1,21 +1,36 @@
-Git Excercises
-==============
+# Version control and Git
 
-After going through this mini tutorial, definitely take some time to read [this](http://www.sbf5.com/~cduan/technical/git/).  It's a great and thorough explanation of how git actually works.
+After going through this mini tutorial, you should read [this longer tutorial](http://www.sbf5.com/~cduan/technical/git/) to get a more in depth view of how git actually works.
 
-Initial Exploration
--------------------
+## Keywords and quick reference
 
-1. If you don't already, create an account on github.com
+* _Repository_: The thing that keeps track of the history of your files. Think of it like an abstract representation of a "project": it contains the current versions of files, and their entire histories. When a repository exists on your computer, it is like a folder/directory. Often abbreviated as "repo."
 
-2. Make a repository on GitHub for your research this summer.  Give it a useful name, related to the science (e.g., not usrp-2015).  Make sure to check the box before __Initialize this repository with a README__.
+* _Tracked files_: The files that a given repository knows to keep track of. If you have a repository on your computer, you can copy files into the directory where your repository lives, but the repository doesn't know about them until you explicitly ask it to track them.
 
-3. Clone this repository onto your computer (suggestion, make a 'respositories' directory under your home directory and clone it there):
+* _Staging area_: When you add files to a repo for the first time, or when you make changes to files and want to tell the repo, you first must add them to the "staging area." It's kind of like purgatory.
+
+* _Commit_: When your files or changes are added to a staging area, you typically then want to commit the changes to the repo. This advances the history of the repo and tracked files.
+
+* _Clone_: An exact copy of a repository, copied from some remote location (e.g., GitHub).
+
+* _Fork_: A copy of a repository that you have permission to edit. Nowadays, this is typically only done on GitHub to make a copy of a project that you don't have write access to.
+
+## Initial Exploration
+
+1. If you don't have one already, create an account on github.com
+
+2. Make a repository on GitHub for your research this summer:
+    #. Give it a useful name, related to the science you will be doing (e.g., not "usrp"; it could be something like "galaxy-clustering")
+    #. Check the box __Initialize this repository with a README__
+    #. Click the __Add a license__ dropdown and select "__MIT License__"
+
+3. Clone the repository onto your computer (suggestion, make a 'repositories' or 'repos' or 'projects' directory under your home directory and clone it there):
 
    		$ cd
 		$ mkdir repositories
 		$ cd repositories
-		$ git clone  https://github.com/username/reponame.git  (or git clone git@github.com:username/reponame)
+		$ git clone https://github.com/username/reponame.git (or git clone git@github.com:username/reponame)
 
 4. Edit the readme file (`README.md`) on your laptop to include a sentence or two describing your project.
 
