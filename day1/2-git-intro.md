@@ -80,12 +80,14 @@ To summarize, this is what a typical simple workflow should look like:
 
 ## Branching
 
-One of the biggest advantages of git is that it allows you to experiment without worrying about breaking your code.  Usually by default you will be working on a branch called 'master', which you can confirm with the 'git branch' command:
+Git repositories let you keep track of entire histories of files that are tracked. You can think of each commit as an entry in the timeline of the project. But, like in quantum physics, or your favorite scifi drama, there can be more than one timeline! Git lets you maintain parallel histories for a given repository, and those histories can diverge and cross-pollinate one another (you can copy commits from history A to/from history B). In git language, these histories are called "branches."
+
+By default, you will typically be working on a branch called 'master', which you can confirm by executing the `git branch` command:
 
 		$ git branch
 		* master
 
-To switch branches, use 'git checkout <newbranch>', with a '-b' flag if the branch does not exist yet and you wish to create it:
+To switch between branches, you use the `git checkout <branchname>` command. In your current repo, you probably only have one branch (master). To create a new branch with a name, e.g., "test", use `checkout` with the `-b` flag:
 
 		$ git checkout -b test
 		Switched to a new branch 'test'
@@ -106,13 +108,13 @@ Using branches will make more sense when you are actually working with code, but
 	 $ git add test.txt
 	 $ git commit -am 'added test file'
 
-3. Switch back to 'master' branch and convince yourself that test.txt is no longer there.
+3. Switch back to 'master' branch and convince yourself that test.txt is no longer there -- it only exists in the 'test' branch!
 
-4. Now imagine you are satisfied with the changes you made on the test branch, and have convinced yourself that those changes haven't broken your project, you can merge those changes into the master branch:
+4. Now imagine you are satisfied with the changes you made on the test branch, and have convinced yourself that those changes haven't broken your project, you can merge those changes into the current branch (master):
 
     	$ git merge test
 
-5. Now, convince yourself that test.txt is there.
+5. Now, convince yourself that `test.txt` exists in your master branch.
 
 6. OK, now since this file is actually junk, let's now get rid of it, as well as deleting our test branch (let's not let our repository get too cluttered):
 
@@ -121,26 +123,27 @@ Using branches will make more sense when you are actually working with code, but
    	$ git branch
    	* master
 
-Collaborating: Forking & submitting a pull request
----------------
+---
 
-You may find yourself in a position where you want to contribute to a GitHub repository that is not yours.  In this case, you can't just clone -> make changes -> push, because you will not have push access to the repository (that is, unless you've been explicitly added as a collaborator).  Instead, you have to go through a process called a "pull request," whereby you submit a branch to the repo owner, and she gets to decide whether to merge that branch in.  The process to do this is the following:
+## Collaborating: Forking & pull requests
 
-1.  Fork the repository (press the "Fork" button on GitHub), which creates for you a linked---but totally independent---copy of the entire original repository that you now own.
+You may find yourself in a position where you want to contribute to a GitHub repository that is not yours. In this case, you can't just clone, make changes, commit, and push, because you will not have push (write) access to the repository (unless you've been explicitly added as a collaborator). Instead of directly pushing changes, you have to go through a process called a "pull request," whereby you ask the repo owner to "pull" your changes into their repo. The process to do this is the following:
+
+1. Fork the repository (press the "Fork" button on GitHub), which creates for you a linked---but totally independent---copy of the entire original repository that you now own (still on GitHub).
 2. Clone **your** version of the repository onto your machine.
-3. [optional, but recommended] Create a new branch (e.g., 'tdm-edits')
+3. Create a new branch (e.g., 'my-edits')
 4. Make any desired changes on this branch.
-5. Push this branch (or just the master branch with `git push` if you did not create a new branch) back to your repo:
+5. Push this branch back to your fork of the original repo:
 
-   	$ git push origin tdm-edits
+   	$ git push origin my-edits
 
 6. On GitHub, create a pull request following [these instructions]( https://help.github.com/articles/creating-a-pull-request/) (or actually, there should be a helpful little "create pull request" button on your repo page after you push, to shortcut this process).
 7. The owner of the repo can then review it and decide whether/when to merge it in, and can also make comments.  You can continue to push changes to this branch while the pull request is still open.
 
-**Note:** when you have a forked repository, often the "upstream" (original) repo will be updated and you will want to incorporate those changes into your local forked copy.  This is how to do that:
+**Note:** when you have a forked repository, often the original repo will be updated and you will want to incorporate those changes into your local forked copy. To do that, you have to tell your cloned repository about the original repository, by convention called "upstream." This is how to do that:
 
 
-	$ git remote add upstream git@github.com:timothydmorton/usrp-sciprog
+	$ git remote add upstream git@github.com:pmelchior/usrp-sciprog
 	$ git fetch upstream
 	$ git checkout master
 	$ git merge upstream/master
