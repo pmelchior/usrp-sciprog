@@ -18,7 +18,7 @@ arts.
 
 Adrian Price-Whelan grew up in Connecticut before moving to New York City for his undergraduate (BA, NYU) and graduate (PhD, Columbia) degrees, where he also played guitar and/or bass in a few bands ([like this one](https://operatormusicband.bandcamp.com/)). His research focuses on the structure and dynamics of stars within our own galaxy, the Milky Way, and so has been busy digesting the recent [data release 2 of the *Gaia* mission](https://www.cosmos.esa.int/web/gaia/dr2). Adrian is also a core contributor to the [Astropy core package](github.com/astropy/astropy) and [Astropy project](astropy.org) more broadly, and is the deputy lead in charge of the units and coordinates subpackages. He also enjoys biking, open-source software development, whisky, and photography.
 
-Mat Madhavacheril ...
+Mathew Madhavacheril's worldline has taken him through Kuwait, India and the UK before he attended graduate school at Stony Brook University where he completed his PhD in Physics.  Mat works on observational cosmology and likes thinking of ways to test and constrain fundamental physics using the cosmic microwave background and large-scale structure. When he isn't modding Skyrim or sending Kerbals to the Mün, Mat enjoys hiking, cycling and consuming science fiction.
 
 Timothy Morton grew up in Columbus, OH and received his [PhD](http://thesis.library.caltech.edu/8024/) from Caltech in 2013, after which he moved to Princeton. His research focus is on understanding the demographics of exoplanet systems, and he has done a
 lot of work in particular regarding [distinguishing true planets from astrophysical false positives](http://www.nytimes.com/2016/05/11/science/kepler-planets-nasa.html?_r=0) for the Kepler
