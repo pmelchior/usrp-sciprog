@@ -74,8 +74,9 @@ To summarize, this is what a typical simple workflow should look like:
 		<when you're ready to stand up from computer>
 		$ git push
 
-**One more note**: Whenever you rename or remove files that are being tracked by git, use the `git rm` or `git mv` commands rather than just `rm` or `mv`. so that git won't get confused.
+__One more note__: Whenever you rename or remove files that are being tracked by git, use the `git rm` or `git mv` commands rather than just `rm` or `mv`. so that git won't get confused.
 ​
+
 ---
 
 ## Branching
