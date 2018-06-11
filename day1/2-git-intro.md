@@ -25,7 +25,7 @@ After going through this mini tutorial, you should read [this longer tutorial](h
     #. Check the box __Initialize this repository with a README__
     #. Click the __Add a license__ dropdown and select "__MIT License__"
 
-3. Clone the repository onto your computer (suggestion, make a 'repositories' or 'repos' or 'projects' directory under your home directory and clone it there):
+3. Clone the repository onto your computer (suggestion: make a 'repositories' or 'repos' or 'projects' directory under your home directory and clone it there):
 
    		$ cd
 		$ mkdir repositories
@@ -33,22 +33,28 @@ After going through this mini tutorial, you should read [this longer tutorial](h
 		$ git clone https://github.com/username/reponame.git (or git clone git@github.com:username/reponame)
 
 4. Edit the readme file (`README.md`) on your laptop to include a sentence or two describing your project.
+    * Use `git status` to see what files you have edited
 
-5. Commit these changes and push them back to GitHub:
+5. Add the file to the staging area, then commit these changes and push them back to GitHub:
 
    		$ git add README.md
    		$ git commit -m 'descriptive but concise message'
    		$ git push
 
-6. Now, open another terminal, ssh into your department computer and repeat steps 3-5 (making some additional changes to the readme file this time).
+6. Use `git status` again to see that all changes have been committed
 
-7. Back on your laptop, pull these new changes
+7. Now, open another terminal window, ssh into your department computer and repeat steps 3-5:
+    * Clone the repository onto your department computer
+    * Edit the `README.md` file to add your name and github username
+    * Add and commit the changes, then push the changes up to GitHub
+
+8. Back on your laptop, pull these new changes
 
    		$ git pull
 
-   And that's how to 'sync' a repository between computers. Note: you can also edit files/commit changes directly on GitHub.
+   This is how to 'sync' a repository between computers.
 
-8. Now, create a new file (maybe called notes.txt or something) and put in some content.  To have git recognize and track this new file, you first have to add it to the repository; after which you can commit the changes.
+9. Now, create a new file called `notes.txt` and add some content (type jibberish if you are feeling uninspired!).  To tell `git` to recognize and track this new file, you first have to add it to the repository; after which you can commit the changes.
 
    		$ git add notes.txt
    		$ git commit -m 'added notes file'
@@ -68,10 +74,11 @@ To summarize, this is what a typical simple workflow should look like:
 		<when you're ready to stand up from computer>
 		$ git push
 
-**One more note-- whenever you rename or remove files that are being tracked by git, use the 'git rm' or 'git mv' commands rather than just 'rm' or 'mv'.  That way git won't get confused.
+**One more note**: Whenever you rename or remove files that are being tracked by git, use the `git rm` or `git mv` commands rather than just `rm` or `mv`. so that git won't get confused.
 ​
-Branching
-------------
+---
+
+## Branching
 
 One of the biggest advantages of git is that it allows you to experiment without worrying about breaking your code.  Usually by default you will be working on a branch called 'master', which you can confirm with the 'git branch' command:
 
