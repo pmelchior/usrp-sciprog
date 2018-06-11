@@ -1,8 +1,8 @@
-# Day 1 to-do checklist.
+# Day 1 checklist
 
 Everyone should be able to do the following by the end of today:
 
-1. Choose a department computer for the summer, and log on to it. 
+1. Choose a department computer for the summer, and log on to it.
 
 2. Do the following from from a terminal (on both laptop and desktop, if, e.g., you are running Windows):
  * Create a new directory
@@ -18,7 +18,7 @@ Everyone should be able to do the following by the end of today:
  * Use `scp` to do both of the following:
   * transfer a single file between your laptop and your department computer.
   * transfer an entire directory & its contents between your laptop and your department computer.
- * Understand the concept of "environment variables" and how to set them, both temporarily and permanently.  Especially understand what the `PATH` variable represents. 
+ * Understand the concept of "environment variables" and how to set them, both temporarily and permanently.  Especially understand what the `PATH` variable represents.
 
 3. Be comfortable with the following basic git/Github skills (we will practice these together with the "team bio" exercise):
  * Understand what the terms 'repository', 'clone', 'fork', 'commit', 'push', 'pull', 'merge' mean
