@@ -16,7 +16,7 @@ He has been or is working on various surveys: [DES](http://www.darkenergysurvey.
 Outside work, he enjoys practicing Aikido, skiing, wind surfing, music and the
 arts.
 
-Adrian Price-Whelan grew up in Connecticut before moving to New York City for his undergraduate (BA, NYU) and graduate (PhD, Columbia) degrees, where he also played guitar and/or bass in a few bands ([like this one](https://operatormusicband.bandcamp.com/)). His research focuses on the structure and dynamics of stars within our own galaxy, the Milky Way, and so has been busy digesting the recent [data release 2 of the *Gaia* mission](https://www.cosmos.esa.int/web/gaia/dr2). Adrian is also a core contributor to the Astropy core package and project, and is the deputy lead in charge of the units and coordinates subpackages. He also enjoys biking, open-source software development, whisky, and photography.
+Adrian Price-Whelan grew up in Connecticut before moving to New York City for his undergraduate (BA, NYU) and graduate (PhD, Columbia) degrees, where he also played guitar and/or bass in a few bands ([like this one](https://operatormusicband.bandcamp.com/)). His research focuses on the structure and dynamics of stars within our own galaxy, the Milky Way, and so has been busy digesting the recent [data release 2 of the *Gaia* mission](https://www.cosmos.esa.int/web/gaia/dr2). Adrian is also a core contributor to the [Astropy core package](github.com/astropy/astropy) and [Astropy project](astropy.org) more broadly, and is the deputy lead in charge of the units and coordinates subpackages. He also enjoys biking, open-source software development, whisky, and photography.
 
 Mat Madhavacheril ...
 
