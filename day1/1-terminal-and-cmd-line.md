@@ -37,6 +37,15 @@ Let's say I have many image files in there, and I want to know what PNG images a
     $ ls Documents/*.png
     Documents/sample_cmd.png
 
+You can get a lot more information out of `ls` using various flags. One I use very frequently is the `-l` flag:
+
+    $ ls -l Documents
+    -rw-r--r--  1 adrian  staff  165359616 Aug 22  2016 master.tar.gz
+    -rw-r--r--@ 1 adrian  staff     116337 Feb  6  2017 photo.jpg
+    -rw-r--r--@ 1 adrian  staff     441487 Jun  3  2017 sample_cmd.pn
+
+This shows some cryptic information, then the owner of the file, the filesize, the time it was last modified, and then the filenames.
+
 Notice I had to type the name of the Documents folder each time because that is a subdirectory within the path that I am currently in (/Users/adrian). In any shell, you can also move your current working directory using the `cd` (change directory) command. For example, I can move into the Documents folder:
 
     $ cd Documents
@@ -108,11 +117,6 @@ cat        csh        df         ed         kill       link       mkdir      ps 
 Aha! So all of those commands we were playing with above are just executable programs that like in a path that `Bash` knows about. You can add other paths to your `$PATH` variable to make `Bash` aware of other program locations. __But beware__: if you accidentally delete the contents of the variable, it can be a huge pain to fix!
 
 
-## Startup and configuration files
-
-...
-
-
 ## Text editors (for making quick changes)
 
 I use a graphical text editor ([Atom](https://atom.io/)) that has a bunch of nifty, customizable features. Many people instead swear by using shell-based text editors, like `emacs` or `vim`. I don't care what you use, but it's important that you learn the basics in at least one of the shell-based text editors, at least for making quick edits or edits on remote machines. Your options are (to name a few):
@@ -137,7 +141,26 @@ To quit `emacs`, the command sequence is:
     ctrl + x, c
 
 
+## Startup and configuration files
+
+Every time you open a `Bash` shell, `Bash` executes a few files to help set up the shell. One of those files, `~/.bash_profile` (i.e. the file `.bash_profile` in your home directory), is customizable, and so a place you can put things like shell configuration and to set custom environment variables. From this file, you can also execute other scripts or commands.
+
+For example, in my profile file, I have the following lines (amongst others):
+
+    export CLICOLOR=1
+    export LSCOLORS=ExFxCxDxBxegedabagacad
+
+    source ~/.prompt
+
+The first two lines tell the shell to color the output of `ls` commands.
+
+The last line runs the "`source`" command on the file `~/.prompt`. `source` will execute the contents of the specified file, so this just executes the file `~/.prompt`. The contents of this file [can be seen here](https://github.com/adrn/dotfiles/blob/master/bash/prompt): this changes the color and content of my terminal prompt to add some nifty features.
+
+
 ## SSH and remote login
+
+See the information here:
+https://www.astro.princeton.edu/docs/SSH
 
 Make an SSH key:
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux
