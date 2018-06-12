@@ -1,5 +1,4 @@
-Jake Helton is a rRising sophomore at Princeton University, a pProspective physics or astrophysics major. 
-Enjoys soccer and photography.
+Jake Helton is a rising sophomore at Princeton University and a prospective physics/astrophysics major.
 
 Ayanna Matthews is from Philadelphia and is participating in the Astrophysics USRP Summer 2018!
 
