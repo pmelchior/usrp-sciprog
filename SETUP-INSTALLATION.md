@@ -10,32 +10,36 @@ With that in mind, there are a few things we would like you all to do *before* a
 1. Please follow these instructions for installing the Windows Subsystem for Linux (WSL) - Ubuntu: https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 2. Install Git. Open your command prompt, type "bash" to start a bash shell. Then run the following commands:
-
+    ```
     sudo apt update
     sudo apt install git
     sudo apt install wget
+    ```
 
 (you may need to type your computer login password)
 
 3. Install Anaconda for Linux with Python 3.6 (note: *not* Anaconda for Windows!). To do this, in your command prompt, again make sure you are in the bash shell (if you still have the window open from the last step, use that, or type "bash" in a new command prompt). Then run:
-
+    ```
     wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
     bash Anaconda3-5.2.0-Linux-x86_64.sh
+    ```
 
 
 ## If you use Linux on your laptop:
 
 1. Install Anaconda for Linux with Python 3.6. Open a terminal prompt, then run:
-
+    ```
     wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
     bash Anaconda3-5.2.0-Linux-x86_64.sh
+    ```
 
 
 ## If you use Mac OSX on your laptop:
 
 1. Please make sure you have the command-line tools installed. Open the Terminal program and run the following command:
-
+    ```
     xcode-select --install
+    ```
 
 2. Install Anaconda for Mac with Python 3.6. Download the following installer, then double-click to open it and follow instructions to install:
 
