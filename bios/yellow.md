@@ -1,0 +1,1 @@
+My name is Minsu Park and I am a rising junior in the physics department here in Princeton. I will be working with Christina Kreisch on constraining neutrino self interaction parameters with cosmological data. I've lived in South Korea, California, Geneva, Cairo, and now Princeton, so it's hard to say where home is. I look forward to working with everyone this summer!
