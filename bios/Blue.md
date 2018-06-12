@@ -1,1 +1,1 @@
-
+My name is Lina Florez and I grew up and am going to school in Champaign, IL. I'm a rising junior, and I'm currently majoring in astronomy and physics at the University of Illinois at Urbana-Champaign. I'm currently working at the University of Illinois's ObsCos group that does instrumentation for the South Pole Telescope.
