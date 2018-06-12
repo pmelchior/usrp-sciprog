@@ -85,6 +85,7 @@ The most common commands I use in a shell are:
 * `less` - show part of a text file
 * `cat` - dump the contents of a file
 * `touch` - create an empty file with the specified name
+* `ln -s` - create a "soft" link from one file to a new file in the current directory
 
 Most of the above commands are not actually part of `bash`, but are programs that can be run from within a `bash` shell. So how does `bash` know about these scripts?
 
