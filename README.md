@@ -61,8 +61,13 @@ Colloquia are held every Thursday 12:30 in the Auditorium; seminars every Tuesda
 
 ### Colloquium schedule
 
-1.
-
+1. June 21: Prof. Joshua Winn (exoplanets) 
+2. June 28: Prof. Gaspar Bakos (stars)
+3. July 5: Prof. Jo Dunkley (cosmology)
+4. July 12: Prof. Michael Strauss (gravitational waves)
+5. July 19: Prof. Jenny Greene (galaxies)
+6. July 26: TBD -- Bruce Draine/Eve Ostriker
+7. Aug 2: TBD -- Bruce Draine/Eve Ostriker
 
 
 Links of Interest
