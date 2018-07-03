@@ -52,7 +52,7 @@ Colloquia are held every Thursday 12:30 in the Auditorium; seminars every Tuesda
 
 1. June 19 - How to find and read papers (Adrian)
 2. June 26 - Stats (Mat)
-3. July 3 - Be a good scientist (tbd)
+3. July 3 - Be a good scientist (Andy, Elinor, Alice, Evan, Mat, Neta, Polly)
 4. July 10 - Visualization (Peter)
 5. July 17 - How to write a paper / Latex (tbd)
 6. *July 24 - Excursion (tbd)*
