@@ -87,6 +87,8 @@ The most common commands I use in a shell are:
 * `touch` - create an empty file with the specified name
 * `ln -s` - create a "soft" link from one file to a new file in the current directory
 
+A few more, ordered by application, are listed in this [cheat sheet](https://www.dropbox.com/s/k7athu9i8lmmeln/Linux%20Cheat%20Sheet%20David%20Relyea.pdf).
+
 Most of the above commands are not actually part of `bash`, but are programs that can be run from within a `bash` shell. So how does `bash` know about these scripts?
 
 
