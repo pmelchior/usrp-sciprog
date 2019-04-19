@@ -1,1 +1,0 @@
-My names is Lita and I'll be starting as Post-bacc in September. 
