@@ -49,11 +49,19 @@ All sessions take place in room 033 unless otherwise noted.
 
 ## Colloquia and seminars
 
-Colloquia are held every Thursday 12:30 in the Auditorium; seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
+Colloquia usally are held every Thursday 12:30 in the Auditorium, seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
 
 ### Seminar schedule
 
-TBD
+1. June 18 - How to find and read papers (Adrian)
+2. June 21 - SPECIAL (9am-noon): Scientist's Personal Toolkit ([Melodie Kao](http://www.melodiekao.com/))
+3. June 25 - Visualization (Peter)
+4. July 2 - Statistics (Andy)
+5. July 9 - TBD (tbd)
+5. July 16 - How to write a paper / Latex (tbd)
+6. July 23 - How to apply for a job (tbd)
+7. July 30 - How to give presentations (tbd)
+8. Aug 6 - Practice talks (Andy + all)
 
 ### Colloquium schedule
 
