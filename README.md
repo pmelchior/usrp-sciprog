@@ -53,7 +53,7 @@ Colloquia usally are held every Thursday 12:30 in the Auditorium, seminars every
 
 ### Seminar schedule
 
-1. June 18 - How to find and read papers (Adrian)
+1. June 18 - How to find and read papers (tbd)
 2. June 21 - SPECIAL (9am-noon): Scientist's Personal Toolkit ([Melodie Kao](http://www.melodiekao.com/))
 3. June 25 - Visualization (Peter)
 4. July 2 - Statistics (Andy)
