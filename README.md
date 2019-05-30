@@ -63,7 +63,7 @@ Colloquia usally are held every Thursday 12:30 in the Auditorium, seminars every
 3. June 25 - Visualization (Peter)
 4. July 2 - Statistics (Andy)
 5. July 9 - TBD (tbd)
-5. July 16 - How to write a paper / Latex (tbd)
+5. July 16 - How to write a paper / Latex (Brandon)
 6. July 23 - How to apply for a job (tbd)
 7. July 30 - How to give presentations (tbd)
 8. Aug 6 - Practice talks (Andy + all)
