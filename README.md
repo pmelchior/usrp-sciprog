@@ -76,6 +76,7 @@ TBD
 Links of Interest
 ------------------
 
+* [A Beginner's Guide to Working with Astronomical Data](https://arxiv.org/abs/1905.13189)
 * [Python intro course notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks)
 * [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
 * [Fitting a model to data](http://arxiv.org/abs/1008.4686)
