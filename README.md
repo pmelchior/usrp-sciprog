@@ -58,14 +58,15 @@ Colloquia usally are held every Thursday 12:30 in the Auditorium, seminars every
 
 ### Seminar schedule
 
-1. June 21 - SPECIAL (9am-noon): Scientist's Personal Toolkit ([Melodie Kao](http://www.melodiekao.com/))
-2. June 25 - Visualization (Peter)
-3. July 2 - Statistics (Andy)
-4. July 9 - How to find and read papers (Remy)
-5. July 16 - How to write a paper / Latex (Brandon)
-6. July 23 - How to apply for a job (Rachael)
-7. July 30 - How to give presentations (tbd)
-8. Aug 6 - Practice talks (Andy + all)
+1. June 18 - Lunch with the graduate students
+2. June 21 - SPECIAL (9am-noon): Scientist's Personal Toolkit ([Melodie Kao](http://www.melodiekao.com/))
+3. June 25 - Visualization (Peter)
+4. July 2 - Statistics (Andy)
+5. July 9 - How to find and read papers (Remy)
+6. July 16 - How to write a paper / Latex (Brandon)
+7. July 23 - How to apply for a job (Rachael)
+8. July 30 - How to give presentations (tbd)
+9. Aug 6 - Practice talks (Andy + all)
 
 ### Colloquium schedule
 
