@@ -69,8 +69,12 @@ Colloquia usally are held every Thursday 12:30 in the Auditorium, seminars every
 
 ### Colloquium schedule
 
-TBD
-
+1. June 20 - Introduction to Gravitational Waves (Michael)
+2. June 27 - TBD
+3. July 11 - TBD
+4. July 18 - TBD
+5. July 25 - TBD
+6. August 1 - TBD
 
 Links of Interest
 ------------------
