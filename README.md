@@ -77,6 +77,8 @@ Colloquia usally are held every Thursday 12:30 in the Auditorium, seminars every
 5. July 25 - TBD
 6. August 1 - TBD
 
+In addition we'll have an observing night on the roof of Peyon Hall on July 2 (with a backup on July 9 if necessary).
+
 Links of Interest
 ------------------
 
