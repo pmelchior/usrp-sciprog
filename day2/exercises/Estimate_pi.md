@@ -1,4 +1,4 @@
-Day 2 Exercises: Estimate pi
+Day 2 Exercise: Estimate pi
 --------
 
 
