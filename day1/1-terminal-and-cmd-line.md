@@ -180,9 +180,9 @@ We strongly recommend that you read these instructions to get a better understan
 
 ### SSH key
 
-SSH keys are a mean of identification between two machines. One machine, the one we would like to connect to, has to generate a key. The key is then passed on to the machines that want access. This way, it ensures that only the machines to which we sent a key can connect.
+SSH keys are a mean of identification between two machines. One machine, the one we would like to ssh from, has to generate a key. The key is then passed on to the machines that we want to access. This way, it ensures that only the machines to which we sent a key can connect.
 
-To setup an ssh key, simply type:
+To setup an ssh key, simply type on your computer:
 
 	ssh-keygen -t rsa
 
@@ -197,7 +197,7 @@ CAREFUL NOW!! The next line is more important. You should now see this appear:
 	
 	Enter passphrase (empty for no passphrase):
 
-At this you NEED to type a passphrase that you will be able to remember. You will be asked to enter your passphrase twice, and something like this will appear:
+At this point, you NEED to type a passphrase that you will be able to remember. You will be asked to enter your passphrase twice, and something like this will appear:
 
 	Your identification has been saved in /Users/remy/.ssh/id_rsa.
 	Your public key has been saved in /Users/remy/.ssh/id_rsa.pub.
@@ -216,29 +216,35 @@ At this you NEED to type a passphrase that you will be able to remember. You wil
 	|                 |
 	+----[SHA256]-----+
 
-This has created a private key (/Users/remy/.ssh/id_rsa) that you should keep like it is your browser history. The public key (/Users/remy/.ssh/id_rsa.pub) is made to be shared with computers that would like to connect with yours. 
+This has created a private key (/Users/remy/.ssh/id_rsa) that you should keep like it is your browser history. The public key (/Users/remy/.ssh/id_rsa.pub) is made to be shared with computers that would like to connect to. 
 
 To make sure that no one else but you can see these, enter the following lines:
 	
 	chmod 700 ~/.ssh
 	chmod 600 ~/.ssh/id_rsa
 
-For this purpose, send your public key to yourself via email for instance so that you can have it on your laptop.
+For this purpose, send your public key to yourself via email for instance or dropbox so that you can have it on your department machine.
 
-On your laptop, go to the folder where you id_rsa.pub is. We will now append our authorized_keys file to allow the key to be used on your laptop:
+On your department machine, go to the folder where your `id_rsa.pub` is. We will now append our authorized_keys file to allow the key to be used on your laptop:
 
 	cat id_rsa.pub >> ~/.ssh/authorized_keys
 
-Agin, let's make sure that our files remain visible only by us:
+Again, let's make sure that our files remain visible only by us:
 
 	chmod 700 ~/.ssh
-	chmod 600 ~./ssh/authorized_keys
+	chmod 600 ~/.ssh/authorized_keys
 
 
 Now you should be able to ssh your department machine from your computer.
 Type:
 	
 	ssh login@domain 
+
+It should actually look like this:
+	
+	ssh remy@coma.astro.princeton.edu
+or:
+	ssh remy@leto.astro.princeton.edu
 
 (Replace login and domain by the appropriate items) There you go, you are now using your department machine from your laptop.
 
