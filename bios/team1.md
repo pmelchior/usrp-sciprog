@@ -1,1 +1,5 @@
-My name is Mark Forese, and I am a rising junior here at Princeton.  I recently delcared Astrophysics, and myhobbies include anything outdoorsy,  specifically rock climbing.
+<<<<<<< HEAD
+Mark Forese is  a rising junior here at Princeton. He is originally from New Canaan, Connecticut. He recently delcared Astrophysics, and myhobbies include anything outdoorsy,  specifically rock climbing.
+=======
+Juliana Pulsinelli is a junior in Princeton's astrophysics department. She is orignally from Knoxville, Tennessee. 
+>>>>>>> 1a36c816ed29e36899f6b3edc30e3c8f164b5e6e
