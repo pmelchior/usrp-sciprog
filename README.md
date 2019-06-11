@@ -54,20 +54,35 @@ All sessions take place in room 033 unless otherwise noted.
 
 ## Colloquia and seminars
 
-Colloquia are held every Thursday 12:30 in the Auditorium; seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
+Colloquia usally are held every Thursday 12:30 in the Auditorium, seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
 
 ### Seminar schedule
 
-TBD
+1. June 18 - Lunch with the graduate students
+2. June 21 - SPECIAL (9am-noon): Scientist's Personal Toolkit ([Melodie Kao](http://www.melodiekao.com/))
+3. June 25 - Visualization (Peter)
+4. July 2 - Statistics (Andy)
+5. July 9 - How to find and read papers (Remy)
+6. July 16 - How to write a paper / Latex (Brandon)
+7. July 23 - How to apply for a job (Rachael)
+8. July 30 - How to give presentations (tbd)
+9. Aug 6 - Practice talks (Andy + all)
 
 ### Colloquium schedule
 
-TBD
+1. June 20 - Introduction to Gravitational Waves (Michael)
+2. June 27 - TBD
+3. July 11 - TBD
+4. July 18 - TBD
+5. July 25 - TBD
+6. August 1 - TBD
 
+In addition we'll have an observing night on the roof of Peyon Hall on July 2 (with a backup on July 9 if necessary).
 
 Links of Interest
 ------------------
 
+* [A Beginner's Guide to Working with Astronomical Data](https://arxiv.org/abs/1905.13189)
 * [Python intro course notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks)
 * [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
 * [Fitting a model to data](http://arxiv.org/abs/1008.4686)
