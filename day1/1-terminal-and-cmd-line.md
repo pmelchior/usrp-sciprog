@@ -89,8 +89,37 @@ The most common commands I use in a shell are:
 
 A few more, ordered by application, are listed in this [cheat sheet](https://www.dropbox.com/s/k7athu9i8lmmeln/Linux%20Cheat%20Sheet%20David%20Relyea.pdf).
 
-Most of the above commands are not actually part of `bash`, but are programs that can be run from within a `bash` shell. So how does `bash` know about these scripts?
+For the following part, we will use one more command, which allows us to create a directory 'mkdir'. From your home directory create a work directory and move to this directory:
+	
+	mkdir Directory_name
+	cd Directory_name
 
+## Text editors (for making quick changes)
+
+Graphical text editors such as ([Atom](https://atom.io/)) have a bunch of nifty, customizable features. Many people instead swear by using shell-based text editors, like `emacs` or `vim`. I don't care what you use, but it's important that you learn the basics in at least one of the shell-based text editors, at least for making quick edits or edits on remote machines. Your options are (to name a few):
+
+* `emacs`
+* `vim`
+* `nano`
+* `sublime`
+
+If you go with `emacs` (that's what I use occasionally), the most important things to know are how to save, and how to quit. To open `emacs`, type the command name with a filename. For example, to edit a file "test.txt" in the current directory:
+
+    $ cd ~/
+    $ emacs test.txt
+
+Type some words in there. Then, to save, do:
+
+    ctrl + x, s
+
+In the above, hold ctrl and hit x, then hit s.
+
+To quit `emacs`, the command sequence is:
+
+    ctrl + x, c
+
+
+Most of the above commands are not actually part of `bash`, but are programs that can be run from within a `bash` shell. So how does `bash` know about these scripts?
 
 ## Environment variables
 
@@ -118,32 +147,6 @@ bash       cp         dd         echo       hostname   launchctl  ls         pax
 cat        csh        df         ed         kill       link       mkdir      ps         rmdir      stty       test       zsh
 
 Aha! So all of those commands we were playing with above are just executable programs that like in a path that `Bash` knows about. You can add other paths to your `$PATH` variable to make `Bash` aware of other program locations. __But beware__: if you accidentally delete the contents of the variable, it can be a huge pain to fix!
-
-
-## Text editors (for making quick changes)
-
-Graphical text editors such as ([Atom](https://atom.io/)) have a bunch of nifty, customizable features. Many people instead swear by using shell-based text editors, like `emacs` or `vim`. I don't care what you use, but it's important that you learn the basics in at least one of the shell-based text editors, at least for making quick edits or edits on remote machines. Your options are (to name a few):
-
-* `emacs`
-* `vim`
-* `nano`
-* `sublime`
-
-If you go with `emacs` (that's what I use occasionally), the most important things to know are how to save, and how to quit. To open `emacs`, type the command name with a filename. For example, to edit a file "test.txt" in the current directory:
-
-    $ cd ~/
-    $ emacs test.txt
-
-Type some words in there. Then, to save, do:
-
-    ctrl + x, s
-
-In the above, hold ctrl and hit x, then hit s.
-
-To quit `emacs`, the command sequence is:
-
-    ctrl + x, c
-
 
 ## Startup and configuration files
 
