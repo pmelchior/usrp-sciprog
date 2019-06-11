@@ -2,8 +2,7 @@ This is the team bio for Sinclaire and Tori:
 
 Sinclaire
 
-I am a sophomore at Princeton.
-
+I am a sophomore at Princeton University from Northern Virginia. I hope to major in astrophysics and I have a particular interest in exoplanets. I am a member of the Princeton Highsteppers and I enjoy watching soccer and stargazing in my free time :)
 
 
 
