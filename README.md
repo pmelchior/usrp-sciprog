@@ -33,11 +33,11 @@ All sessions take place in room 033 unless otherwise noted.
 
 * Introduction to python: 9:30 - 10:30  
 * AstroCoffee: 10:30 - 11:00
-* Introduction to numpy + broadcasting exercise (if time permits otherwise switch to afternoon): 11:00 - 12:30
+* Introduction to numpy + broadcasting exercise : 11:00 - 12:30
 * Lunch: 12:30 - 14:00
-* Discussion (quick word on IDEs: text, IDLE, atom, pycharm…): 14:00 - 14:30
+* Discussion: 14:00 - 14:30
 * Break:  14:30 - 15:00
-* Estimate pi (+ more exercises around object oriented programming if time permits):  15:00 - 17:00
+* Estimate pi:  15:00 - 17:00
 
 ### Thursday
 
@@ -54,7 +54,7 @@ All sessions take place in room 033 unless otherwise noted.
 
 ## Colloquia and seminars
 
-Colloquia usally are held every Thursday 12:30 in the Auditorium, seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
+Colloquia usually are held every Thursday 12:30 in the Auditorium, seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
 
 ### Seminar schedule
 
