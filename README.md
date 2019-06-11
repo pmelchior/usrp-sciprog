@@ -35,7 +35,7 @@ All sessions take place in room 033 unless otherwise noted.
 * AstroCoffee: 10:30 - 11:00
 * Introduction to numpy + broadcasting exercise (if time permits otherwise switch to afternoon): 11:00 - 12:30
 * Lunch: 12:30 - 14:00
-*0 Discussion (quick word on IDEs: text, IDLE, atom, pycharm…): 14:00 - 14:3
+* Discussion (quick word on IDEs: text, IDLE, atom, pycharm…): 14:00 - 14:30
 * Break:  14:30 - 15:00
 * Estimate pi (+ more exercises around object oriented programming if time permits):  15:00 - 17:00
 
