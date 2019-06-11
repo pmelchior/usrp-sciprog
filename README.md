@@ -71,10 +71,10 @@ Colloquia usually are held every Thursday 12:30 in the Auditorium, seminars ever
 ### Colloquium schedule
 
 1. June 20 - Introduction to Gravitational Waves (Michael)
-2. June 27 - TBD
-3. July 11 - TBD
+2. June 27 - Josh Winn
+3. July 11 - Jenny Greene
 4. July 18 - TBD
-5. July 25 - TBD
+5. July 25 - Jo Dunkley
 6. August 1 - TBD
 
 In addition we'll have an observing night on the roof of Peyon Hall on July 2 (with a backup on July 9 if necessary).
