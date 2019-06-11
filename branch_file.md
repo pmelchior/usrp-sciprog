@@ -1,1 +1,1 @@
-Thi is a new file in a new branch
+Thi was a file initialised with the branch it is now changed
