@@ -18,4 +18,4 @@ Work with your group to measure the properties of the object in your dataset and
 
 #### Presentations & Wrap Up
  - Group Presentations 
- - Wrap Up (Google Slides)
+ - [Wrap Up](https://docs.google.com/presentation/d/16UY8XsUjypvNCFJR_etizBLsSZql_MFhIh6wKQxju64/edit?usp=sharing) (Google Slides)
