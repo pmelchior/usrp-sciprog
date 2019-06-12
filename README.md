@@ -1,5 +1,17 @@
 # Princeton Undergraduate Summer Research Program in Astrophysics
 
+*** Trouble shoot***
+
+For windows users, if anacanda stops working in your Ubuntu environment, you should follow the following course of action:
+In your Ubuntu environment, enter the following commands:
+
+   wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+   bash Anaconda3-2019.03-Linux-x86_64.sh
+   source .bashrc
+
+
+
+
 Day1
 
 This repo contains information about the USRP at the Department of Astrophysical Sciences, foremost material for its first week course "Intro to Scientific Programming", aka *bootcamp*.
