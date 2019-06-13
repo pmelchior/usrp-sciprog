@@ -1,21 +1,5 @@
 # Princeton Undergraduate Summer Research Program in Astrophysics
 
-## Trouble shoot
-
-For windows users, if anacanda stops working in your Ubuntu environment, you should follow the following course of action:
-In your Ubuntu environment, enter the following commands:
-
-   wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
-
-   bash Anaconda3-2019.03-Linux-x86_64.sh
-
-   source .bashrc
-
-
-
-
-Day1
-
 This repo contains information about the USRP at the Department of Astrophysical Sciences, foremost material for its first week course "Intro to Scientific Programming", aka *bootcamp*.
 
 **Before you start, please make sure that you have all necessary software installed on your personal machine. To help you along the way, have a look at [these instructions](SETUP-INSTALLATION.md).**
@@ -63,7 +47,6 @@ All sessions take place in room 033 unless otherwise noted.
 
 ### Friday
 
-* Hubble expansion with proto-MCMC
 * Non-linear models
 * Transient light curve
 * Pizza lunch
@@ -71,6 +54,8 @@ All sessions take place in room 033 unless otherwise noted.
 ## Colloquia and seminars
 
 Colloquia usually are held every Thursday 12:30 in the Auditorium, seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
+
+**In addition we'll have an observing night on the roof of Peyon Hall on July 2 (with a backup on July 9 if necessary).**
 
 ### Seminar schedule
 
@@ -92,8 +77,6 @@ Colloquia usually are held every Thursday 12:30 in the Auditorium, seminars ever
 4. July 18 - TBD
 5. July 25 - Jo Dunkley
 6. August 1 - TBD
-
-In addition we'll have an observing night on the roof of Peyon Hall on July 2 (with a backup on July 9 if necessary).
 
 Links of Interest
 ------------------
