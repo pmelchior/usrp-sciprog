@@ -105,9 +105,11 @@ def with_indices(coord1, coord2):
     n1,n2 = np.int(coord1.shape[0]), np.int(coord2.shape[0])
     #coordinates of the correspondanc points the two datasets (not obvious, please ask me)
     rows, cols = np.where(np.zeros((n1,n2))==0)
+    
     #reshaping to match the expected output format
     rows = rows.reshape(n1,n2)#np.indices((coord1.shape[0], coord2.shape[0]))
     cols = cols.reshape(n1,n2)
+    print(rows, cols)
     #compute distance by associating results to the positionsof each coordinate in its own dataset (again, not necessarily easy to follow)
     distances = np.sqrt(np.sum((coord1[rows, :] - coord2[cols, :]) ** 2, axis=2))
     #return the distances
