@@ -1,1 +1,3 @@
 We will first review a simple but effective optimization method: [Newton's Method](Newton-Method.ipynb). Then we will use a minimizer to find the best-fit parameters of a [transiting exoplanet](Transit.ipynb).
+
+test
