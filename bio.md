@@ -1,1 +1,0 @@
-My name is Fatima Zaidouni, I am a rising senior, physics and astronomy major, from the university of rochester. I love cats. 
