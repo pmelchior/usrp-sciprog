@@ -47,9 +47,13 @@ All sessions take place in room 033 unless otherwise noted.
 
 ### Friday
 
-* Non-linear models
-* Transient light curve
-* Pizza lunch
+* Introduction to Project + Topical Lessons: 9:30 - 10:30
+* Project Work: 10:30 - 12:00
+* Pizza Lunch: 12:00 - 13:00
+* Introduction to Non-linear models: 13:00 - 14:00
+* Project Work: 14:00 - 16:00 
+* Project Presentations & Wrap Up: 16:00 - 17:00
+* Social Hour: 17:00 - 18:00
 
 ## Colloquia and seminars
 
