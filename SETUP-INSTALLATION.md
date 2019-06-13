@@ -45,7 +45,6 @@ With that in mind, there are a few things we would like you all to do *before* a
 
    https://repo.anaconda.com/archive/Anaconda3-2019.03-MacOSX-x86_64.pkg
 
-
 --------
 
 
@@ -56,3 +55,17 @@ https://www.codecademy.com/courses/learn-git/lessons/git-workflow
 
 For Python:
 http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
+
+
+
+## Troubleshooting
+
+For windows users, if anacanda stops working in your Ubuntu environment, you should follow the following course of action:
+In your Ubuntu environment, enter the following commands:
+
+  ```bash
+wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+bash Anaconda3-2019.03-Linux-x86_64.sh
+source .bashrc
+  ```
+
