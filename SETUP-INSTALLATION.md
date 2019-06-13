@@ -18,19 +18,19 @@ With that in mind, there are a few things we would like you all to do *before* a
 
 (you may need to type your computer login password)
 
-3. Install Anaconda for Linux with Python 3.6 (note: *not* Anaconda for Windows!). To do this, in your command prompt, again make sure you are in the bash shell (if you still have the window open from the last step, use that, or type "bash" in a new command prompt). Then run:
+3. Install Anaconda for Linux with Python 3.7 (note: *not* Anaconda for Windows!). To do this, in your command prompt, again make sure you are in the bash shell (if you still have the window open from the last step, use that, or type "bash" in a new command prompt). Then run:
     ```
-    wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
-    bash Anaconda3-5.2.0-Linux-x86_64.sh
+    wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+    bash Anaconda3-2019.03-Linux-x86_64.sh
     ```
 
 
 ## If you use Linux on your laptop:
 
-1. Install Anaconda for Linux with Python 3.6. Open a terminal prompt, then run:
+1. Install Anaconda for Linux with Python 3.7. Open a terminal prompt, then run:
     ```
-    wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
-    bash Anaconda3-5.2.0-Linux-x86_64.sh
+    wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+    bash Anaconda3-2019.03-Linux-x86_64.sh
     ```
 
 
@@ -41,9 +41,9 @@ With that in mind, there are a few things we would like you all to do *before* a
     xcode-select --install
     ```
 
-2. Install Anaconda for Mac with Python 3.6. Download the following installer, then double-click to open it and follow instructions to install:
+2. Install Anaconda for Mac with Python 3.7. Download the following installer, then double-click to open it and follow instructions to install:
 
-    https://repo.anaconda.com/archive/Anaconda3-5.2.0-MacOSX-x86_64.pkg
+   https://repo.anaconda.com/archive/Anaconda3-2019.03-MacOSX-x86_64.pkg
 
 
 --------
@@ -56,6 +56,3 @@ https://www.codecademy.com/courses/learn-git/lessons/git-workflow
 
 For Python:
 http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
-
-
-Please feel free to contact me or the other week 0 organizers (cc'd) if you run in to any problems!

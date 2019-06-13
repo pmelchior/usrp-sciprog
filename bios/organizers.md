@@ -1,14 +1,10 @@
 Team bio for the URSP organizers
 --------------------------------
 
-Andy Goulding received his [PhD](http://adsabs.harvard.edu/abs/2010PhDT.......223G) from Durham
-University (UK) in 2010. He was a Smithsonian Postdoctoral Fellow at
-the Harvard-Smithsonian Center for Astrophysics from 2010-2014, and
-came to Princeton in the fall of 2014. His research focuses on the
-demographics of active galactic nuclei, and observations of the
-co-evolution of supermassive black holes and their host galaxies. This
-is his 2nd year helping with the USRP. His outside interests include
-competitive running and triathlons, skiing, diving and cinema.
+[Remy Joseph](https://remyjoseph.wordpress.com/) got his [PhD](https://infoscience.epfl.ch/record/260467?ln=en) from EPFL in Lausanne (Switzerland) in 2018. He arrived at Princeton in December 2018 to work on  [LSST](http://lsst.org/), and [WFIRST](http://wfirst.gsfc.nasa.gov/). His main mission is to combine different datasets at different depth and resolution to improve the deblending of overlapping galaxies. At night, he wears a cape and uses his super-power: strong gravitational lensing to find his elusive nemesis: Lord dark matter. 
+In between the two Remy enjoys practicing various sports: hiking, soccer, skiing (cross-country), running, bouldering and most of all fencing. 
+
+Andy Goulding received his [PhD](http://adsabs.harvard.edu/abs/2010PhDT.......223G) from Durham University (UK) in 2010. He was a Smithsonian Postdoctoral Fellow at the Harvard-Smithsonian Center for Astrophysics from 2010-2014, and came to Princeton in the fall of 2014. His research focuses on the demographics of active galactic nuclei, and observations of the co-evolution of supermassive black holes and their host galaxies. He is the Chair of the Extragalactic Working Group for the Hyper Suprime-Cam Survey. This is his 5th year co-organizing the USRP. His outside interests include competitive running and triathlons, skiing, diving and cinema.
 
 Peter Melchior got his [PhD](http://archiv.ub.uni-heidelberg.de/volltextserver/10954/) from Heidelberg University (Germany) in 2010, was a [CCAPP Fellow](http://ccapp.osu.edu) at the Ohio State University from 2011 - 2015, and came to Princeton in the fall of 2015.
 His research interests are in observational cosmology, particularly the high-precision measurements necessary for [weak gravitational lensing](http://pmelchior.net/research_des_sv_clusters.html), and astrostatistics.
