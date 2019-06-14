@@ -294,3 +294,15 @@ Ndarrays have a set of methods, i.e. functions that can be called directly on th
     
 For the rest, practice is better than words, let us take a look at a few examples.
     
+# A quick word on IDEs
+
+So far we have been using `emacs` or `vim` with command lines. 
+There are other interpreters out there that have some nice features to make coding simpler and more comfy. 
+Here are a few examples. You might now others. I invite you to look tem up on line.
+
+* Sublime
+* idle
+* atom (customizable)
+* PyCharm (for python)
+* Canpoy
+ 
