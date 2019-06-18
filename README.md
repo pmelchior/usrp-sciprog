@@ -4,56 +4,18 @@ This repo contains information about the USRP at the Department of Astrophysical
 
 **Before you start, please make sure that you have all necessary software installed on your personal machine. To help you along the way, have a look at [these instructions](SETUP-INSTALLATION.md).**
 
-## General schedule of week 1
+## Schedule of the week
+
+All sessions take place in room 033 unless otherwise noted. **The agenda for each days is detailed in the respective README files**, but in general every day looks roughly like this:
+
 
 * 09:30-10:30 Course 1
 * 10:30-11:00  Astro Coffee (Grand Central)
 * 11:00-12:00  Course 2
 * 12:00-13:00  Lunch
-* 13:00-14:30  Discussion / Group exercise work
+* 13:00-14:30  Course 3
 * 14:30-15:00 Break
-* 15:00-17:00  Course 3 / Open time
-
-All sessions take place in room 033 unless otherwise noted.
-
-### Tuesday (special schedule!)
-
-* Installation help: 9–9:30 (Room 140)
-* Breakfast and introductions: 9:30–10:30 (Grand central)
-    * General introduction to department
-    * Overview of full program
-    * Introduce the plan for the day
-* Astro coffee: 10:30-11:00 (Grand Central)
-* Linux basics and start laptop setup: 11:00–12:00
-* More laptop setup and linux: 13:30–14:00
-* SSH and remote login to department machines: 14:00–15:00 (030)
-* Git tutorial: 15:00–17:00
-
-### Wednesday
-
-* Introduction to python: 9:30 - 10:30  
-* AstroCoffee: 10:30 - 11:00
-* Introduction to numpy + broadcasting exercise : 11:00 - 12:30
-* Lunch: 12:30 - 14:00
-* Discussion: 14:00 - 14:30
-* Break:  14:30 - 15:00
-* Estimate pi:  15:00 - 17:00
-
-### Thursday
-
-* Astropy
-* Fitting a line to data
-* Hubble expansion with linear algebra
-
-### Friday
-
-* Introduction to Project + Topical Lessons: 9:30 - 10:30
-* Project Work: 10:30 - 12:00
-* Pizza Lunch: 12:00 - 13:00
-* Introduction to Non-linear models: 13:00 - 14:00
-* Project Work: 14:00 - 16:00 
-* Project Presentations & Wrap Up: 16:00 - 17:00
-* Social Hour: 17:00 - 18:00
+* 15:00-17:00  Course 4 / Open time
 
 ## Colloquia and seminars
 

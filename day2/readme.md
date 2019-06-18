@@ -1,4 +1,6 @@
-Schedule:
+# Day 2: Introduction to python
+
+## Schedule
 
 * 9:30 - 10:30 Introduction to python (+notebooks)  
 * 10:30 - 11:00 AstroCoffee
@@ -7,8 +9,6 @@ Schedule:
 * 14:00 - 14:30 Discussion (quick word on IDEs: text, IDLE, atom, pycharm…) 
 * 14:30 - 15:00 Break
 * 15:00 - 17:00 Estimate pi (+ more exercises around object oriented programming if time permits)
-
-# Introduction to python:
 
 ## Command line and scripts
 
@@ -65,7 +65,7 @@ It is possible to execute a script directly from the python terminal where other
     for instance, I can declare functions and execute them. 
     Here I add 3 and -10 to make -7
     ```
-    
+  
 
 Inside the python terminal, once a script or module is imported, it is possible to call functions from this module. 
 Example, here:
@@ -73,8 +73,9 @@ Example, here:
 
     >>> hello.add_numbers(2,3)
     5
-    
-    
+
+
+​    
 * Jupyter notebook: 
 An interactive terminal to execute python commands and comment code with a nice presentation
 
@@ -91,7 +92,7 @@ A .py file can be imported in various different ways. Here I will showcase impor
 in the imported file:
 
 * full name import:
-    
+  
     ```
     >>> import hello
     >>> #usage:
@@ -163,6 +164,7 @@ The usual operators exist in python and have a simple form:
     is 
     is not
     
+
 A more in depth description of these operators can be fount here:
 [https://data-flair.training/blogs/python-operator/](https://data-flair.training/blogs/python-operator/)
 
@@ -222,7 +224,7 @@ For loops allow to perform repetitive operations on consecutive elements of an a
         operations_inside_loop
     other_operations_outside_loop
     ```
-    
+
 ### While loops
 While loops allow to perform repetitive operations as long as a condition is not met. A `while` loop needs an `condition` 
 that should update at each iteration:
@@ -262,21 +264,21 @@ Numpy is a package that allows to do maths with large arrays.
 Numpy is classically imported using the command:
 
     import numpy as np
-    
+
 I strongly advocate for the use of this syntax. Any other syntax will make potential collaborators hate you with 
 all the fibers of their being. 
- 
+
 ## ndarray
 A core feature of this package is the `ndarray` which is the type that array declared using numpy take. 
 There are many ways to declare array in numpy:
 
-    
+
     np.ndarray(4)           an empty array of 4 elements
     np.zeros((3,4))         a 3 by 4 array of zeros
     np.ones((3,5,3))        a 3 by 5 by 3 array of ones
     np.arange(1,10,2)       an array of floats between 1 and 10 spaced by 2
     np.random.randn(4)      an array of 4 values drawn at random from a normal distribution
-    
+
 ## Methods of ndarrays
 Ndarrays have a set of methods, i.e. functions that can be called directly on the array using the syntax
 `array.method(optional_arguments)`. These methods are inherited from numpy. As such, they can be calles as functions
@@ -290,10 +292,11 @@ Ndarrays have a set of methods, i.e. functions that can be called directly on th
     a.dot(b)            Computes the dot (matrix) product of a and b
     a.reshape(newshape) reshapes into an array with the same number of elements
     a.flatten()         renders a multi-dimensional array as a line
-    
-    
+
+
+​    
 For the rest, practice is better than words, let us take a look at a few examples.
-    
+​    
 # A quick word on IDEs
 
 So far we have been using `emacs` or `vim` with command lines. 
@@ -305,4 +308,3 @@ Here are a few examples. You might now others. I invite you to look tem up on li
 * atom (customizable)
 * PyCharm (for python)
 * Canpoy
- 
