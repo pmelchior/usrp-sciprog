@@ -2,13 +2,12 @@
 
 ## Schedule
 
-* 9:30 - 10:30 Introduction to python (+notebooks)  
+* 9:30 - 10:30 Introduction to python (optional if you can solve these [exercises])  
 * 10:30 - 11:00 AstroCoffee
-* 11:00 - 12:30 Introduction to numpy + broadcasting exercise 
+* 11:00 - 12:30 Python exercises (optional)
 * 12:30 - 14:00 Lunch
-* 14:00 - 14:30 Discussion (quick word on IDEs: text, IDLE, atom, pycharm…) 
-* 14:30 - 15:00 Break
-* 15:00 - 17:00 Estimate pi (+ more exercises around object oriented programming if time permits)
+* 14:00 - 15:30 Introduction to numpy
+* 15:30 - 17:00 Numpy exercises
 
 ## Command line and scripts
 
@@ -200,7 +199,7 @@ executed as a group. Ending an indent ends the group end hence the compound stat
 A function has a simple structure. It is declared using the cammand `def`. A function has a `name`, some `arguments` and
  returns a `result`:
 
-    ```
+   
     def name(arguments):
         ''' short description
         longer description
@@ -213,34 +212,34 @@ A function has a simple structure. It is declared using the cammand `def`. A fun
         '''
         some_commands(arguments)
         return result
-    ```    
+  
 
 ### For loops
 For loops allow to perform repetitive operations on consecutive elements of an array. A `for` loop therefore needs an 
 `array` and a name for an `iterator` inside the array:
 
-    ```
+
     for iterator in array:
         operations_inside_loop
     other_operations_outside_loop
-    ```
+
 
 ### While loops
 While loops allow to perform repetitive operations as long as a condition is not met. A `while` loop needs an `condition` 
 that should update at each iteration:
 
-    ```
+
     while condition:
         operations_change_condition
     operations_once_condition_met
-    ```
+
 ### If statements
 If statement allow to execute a group of commands only if a condition is met. Several conditions can be put together to 
 cover many cases. For that purpose, the elif statement is the logic equivalent to `else if`. Meaning that if the 
 condition for the `if` is not met, the condition for `elif` should be tested and so on. the `else` statement covers all 
 the cases not covered by `if` and `elif`s
 
-    ``` 
+ 
     if condition1:
         operation
     elif condition2:
@@ -250,7 +249,6 @@ the cases not covered by `if` and `elif`s
     else:
         operation4
     other_operations
-    ```
 
 
 ## Commenting
