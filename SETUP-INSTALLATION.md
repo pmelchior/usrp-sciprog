@@ -60,12 +60,9 @@ http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Ind
 
 ## Troubleshooting
 
-For windows users, if anacanda stops working in your Ubuntu environment, you should follow the following course of action:
-In your Ubuntu environment, enter the following commands:
+For windows users, if anacanda stops working in your Ubuntu environment, you need to load your `.bashrc` again:
 
   ```bash
-wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
-bash Anaconda3-2019.03-Linux-x86_64.sh
 source .bashrc
   ```
 
