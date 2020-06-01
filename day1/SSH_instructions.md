@@ -12,6 +12,8 @@ https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-s
 
 We strongly recommend that you read these instructions to get a better understanding of ssh and ssh keys. In the following, we will see how to setup an ssh key and use it to. Connect remotely.
 
+This year, due to the ongoing pandemic and because campers won't have physical access to the department machines, instructions about key generation and exchange will be communicated via email.
+
 ### SSH key
 
 SSH keys are a mean of identification between two machines. One machine, the one we would like to ssh from, has to generate a key. The key is then passed on to the machines that we want to access. This way, it ensures that only the machines to which we sent a key can connect.
