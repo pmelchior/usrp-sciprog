@@ -1,8 +1,6 @@
-Welcome to the USRP software and computing tutorial week!
+# Setup Instructions
 
-The plan for the week is to give you an overview of good things to know when it comes to scientific computing, give you time to do some hands-on exercises, and provide resources for you to learn more. We aim to cover basic unix commands and remote login (ssh), software version control (git and github), the Python programming language and scientific programming stack, and basic statistics. Given that we only have a week, we will only scratch the surface on each of these topics, but many of us will be around and willing (physically or via email/Slack) to provide support and additional guidance throughout the summer.
-
-With that in mind, there are a few things we would like you all to do *before* arriving next Tuesday. Please try to do this by the end of *this* week, so if you run into any issues we can try to help solve before you arrive.
+Most of us use a python package system called `anaconda`. It has many advantages, so please use it as well even if yo already have a python installation on your machine.
 
 
 ## If you use Windows on your laptop:
@@ -20,8 +18,8 @@ With that in mind, there are a few things we would like you all to do *before* a
 
 3. Install Anaconda for Linux with Python 3.7 (note: *not* Anaconda for Windows!). To do this, in your command prompt, again make sure you are in the bash shell (if you still have the window open from the last step, use that, or type "bash" in a new command prompt). Then run:
     ```
-    wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
-    bash Anaconda3-2019.03-Linux-x86_64.sh
+    wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+    bash Anaconda3-2020.02-Linux-x86_64.sh
     ```
 
 
@@ -29,8 +27,8 @@ With that in mind, there are a few things we would like you all to do *before* a
 
 1. Install Anaconda for Linux with Python 3.7. Open a terminal prompt, then run:
     ```
-    wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
-    bash Anaconda3-2019.03-Linux-x86_64.sh
+    wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+    bash Anaconda3-2020.02-Linux-x86_64.sh
     ```
 
 
@@ -43,7 +41,7 @@ With that in mind, there are a few things we would like you all to do *before* a
 
 2. Install Anaconda for Mac with Python 3.7. Download the following installer, then double-click to open it and follow instructions to install:
 
-   https://repo.anaconda.com/archive/Anaconda3-2019.03-MacOSX-x86_64.pkg
+   https://repo.anaconda.com/archive/Anaconda3-2020.02-MacOSX-x86_64.pkg
 
 --------
 

@@ -2,11 +2,13 @@
 
 This repo contains information about the USRP at the Department of Astrophysical Sciences, foremost material for its first week course "Intro to Scientific Programming", aka *bootcamp*.
 
-**Before you start, please make sure that you have all necessary software installed on your personal machine. To help you along the way, have a look at [these instructions](SETUP-INSTALLATION.md).**
+The plan for the first week is to give you an overview of good things to know when it comes to scientific computing, give you time to do some hands-on exercises, and provide resources for you to learn more. We aim to cover basic unix commands and remote login (ssh), software version control (git and github), the Python programming language and scientific programming stack, and basic statistics. Given that we only have a week, we will only scratch the surface on each of these topics, but many of us will be around and willing (physically or via email/Slack) to provide support and additional guidance throughout the summer.
+
+**Before you start, please make sure that you have all necessary software installed on your personal machine *before* we start the bootcamp. To help you along the way, have a look at [these instructions](SETUP-INSTALLATION.md).**
 
 ## Schedule of the week
 
-All sessions take place in room 033 unless otherwise noted. **The agenda for each days is detailed in the respective README files**, but in general every day looks roughly like this:
+All sessions take place virtually on zoom. **The agenda for each days is detailed in the respective README files**, but in general every day looks roughly like this (all times Eastern):
 
 
 * 09:30-10:30 Course 1
@@ -19,30 +21,26 @@ All sessions take place in room 033 unless otherwise noted. **The agenda for eac
 
 ## Colloquia and seminars
 
-Colloquia usually are held every Thursday 12:30 in the Auditorium, seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
-
-**In addition we'll have an observing night on the roof of Peyon Hall on July 2 (with a backup on July 9 if necessary).**
+Colloquia usually are held every Thursday 12:30, seminars every Tuesday 12:30. You'll receive zoom invitations for them.
 
 ### Seminar schedule
 
-1. June 18 - Lunch with the graduate students
-2. June 21 - SPECIAL (9am-noon): Scientist's Personal Toolkit ([Melodie Kao](http://www.melodiekao.com/))
-3. June 25 - Visualization (Peter)
-4. July 2 - Statistics (Andy)
-5. July 9 - How to find and read papers (Remy)
-6. July 16 - How to write a paper / Latex (Brandon)
-7. July 23 - How to apply for a job (Rachael)
-8. July 30 - How to give presentations (tbd)
-9. Aug 6 - Practice talks (Andy + all)
+1. June 16 - Visualization (Peter)
+2. June 23 - Statistics (Andy)
+3. June 30 - How to find and read papers (tbd)
+4. July 7 - How to write a paper / Latex (Brandon)
+5. July 14 - How to apply for a job (Rachael)
+6. July 21 - How to give presentations (tbd)
+7. July 28 -  Practice talks (all)
 
 ### Colloquium schedule
 
-1. June 20 - Introduction to Gravitational Waves (Michael)
-2. June 27 - Josh Winn
-3. July 11 - Jenny Greene
-4. July 18 - TBD
-5. July 25 - Jo Dunkley
-6. August 1 - TBD
+1. June 18 - tbd
+2. June 25 - tbd
+3. July 2 - tbd
+4. July 9 - tbd
+5. July 16 - tbd
+6. July 23 - tbd
 
 Links of Interest
 ------------------
