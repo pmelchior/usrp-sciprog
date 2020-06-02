@@ -21,9 +21,9 @@ After going through this mini tutorial, you should read [this longer tutorial](h
 1. If you don't have one already, create an account on github.com
 
 2. Make a repository on GitHub for your research this summer:
-    #. Give it a useful name, related to the science you will be doing (e.g., not "usrp"; it could be something like "galaxy-clustering")
-    #. Check the box __Initialize this repository with a README__
-    #. Click the __Add a license__ dropdown and select "__MIT License__"
+    * Give it a useful name, related to the science you will be doing (e.g., not "usrp"; it could be something like "galaxy-clustering")
+    * Check the box __Initialize this repository with a README__
+    * Click the __Add a license__ dropdown and select "__MIT License__"
 
 3. Clone the repository onto your computer (suggestion: make a 'repositories' or 'repos' or 'projects' directory under your home directory and clone it there):
 
@@ -47,6 +47,12 @@ After going through this mini tutorial, you should read [this longer tutorial](h
     * Clone the repository onto your department computer
     * Edit the `README.md` file to add your name and github username
     * Add and commit the changes, then push the changes up to GitHub
+
+7 bis. Alternatively, if you don't know how to ssh a department's machine:
+    * Go to your github repository's page on your favourite web browser.
+    * Click the file README.md and click the edit button (pen in the top right corner)
+    * Edit the `README.md` file to add your name and github username
+    * Commit the changes at the bottom of the page.
 
 8. Back on your laptop, pull these new changes
 
@@ -73,6 +79,8 @@ To summarize, this is what a typical simple workflow should look like:
 		$ git commit -m 'more changes'
 		<when you're ready to stand up from computer>
 		$ git push
+		
+To visualise the commit history on your machine, use `git log`. A concise and graphical way of visualizing this is to use `git log --graph --decorate --oneline`. to visualize all **pushed** commits you can also to your repository's web page, click the `insights` tab in the top right corner and open the `Network` tab.
 
 __One more note__: Whenever you rename or remove files that are being tracked by git, use the `git rm` or `git mv` commands rather than just `rm` or `mv`. so that git won't get confused.
 ​
