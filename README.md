@@ -38,7 +38,7 @@ Colloquia usually are held every Thursday 12:30, seminars every Tuesday 12:30. Y
 3. June 30 - How to find and read papers (Rémy)
 4. July 7 - How to write a paper / Latex (Brandon)
 5. July 14 - How to apply for a job (Rachael)
-6. July 21 - How to give presentations (tbd)
+6. July 21 - How to give presentations (Jamie)
 7. July 28 -  Practice talks (all)
 
 ### Colloquium schedule
