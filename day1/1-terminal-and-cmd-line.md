@@ -46,6 +46,20 @@ You can get a lot more information out of `ls` using various flags. One I use ve
 
 This shows some cryptic information, then the owner of the file, the filesize, the time it was last modified, and then the filenames.
 
+
+####Aparte: 
+the first 10 symbols refer to the type of file (`-` for file, `d` for directories), the rights for reading (`r`), writing (`w`) and executing (`x`) for the current user (`rw-`), the members of the group `staff` (`r--`) and other users (`r--`).
+It is possible to change these rights. This is done with the `chmod` command:
+    
+    $ chmod 700 Documents/photo.jpg
+    -rwx------@ 1 adrian  staff     116337 Feb  6  2017 photo.jpg
+    
+The three numbers in the arguments of `chmod` refer to the right of the owner, group and all users respectively. a number between 0 and seven will edit the rights based on there binary version. 
+For instance: 
+* 1 = 001 -> `--x`, 
+* 5 = 101 -> `r-x`, 
+* 7 = 111 -> `rwx`.
+
 Notice I had to type the name of the Documents folder each time because that is a subdirectory within the path that I am currently in (/Users/adrian). In any shell, you can also move your current working directory using the `cd` (change directory) command. For example, I can move into the Documents folder:
 
     $ cd Documents
@@ -103,6 +117,8 @@ Graphical text editors such as ([Atom](https://atom.io/)) have a bunch of nifty,
 * `nano`
 * `sublime`
 
+### emacs
+
 If you go with `emacs` (that's what I use occasionally), the most important things to know are how to save, and how to quit. To open `emacs`, type the command name with a filename. For example, to edit a file "test.txt" in the current directory:
 
     $ cd ~/
@@ -121,6 +137,27 @@ To quit `emacs`, the command sequence is:
 
 Most of the above commands are not actually part of `bash`, but are programs that can be run from within a `bash` shell. So how does `bash` know about these scripts?
 
+###vim
+
+Another useful interpreter to know is `vim`. In particular since we might have to use it later today. 
+
+To open a file with vim: 
+```
+    vim test.txt
+```
+
+To close and save a file hit `Ctrl - C` and enter: 
+```
+    :wq 
+```
+To save a file:
+```
+    :w
+```
+To quit without saving:
+```
+    :q!
+```
 ## Environment variables
 
 All shells allow setting variables that store values. There are also a number of special variable names that control aspects of the shell. To set an environment variable, you just have to set some value to a name with the = operator:
