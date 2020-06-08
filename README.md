@@ -6,7 +6,7 @@ The plan for the first week is to give you an overview of good things to know wh
 
 **Before you start, please make sure that you have all necessary software installed on your personal machine *before* we start the bootcamp. To help you along the way, have a look at [these instructions](SETUP-INSTALLATION.md).**
 
-For live questions of general interest to the "camp masters" and to keep in touch, please subscribe to the [PUAstro slack](https://join.slack.com/t/puastro/signup) workspace and to the [#usrp-bootcamp](https://puastro.slack.com/archives/C014EAUJFDL) channel.
+For live questions of general interest to the "camp masters" and to keep in touch with your fellow campers, please subscribe to the slack channels (details sent via email, or ask your camp master/mentor) .
 
 ## Schedule of the week
 
@@ -20,7 +20,7 @@ All sessions take place virtually on zoom. **The agenda for each days is detaile
 
 
 * 09:30-10:30 Course 1
-* 10:30-11:00  Astro Coffee ([zoom](https://princeton.zoom.us/j/91714875890), [slack channel](https://puastro.slack.com/archives/CV73ZC58S))
+* 10:30-11:00  Astro Coffee (ask for zoom and slack channel)
 * 11:00-12:00  Course 2
 * 12:00-13:00  Lunch
 * 13:00-14:30  Course 3
@@ -38,7 +38,7 @@ Colloquia usually are held every Thursday 12:30, seminars every Tuesday 12:30. Y
 3. June 30 - How to find and read papers (Rémy)
 4. July 7 - How to write a paper / Latex (Brandon)
 5. July 14 - How to apply for a job (Rachael)
-6. July 21 - How to give presentations (tbd)
+6. July 21 - How to give presentations (Jamie)
 7. July 28 -  Practice talks (all)
 
 ### Colloquium schedule
