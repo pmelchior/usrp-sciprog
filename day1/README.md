@@ -3,16 +3,13 @@
 ## Schedule
 
 - Installation help: 9–9:30 
-- Breakfast and introductions: 9:30–10:30 
-  - General introduction to department
-  - Overview of full program
-  - Introduce the plan for the day
+- Linux basics and start laptop setup: 9:30–10:30 
 - Astro coffee: 10:30-11:00 
-- Linux basics and start laptop setup: 11:00–12:00 
-- More laptop setup and linux: 13:30–14:00 
-- Git tutorial: 14:00–15:00 
+- More laptop setup and linux: 11:00–12:00 
+- Git tutorial: 13:30–14:00 
+- Git exercises: 14:00–15:00 
 - Break: 15:00–15:30
-- 15:30 - 17:00 Git exercises 
+- SSH setup: 15:30-17:00 
 
 ## Goals
 
