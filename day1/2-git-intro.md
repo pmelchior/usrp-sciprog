@@ -156,3 +156,18 @@ You may find yourself in a position where you want to contribute to a GitHub rep
 	$ git fetch upstream
 	$ git checkout master
 	$ git merge upstream/master
+
+Useful tips to visualize the status of your repo and your branches:
+Check the status of your branch (added and committed files)
+```
+     git status
+```
+Check your current branch: 
+```
+    git branch
+```
+Visualise your work tree (all branches and their commits): 
+```
+    git log ——graph ——oneline 
+```
+Or got to your GitHub repo’s webpage, click `Insights -> Network` and you will see the full work tree push to this online repo (no information on local changes though!)
