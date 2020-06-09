@@ -30,5 +30,5 @@ Noah Notis is from Allentown, PA. He likes gardening and has found a new appreci
 
 Hello my name is Majid I am a raising senior.
 
-Jessica Stikons grew up in Ringoes, NJ and is currently a rising sophomore at Princeton University. She recently declared her major as Operations Research and Financial Engineering, and intends on receiving a certificate in finance.
+Jessica Stikons grew up in Ringoes, NJ and is currently a rising sophomore at Princeton University. She recently declared her major as Operations Research and Financial Engineering, and intends on receiving a certificate in finance. She is currently working as an Astrophysics Research Intern through the USRP program at Princeton University, and will be researching the risk and likelihood of large space weather events.
 
