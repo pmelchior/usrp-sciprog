@@ -27,4 +27,7 @@ include playing piano, choral music, and sports involving running, balls, or
 flying discs.
 
 
+
 Hello my name is Majid I am a raising senior.
+
+Jessica Stikons grew up in Ringoes, NJ and is currently a sophomore at Princeton University.
