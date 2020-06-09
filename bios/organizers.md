@@ -25,3 +25,5 @@ cosmologist at the [Institute for Advanced Study](https://www.ias.edu/), and the
 named [Andrej](https://www.youtube.com/watch?v=CAIhtf77jD0) and a 5-month old daughter named Zoe.  Outside astronomy, data science, and family, his interests
 include playing piano, choral music, and sports involving running, balls, or
 flying discs.
+
+Jessica Stikons grew up in Ringoes, NJ and is currently a sophomore at Princeton University.
