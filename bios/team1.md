@@ -1,1 +1,1 @@
-Elizabeth Berzin grew up in Huntingdon Valley, PA, and is currently an undergraduate at Princeton University. 
+Elizabeth Berzin grew up in Huntingdon Valley, PA, and is currently an undergraduate at Princeton University. She is planning to major in physics.
