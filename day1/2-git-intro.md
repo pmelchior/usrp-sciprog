@@ -1,6 +1,6 @@
 # Version control and Git
 
-After going through this mini tutorial, you should read [this longer tutorial](http://www.sbf5.com/~cduan/technical/git/) to get a more in depth view of how git actually works.
+After going through this mini tutorial, you should read [this longer tutorial](http://www.sbf5.com/~cduan/technical/git/) to get a more in depth view of how git actually works. To get further acquainted with git I suggest [this book](https://git-scm.com/book/en/v2) in particular.
 
 ## Keywords and quick reference
 
