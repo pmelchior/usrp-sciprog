@@ -10,10 +10,10 @@ For live questions of general interest to the "camp masters" and to keep in touc
 
 ## Schedule of the week
 
-* Tuesday, June 9 - unix commands, version control (github), ssh setup
-* Wednesday, June 10 - python and numpy
-* Thursday, June 11 - statistcal data analysis and astropy
-* Friday, June 12 - Data exploration and min-project
+* Day 1 - unix commands, version control (github), ssh setup
+* Day 2 - python and numpy
+* Day 3 - statistcal data analysis and astropy
+* Day 4 - Data exploration and min-project
 
 
 All sessions take place virtually on zoom. **The agenda for each days is detailed in the respective README files**, but in general every day looks roughly like this (all times Eastern):
