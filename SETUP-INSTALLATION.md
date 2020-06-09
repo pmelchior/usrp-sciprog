@@ -21,7 +21,15 @@ Most of us use a python package system called `anaconda`. It has many advantages
     wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
     bash Anaconda3-2020.02-Linux-x86_64.sh
     ```
+PS: To access the content of your Linux distribution from your windows interface you may follw the steps described on [this website](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/)
 
+The summary is as follows:
+
+Go to your home directory (`C:\Users\remyj` for me) on windows with your usual graphical interface. Among the tabs on the top right click `View` and tick the `Hidden items`  box, then open `AppData\Local\Packages`
+
+In there you should find a file with a barbaric name like `CanonicalGroupLimited.Ubuntuxxxxxxxxx` or search for something that has the name of your distribution in it. Personally I ordered files by date and found the file corresponding to the date I installed the distro.
+
+Once in there go to `LocalState\rootsf\home`  and you should see your home directory.
 
 ## If you use Linux on your laptop:
 
