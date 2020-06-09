@@ -29,7 +29,7 @@ flying discs.
 
 
 
-Hello my name is Majid I am a raising senior.
+Hello my name is Majid I am a senior at the Colorado School of Mines Studying Physics Engineering. I have ambitions of earning a PhD in Physics or Astrophysics with an emphasis superconducting sensors used for cosmological research. I have also had an obsession with quantum engineering.
 
 Jessica Stikons grew up in Ringoes, NJ and is currently a sophomore at Princeton University.
 
