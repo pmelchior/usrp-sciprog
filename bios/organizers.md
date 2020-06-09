@@ -27,3 +27,6 @@ include playing piano, choral music, and sports involving running, balls, or
 flying discs.
 
 Noah Notis is from Allentown, PA.
+
+Jessica Stikons grew up in Ringoes, NJ and is currently a sophomore at Princeton University.
+
