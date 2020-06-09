@@ -14,7 +14,7 @@ You should now have a terminal open and see the blinking cursor eagerly awaiting
 When you first open a shell, you will be in some default path. Usually this is your home folder / directory. To check what path you are in, also known as the current or present working directory, use the `pwd` command. In your shell, type this command and hit enter - you should see something like the below (it may start with /home/... instead):
 
     $ pwd
-    /Users/adrian
+    /Users/remy
 
 To find out what files and folders are in your current directory, use the `ls` command - you should see a bunch of names print out:
 
@@ -40,19 +40,18 @@ Let's say I have many image files in there, and I want to know what PNG images a
 You can get a lot more information out of `ls` using various flags. One I use very frequently is the `-l` flag:
 
     $ ls -l Documents
-    -rw-r--r--  1 adrian  staff  165359616 Aug 22  2016 master.tar.gz
-    -rw-r--r--@ 1 adrian  staff     116337 Feb  6  2017 photo.jpg
-    -rw-r--r--@ 1 adrian  staff     441487 Jun  3  2017 sample_cmd.pn
+    -rw-r--r--  1 remy  staff  165359616 Aug 22  2016 master.tar.gz
+    -rw-r--r--@ 1 remy  staff     116337 Feb  6  2017 photo.jpg
+    -rw-r--r--@ 1 remy  staff     441487 Jun  3  2017 sample_cmd.pn
 
 This shows some cryptic information, then the owner of the file, the filesize, the time it was last modified, and then the filenames.
 
-
-####Aparte: 
+#### Aparte: 
 the first 10 symbols refer to the type of file (`-` for file, `d` for directories), the rights for reading (`r`), writing (`w`) and executing (`x`) for the current user (`rw-`), the members of the group `staff` (`r--`) and other users (`r--`).
 It is possible to change these rights. This is done with the `chmod` command:
     
     $ chmod 700 Documents/photo.jpg
-    -rwx------@ 1 adrian  staff     116337 Feb  6  2017 photo.jpg
+    -rwx------@ 1 remy  staff     116337 Feb  6  2017 photo.jpg
     
 The three numbers in the arguments of `chmod` refer to the right of the owner, group and all users respectively. a number between 0 and seven will edit the rights based on there binary version. 
 For instance: 
@@ -60,11 +59,23 @@ For instance:
 * 5 = 101 -> `r-x`, 
 * 7 = 111 -> `rwx`.
 
+End of aparte.
+
+An advantage of commad line is that we can easily visualise hidden files that start with `.`:
+```
+    $ ls -a Desktop/git_repos/usrp-sciprog/
+    .                     .git                  LICENSE               SETUP-INSTALLATION.md day1                  day4
+    ..                    .gitignore            README.md             activities.md         day2                  discussion.md
+    .DS_Store             .idea                 README.md~            bios                  day3
+
+```
+Notice the files starting with `.` that you cannot visualize in your finder. These are usually used to host commands or environment variables as we will see later.
+
 Notice I had to type the name of the Documents folder each time because that is a subdirectory within the path that I am currently in (/Users/adrian). In any shell, you can also move your current working directory using the `cd` (change directory) command. For example, I can move into the Documents folder:
 
     $ cd Documents
     $ pwd
-    /Users/adrian/Documents
+    /Users/remy/Documents
     $ ls *.png
     Documents/sample_cmd.png
 
@@ -72,7 +83,7 @@ You don't always have to type the full name of a directory to go to it. Now that
 
     $ cd ..
     $ pwd
-    /Users/adrian
+    /Users/remy
 
 The `..` is shorthand for "the directory above my current one". You can string these together to go up several directories. For example, we'll go back down in to my Documents folder, then go all the way up to the /Users/ folder:
 
@@ -85,7 +96,7 @@ Another good shorthand to know is the short name for "home directory": `~/`
 
     $ cd ~/
     $ pwd
-    /Users/adrian
+    /Users/remy
 
 The most common commands I use in a shell are:
 
