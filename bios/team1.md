@@ -1,0 +1,1 @@
+Elizabeth Berzin grew up in Huntingdon Valley, PA, and is currently an undergraduate at Princeton University. 
