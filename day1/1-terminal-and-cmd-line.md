@@ -148,7 +148,7 @@ To quit `emacs`, the command sequence is:
 
 Most of the above commands are not actually part of `bash`, but are programs that can be run from within a `bash` shell. So how does `bash` know about these scripts?
 
-###vim
+### vim
 
 Another useful interpreter to know is `vim`. In particular since we might have to use it later today. 
 
