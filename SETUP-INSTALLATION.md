@@ -31,6 +31,11 @@ In there you should find a file with a barbaric name like `CanonicalGroupLimited
 
 Once in there go to `LocalState\rootsf\home`  and you should see your home directory.
 
+PPS: To do the converse operation and see your windows files from you Ubuntu prompt, you may do so by typing in your Unix prompt:
+    ```
+    /mnt/c/Users/remy
+    ```
+
 ## If you use Linux on your laptop:
 
 1. Install Anaconda for Linux with Python 3.7. Open a terminal prompt, then run:
