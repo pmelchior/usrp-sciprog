@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 My name is Adam Rebei and I am a rising sophomore concentrating in COS.
 =======
 Elizabeth Berzin grew up in Huntingdon Valley, PA, and is currently an undergraduate at Princeton University. 
