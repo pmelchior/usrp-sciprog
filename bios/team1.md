@@ -1,1 +1,4 @@
 Mark Dodici is a rising junior in the Princeton Astro department. He plans on pursuing the Planets & Life certificate.
+
+Elizabeth Berzin grew up in Huntingdon Valley, PA, and is currently an undergraduate at Princeton University. 
+
