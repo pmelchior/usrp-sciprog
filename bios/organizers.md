@@ -26,9 +26,9 @@ named [Andrej](https://www.youtube.com/watch?v=CAIhtf77jD0) and a 5-month old da
 include playing piano, choral music, and sports involving running, balls, or
 flying discs.
 
-Noah Notis is from Allentown, PA. He likes gardening and has found a new appreciation for breadbaking during the pandemic. Noah is a rising junior in the Physics department, and is really excited about learning more astrophysics this Summer.
+Noah Notis is from Allentown, PA. He likes gardening and has found a new appreciation for breadbaking during the pandemic. Noah is a rising junior in the Physics department, and is really excited about learning more astrophysics this Summer. Noah will be working with Phillip Mocz simulating how dark matter haloes would look like if the Dark Matter particle is the axion. 
 
-Hello my name is Majid I am a senior at the Colorado School of Mines Studying Physics Engineering. I have ambitions of earning a PhD in Physics or Astrophysics with an emphasis superconducting sensors used for cosmological research. I have also had an obsession with quantum engineering.
+Hello my name is Majid I am a senior at the Colorado School of Mines Studying Physics Engineering. I have ambitions of earning a PhD in Physics or Astrophysics with an emphasis superconducting sensors used for cosmological research. I have also had an obsession with quantum engineering recently.
 
 Jessica Stikons grew up in Ringoes, NJ and is currently a rising sophomore at Princeton University. She recently declared her major as Operations Research and Financial Engineering, and intends on receiving a certificate in finance. She is currently working as an Astrophysics Research Intern through the USRP program at Princeton University, and will be researching the risk and likelihood of large space weather events.
 
