@@ -28,5 +28,7 @@ flying discs.
 
 Noah Notis is from Allentown, PA. He likes gardening and has found a new appreciation for breadbaking during the pandemic.
 
+Hello my name is Majid I am a raising senior.
+
 Jessica Stikons grew up in Ringoes, NJ and is currently a rising sophomore at Princeton University. She recently declared her major as Operations Research and Financial Engineering, and intends on receiving a certificate in finance.
 
