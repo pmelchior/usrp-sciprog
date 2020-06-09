@@ -59,7 +59,7 @@ To make sure that no one else but you can see these, enter the following lines:
 	chmod 700 ~/.ssh
 	chmod 600 ~/.ssh/id_rsa
 
-For this purpose, send your public key to yourself via email for instance or dropbox so that you can have it on your department machine.
+For this purpose, send your public key to Leigh Koven via secure send so that you can have it on your department machine.
 
 On your department machine, go to the folder where your `id_rsa.pub` is. We will now append our authorized_keys file to allow the key to be used on your laptop:
 
