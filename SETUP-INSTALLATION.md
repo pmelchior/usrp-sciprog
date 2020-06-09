@@ -33,7 +33,7 @@ Once in there go to `LocalState\rootsf\home`  and you should see your home direc
 
 PPS: To do the converse operation and see your windows files from you Ubuntu prompt, you may do so by typing in your Unix prompt:
     ```
-    /mnt/c/Users/remy
+    cd /mnt/c/Users/remy
     ```
 
 ## If you use Linux on your laptop:
