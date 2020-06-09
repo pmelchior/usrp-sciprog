@@ -26,7 +26,7 @@ named [Andrej](https://www.youtube.com/watch?v=CAIhtf77jD0) and a 5-month old da
 include playing piano, choral music, and sports involving running, balls, or
 flying discs.
 
-Noah Notis is from Allentown, PA.
+Noah Notis is from Allentown, PA. He likes gardening and has found a new appreciation for breadbaking during the pandemic.
 
 Jessica Stikons grew up in Ringoes, NJ and is currently a sophomore at Princeton University.
 
