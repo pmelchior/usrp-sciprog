@@ -18,8 +18,8 @@
     Python 3.7.1 (default, Dec 14 2018, 13:28:58) 
     [Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
     Type "help", "copyright", "credits" or "license" for more information.
-    >>> print('Hello minions!')
-    Hello minions!
+    >>> print('Hello campers!')
+    Hello campers!
     >>> 
     ```
 
@@ -28,7 +28,7 @@ Python commands in a file (see file `hello.py`)
 
     ```
     $ python hello.py
-    Hello minions 
+    Hello campers 
      how are you today?
     this is a script, which, when called, will execute all the line in it:
     for instance, I can declare functions and execute them. 
@@ -58,7 +58,7 @@ It is possible to execute a script directly from the python terminal where other
     [Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
     Type "help", "copyright", "credits" or "license" for more information.
     >>> import hello
-    Hello minions 
+    Hello campers 
     how are you today?
     this is a script, which, when called, will execute all the line in it:
     for instance, I can declare functions and execute them. 
