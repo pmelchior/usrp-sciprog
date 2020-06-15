@@ -29,7 +29,7 @@ All sessions take place virtually on zoom. **The agenda for each days is detaile
 
 ## Colloquia and seminars
 
-Colloquia usually are held every Thursday 12:30, seminars every Tuesday 12:30. You'll receive zoom invitations for them.
+Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll receive zoom invitations for them.
 
 ### Seminar schedule
 
@@ -43,9 +43,9 @@ Colloquia usually are held every Thursday 12:30, seminars every Tuesday 12:30. Y
 
 ### Colloquium schedule
 
-1. June 18 - tbd
+1. June 18 - Gravitational Waves and Colliding Black Holes (Michael Strauss)
 2. June 25 - tbd
-3. July 2 - tbd
+3. July 2 - Exoplanets (Josh Winn)
 4. July 9 - tbd
 5. July 16 - tbd
 6. July 23 - tbd
