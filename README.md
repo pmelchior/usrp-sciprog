@@ -34,8 +34,8 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 ### Seminar schedule
 
 1. June 16 - Visualization (Peter)
-2. June 23 - Statistics (Andy)
-3. June 30 - How to find and read papers (Rémy)
+2. June 23 - How to find and read papers (Rémy)
+3. June 30 - Statistics (Andy)
 4. July 7 - How to write a paper / Latex (Brandon)
 5. July 14 - How to apply for a job (Rachael)
 6. July 21 - How to give presentations (Jamie)
