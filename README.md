@@ -43,11 +43,11 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 
 ### Colloquium schedule
 
-1. June 18 - Gravitational Waves and Colliding Black Holes (Michael Strauss)
-2. June 25 - Where is the Dark Matter (Neta Bahcall)
-3. July 2 - Exoplanets (Josh Winn)
-4. July 9 - tbd
-5. July 16 - tbd
+1. June 18 - Michael Strauss: Gravitational Waves and Colliding Black Holes
+2. June 25 - Neta Bahcall: Where is the Dark Matter?
+3. July 2 - Josh Winn: Exoplanets
+4. July 9 - Bruce Drain: What is Interstellar Dust Made of?
+5. July 16 - Dave McComas: Measuring the Heliosphere-Interstellar Boundary with IBEX
 6. July 23 - tbd
 
 Links of Interest
