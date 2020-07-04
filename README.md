@@ -36,9 +36,9 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 1. June 16 - Visualization (Peter)
 2. June 23 - How to find and read papers - [slides](https://slides.com/herjy/papers) (Rémy)
 3. June 30 - Statistics (Andy)
-4. July 7 - How to write a paper / Latex (Brandon)
+4. July 7 - How to give presentations (Jamie)
 5. July 14 - How to apply for a job (Rachael)
-6. July 21 - How to give presentations (Jamie)
+6. July 21 - How to write a paper / Latex (Brandon)
 7. July 28 -  Practice talks (all)
 
 ### Colloquium schedule
@@ -48,7 +48,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 3. July 2 - Josh Winn: Exoplanets
 4. July 9 - Bruce Drain: What is Interstellar Dust Made of?
 5. July 16 - Dave McComas: Measuring the Heliosphere-Interstellar Boundary with IBEX
-6. July 23 - tbd
+6. July 23 - Chris Chyba: Don’t believe what senior astrobiologists tell you (especially me)
 
 Links of Interest
 ------------------
