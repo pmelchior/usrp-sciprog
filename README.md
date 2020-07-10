@@ -8,7 +8,7 @@ The plan for the first week is to give you an overview of good things to know wh
 
 For live questions of general interest to the "camp masters" and to keep in touch with your fellow campers, please subscribe to the slack channels (details sent via email, or ask your camp master/mentor) .
 
-## Schedule of the week
+## Schedule of the Bootcamp
 
 * Day 1 - unix commands, version control (github), ssh setup
 * Day 2 - python and numpy
@@ -49,6 +49,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 4. July 9 - Bruce Drain: What is Interstellar Dust Made of?
 5. July 16 - Dave McComas: Measuring the Heliosphere-Interstellar Boundary with IBEX
 6. July 23 - Chris Chyba: Don’t believe what senior astrobiologists tell you (especially me)
+7. July 30 - USRP final presentations
 
 Links of Interest
 ------------------
