@@ -54,6 +54,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 Links of Interest
 ------------------
 
+* [The Unix command line](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [A Beginner's Guide to Working with Astronomical Data](https://arxiv.org/abs/1905.13189)
 * [Python intro course notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks)
 * [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
