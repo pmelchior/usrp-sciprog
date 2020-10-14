@@ -8,7 +8,7 @@ The plan for the first week is to give you an overview of good things to know wh
 
 For live questions of general interest to the "camp masters" and to keep in touch with your fellow campers, please subscribe to the slack channels (details sent via email, or ask your camp master/mentor) .
 
-## Schedule of the week
+## Schedule of the Bootcamp
 
 * Day 1 - unix commands, version control (github), ssh setup
 * Day 2 - python and numpy
@@ -34,25 +34,27 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 ### Seminar schedule
 
 1. June 16 - Visualization (Peter)
-2. June 23 - Statistics (Andy)
-3. June 30 - How to find and read papers (Rémy)
-4. July 7 - How to write a paper / Latex (Brandon)
+2. June 23 - How to find and read papers - [slides](https://slides.com/herjy/papers) (Rémy)
+3. June 30 - Statistics (Andy)
+4. July 7 - How to give presentations (Jamie)
 5. July 14 - How to apply for a job (Rachael)
-6. July 21 - How to give presentations (Jamie)
+6. July 21 - How to write a paper / Latex (Brandon)
 7. July 28 -  Practice talks (all)
 
 ### Colloquium schedule
 
-1. June 18 - Gravitational Waves and Colliding Black Holes (Michael Strauss)
-2. June 25 - tbd
-3. July 2 - Exoplanets (Josh Winn)
-4. July 9 - tbd
-5. July 16 - tbd
-6. July 23 - tbd
+1. June 18 - Michael Strauss: Gravitational Waves and Colliding Black Holes
+2. June 25 - Neta Bahcall: Where is the Dark Matter?
+3. July 2 - Josh Winn: Exoplanets
+4. July 9 - Bruce Drain: What is Interstellar Dust Made of?
+5. July 16 - Dave McComas: Measuring the Heliosphere-Interstellar Boundary with IBEX
+6. July 23 - Chris Chyba: Don’t believe what senior astrobiologists tell you (especially me)
+7. July 30 - USRP final presentations
 
 Links of Interest
 ------------------
 
+* [The Unix command line](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [A Beginner's Guide to Working with Astronomical Data](https://arxiv.org/abs/1905.13189)
 * [Python intro course notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks)
 * [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
