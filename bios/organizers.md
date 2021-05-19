@@ -1,6 +1,8 @@
 Team bio for the URSP organizers
 --------------------------------
 
+*includes organizers back to 2015*
+
 [Remy Joseph](https://remyjoseph.wordpress.com/) got his [PhD](https://infoscience.epfl.ch/record/260467?ln=en) from EPFL in Lausanne (Switzerland) in 2018. He arrived at Princeton in December 2018 to work on  [LSST](http://lsst.org/), and [WFIRST](http://wfirst.gsfc.nasa.gov/). His main mission is to combine different datasets at different depth and resolution to improve the deblending of overlapping galaxies. At night, he wears a cape and uses his super-power: strong gravitational lensing to find his elusive nemesis: Lord dark matter. 
 In between the two Remy enjoys practicing various sports: hiking, soccer, skiing (cross-country), running, bouldering and most of all fencing. 
 
