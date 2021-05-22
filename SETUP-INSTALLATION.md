@@ -28,7 +28,7 @@ Most of us use a python package system called `anaconda`. It has many advantages
     ./Anaconda3-2021.05-Linux-x86_64.sh
     ```
     
-    If it doesn't execute, you need to change the access permissions and make it executable (we will learn what this means during [day1](https://github.com/changgoo/usrp-sciprog/blob/master/day1/1-terminal-and-cmd-line.md#aparte):
+    If it doesn't execute, you need to change the access permissions and make it executable (we will learn what this means during [day1](https://github.com/pmelchior/usrp-sciprog/blob/master/day1/1-terminal-and-cmd-line.md#aparte):
     ```
     chmod 755 Anaconda3-2021.05-Linux-x86_64.sh
     ```
