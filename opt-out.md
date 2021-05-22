@@ -40,7 +40,7 @@ Assume that you have an experiment, where you control the x-variable, and you re
 | 0.4147 | 0.7025 | 0.0489 |
 
 1. Create a jupyter notebook.
-2. Copy the data from here into a `numpy` array. Make a plot of the data with `matplotlib`. 
+2. Copy the data from here into a `numpy` array. (Or, you can read in the [data file](https://github.com/pmelchior/usrp-sciprog/blob/master/data.txt).) Make a plot of the data with `matplotlib`. 
 3. Fit a quadratic model, i.e. determine the Maximum-Likelihood Estimator of the parameters `a,b,c` for a model of the form `y = a + b*x + c*x^2.` Note that the standard deviations of every y-value is different. 
 4. Add the best-fitting line to your plot. Save the notebook.
 5. Create a github repository. Upload/push your notebook. Create an issue [here](https://github.com/pmelchior/usrp-sciprog/issues), entitled "Bootcamp Opt-out", which contains the link to your github repo.
