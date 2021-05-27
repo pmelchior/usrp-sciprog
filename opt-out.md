@@ -1,6 +1,6 @@
 # Opt-out Challenge for Bootcamp
 
-We know that you, as a student cohort, will have a wide spread of programming capabilities. What we intend to do with the bootcamp is to provide a condensed background for scientific programming. Some of you may know the relevant material already. If you can solve the following problem within 1 hour, you can ask to opt out from any or all parts of the bootcamp. **Do not worry if you cannot solve this problem, this is exactly what the bootcamp will teach you.**
+We know that you, as a student cohort, will have a wide spread of programming capabilities. What we intend to do with the bootcamp is to provide a background of scientific programming in a condensed form over 4 days. Some of you may know the relevant material already, though. If you can solve the following problem within 1 hour, you can ask to opt out from any or all parts of the bootcamp. **Do not worry if you cannot solve this problem, this is exactly what the bootcamp will teach you.**
 
 ## Problem
 
