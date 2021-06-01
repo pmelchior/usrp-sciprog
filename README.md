@@ -34,7 +34,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 ### Seminar schedule
 
 1. June 17, 2021 - Visualization (Peter)
-2. June 25, 2021 - How to find and read papers - [slides](https://slides.com/herjy/papers) (Rémy)
+2. June 25, 2021 - How to find and read papers - [slides](https://slides.com/herjy/papers) (Arun)
 3. June 31, 2021 - Statistics (Andy)
 4. July 08, 2021 - How to give presentations (Jamie)
 5. July 15, 2021 - How to apply for a job (Rachael)
