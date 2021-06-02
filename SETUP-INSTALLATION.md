@@ -1,6 +1,6 @@
 # Setup Instructions
 
-Most of us use a python package system called `anaconda`. It has many advantages, so please use it as well even if yo already have a python installation on your own machine.
+Most of us use a python package system called `anaconda`. It has many advantages, so please use it as well even if you already have a python installation on your own machine.
 
 *You will have access to machines in Peyton Hall, these instruction here do not apply to them, only to your own personal machine.*
 
@@ -22,6 +22,17 @@ Most of us use a python package system called `anaconda`. It has many advantages
     ```
     wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh
     ```
+    
+    To execute the script, type:
+    ```
+    ./Anaconda3-2021.05-Linux-x86_64.sh
+    ```
+    
+    If it doesn't execute, you need to change the access permissions and make it executable (we will learn what this means during [day1](https://github.com/pmelchior/usrp-sciprog/blob/master/day1/1-terminal-and-cmd-line.md#aparte):
+    ```
+    chmod 755 Anaconda3-2021.05-Linux-x86_64.sh
+    ```
+    
 4. To access the content of your Linux distribution from your windows interface you should follow the steps described on [this website](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/). The summary is as follows:
 
     Go to your home directory (e.g. `C:\Users\remyj`) on windows with your usual graphical interface. Among the tabs on the top right click `View` and tick the `Hidden items`  box, then open `AppData\Local\Packages`
@@ -41,7 +52,6 @@ Install Anaconda for Linux with Python 3.8. Open a terminal prompt, then run:
 ```
 wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh
 ```
-
 
 ## If you use Mac OSX on your machine
 
