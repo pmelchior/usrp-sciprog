@@ -127,6 +127,12 @@ rsync -av test_src/ test_dest
 
 Check `test_dest/`. Note that the trailing slash (`/`) at the end of the first argument in the above commands is necessary to mean “the contents of test_src/”. The alternative, without the trailing slash, would place `test_src`, including the directory, within `test_dest`.
 
-Retype the `rsync` command above. What do you see? This is the beauty of `sync`!
+Now let's change part of files:
+
+```
+touch test_src/file{10..20}
+```
+
+Retype the `rsync` command above. What do you see?
 
 Finally, consider to use `-azP` for remote transfers. This will reduce the network transfer by adding compression with the `-z` option. The `-P` flag is very helpful. It combines the flags `--progress` and `--partial`. The first of these gives you a progress bar for the transfers and the second allows you to resume interrupted transfers.
