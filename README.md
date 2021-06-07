@@ -33,23 +33,23 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 
 ### Seminar schedule
 
-1. June 17, 2021 - Visualization (Peter)
-2. June 25, 2021 - How to find and read papers - [slides](https://slides.com/herjy/papers) (Arun)
-3. June 31, 2021 - Statistics (Andy)
-4. July 08, 2021 - How to give presentations (Jamie)
-5. July 15, 2021 - How to apply for a job (Rachael)
-6. July 22, 2021 - How to write a paper / Latex (Brandon)
-7. July 29, 2021 -  Practice talks (all)
+1. June 15, 2021 - Visualization (Peter)
+2. June 23, 2021 - How to find and read papers - [slides](https://slides.com/herjy/papers) (Arun)
+3. June 29, 2021 - Statistics (Andy)
+4. July 06, 2021 - How to give presentations (Jamie)
+5. July 13, 2021 - How to apply for a job (Rachael)
+6. July 20, 2021 - How to write a paper / Latex (Brandon)
+7. July 27, 2021 -  Practice talks (all)
 
 ### Colloquium schedule
 
-1. June 18 - Michael Strauss: Gravitational Waves and Colliding Black Holes
+1. June 17 - Michael Strauss: Gravitational Waves and Colliding Black Holes
 2. June 25 - Neta Bahcall: Where is the Dark Matter?
-3. July 2 - Josh Winn: Exoplanets
-4. July 9 - Bruce Drain: What is Interstellar Dust Made of?
-5. July 16 - Dave McComas: Measuring the Heliosphere-Interstellar Boundary with IBEX
-6. July 23 - Chris Chyba: Don’t believe what senior astrobiologists tell you (especially me)
-7. July 30 - USRP final presentations
+3. July 1 - Josh Winn: Exoplanets
+4. July 8 - Bruce Drain: What is Interstellar Dust Made of?
+5. July 15 - Dave McComas: Measuring the Heliosphere-Interstellar Boundary with IBEX
+6. July 22 - Chris Chyba: Don’t believe what senior astrobiologists tell you (especially me)
+7. July 29 - USRP final presentations
 
 Links of Interest
 ------------------
