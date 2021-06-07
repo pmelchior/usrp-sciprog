@@ -101,3 +101,32 @@ Now copy the file to your department machine:
 	scp ./your_filename.txt user@host:
 
 Try the other way around: copying a file from your department machine to your laptop.
+
+### rsync
+
+
+One may find `rsync` is more useful for local copy and file transfers between remote machines. See [how does scp differ from rsync](https://stackoverflow.com/questions/20244585/how-does-scp-differ-from-rsync). The basic command is similar, but `rsync` has a plethora of command line options.
+
+```
+rsync origin user@host:path
+```
+
+`rsync` can be used to **sync** files between _source_ and _destination_. `-a` option is for _archive_ that combines multiple userful options (equivalent to `-rlptgoD`) to sync recursively and preserve symbolic links, special and device files, modification times, group, owner, and permissions. Try this:
+
+```
+mkdir test_src
+mkdir test_dest
+touch test_src/file{1..100}
+```
+
+You've just created two directories and 100 files in `test_src/`. Check it with `ls test_src/`. Then, let's sync two directories.
+
+```
+rsync -av test_src/ test_dest
+```
+
+Check `test_dest/`. Note that the trailing slash (`/`) at the end of the first argument in the above commands is necessary to mean “the contents of test_src/”. The alternative, without the trailing slash, would place `test_src`, including the directory, within `test_dest`.
+
+Retype the `rsync` command above. What do you see? This is the beauty of `sync`!
+
+Finally, consider to use `-azP` for remote transfers. This will reduce the network transfer by adding compression with the `-z` option. The `-P` flag is very helpful. It combines the flags `--progress` and `--partial`. The first of these gives you a progress bar for the transfers and the second allows you to resume interrupted transfers.
