@@ -1,6 +1,7 @@
 =======
 Team 3 Bios
 ============
+Zizi is a rising senior in the Astrophysical Sciences department at Princeton Univeristy
 
 Jupiter Ding is a rising sophomore at Princeton University. He plans to major in astrophysics.
 
