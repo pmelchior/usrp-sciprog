@@ -1,0 +1,1 @@
+Kate Macakanja is a rising junior at Princeton in the Astrophysics department. She is from the suburbs of Chicago and is interested in studying cosmology. She is particularly interested in ways to make astrophysics more interdisciplinary. In her free time, Kate enjoys rock climbing, being outside, and spending time with friends and family.
