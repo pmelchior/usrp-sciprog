@@ -12,8 +12,8 @@ For live questions of general interest to the "camp masters" and to keep in touc
 
 * Day 1 - unix commands, version control (github), ssh setup
 * Day 2 - python and numpy
-* Day 3 - statistcal data analysis and astropy
-* Day 4 - Data exploration and min-project
+* Day 3 - statistical data analysis, linear fitting, and astropy
+* Day 4 - optimization and non-linear fitting
 
 
 All sessions take place virtually on zoom. **The agenda for each days is detailed in the respective README files**, but in general every day looks roughly like this (all times Eastern):
@@ -57,5 +57,6 @@ Links of Interest
 * [The Unix command line](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [A Beginner's Guide to Working with Astronomical Data](https://arxiv.org/abs/1905.13189)
 * [Python intro course notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks)
+* [Astronmy Workflow (with git and python)](https://christinahedges.github.io/astronomy_workflow/)
 * [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
 * [Fitting a model to data](http://arxiv.org/abs/1008.4686)
