@@ -43,13 +43,13 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 
 ### Colloquium schedule
 
-1. June 17 - Michael Strauss: Gravitational Waves and Colliding Black Holes
-2. June 25 - Neta Bahcall: Where is the Dark Matter?
-3. July 1 - Josh Winn: Exoplanets
-4. July 8 - Bruce Drain: What is Interstellar Dust Made of?
-5. July 15 - Dave McComas: Measuring the Heliosphere-Interstellar Boundary with IBEX
-6. July 22 - Chris Chyba: Don’t believe what senior astrobiologists tell you (especially me)
-7. July 29 - USRP final presentations
+1. June 17 - TBD
+2. June 24 - TBD
+3. July 1 - TBD
+4. July 8 - TBD
+5. July 15 - TBD
+6. July 22 - TBD
+7. July 29 - TBD
 
 Links of Interest
 ------------------
