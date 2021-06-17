@@ -45,7 +45,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 ### Colloquium schedule
 
 1. June 17 - Exploring Large Scale Structure through the Lyman Alpha Forest (Ben)
-2. June 24 - TBD
+2. June 24 - Tracing Mass and Light in the Universe (Neta)
 3. July 1 - TBD
 4. July 8 - (Michael)
 5. July 15 - TBD
