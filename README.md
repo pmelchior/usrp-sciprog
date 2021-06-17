@@ -47,7 +47,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 1. June 17 - Exploring Large Scale Structure through the Lyman Alpha Forest (Ben)
 2. June 24 - TBD
 3. July 1 - TBD
-4. July 8 - TBD
+4. July 8 - (Michael)
 5. July 15 - TBD
 6. July 22 - TBD
 7. July 29 - TBD
