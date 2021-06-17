@@ -50,6 +50,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 5. July 15 - TBD
 6. July 22 - TBD
 7. July 29 - TBD
+8. August 5 - USRP final presentations
 
 Links of Interest
 ------------------
