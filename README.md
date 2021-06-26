@@ -35,7 +35,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 
 1. June 15, 2021 - Visualization (Peter)
 2. June 22, 2021 - How to find and read papers - [slides](https://slides.com/herjy/papers) (Arun)
-3. June 29, 2021 - TBD
+3. June 29, 2021 - Statistics (Peter)
 4. July 06, 2021 - How to give presentations (Sophie)
 5. July 13, 2021 - How to apply for a job (Rachael)
 6. July 20, 2021 - How to write a paper / Latex (Ben)
