@@ -46,7 +46,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 
 1. June 17 - Exploring Large Scale Structure through the Lyman Alpha Forest (Ben)
 2. June 24 - Tracing Mass and Light in the Universe (Neta)
-3. July 1 - (Robert)
+3. July 1 -  Scientific Software: Art, Engineering, or Science? (Robert)
 4. July 8 - Colliding Black Holes and Gravitational Waves (Michael)
 5. July 15 - TBD
 6. July 22 - TBD
