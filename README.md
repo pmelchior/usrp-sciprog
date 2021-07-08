@@ -48,7 +48,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll re
 2. June 24 - Tracing Mass and Light in the Universe (Neta)
 3. July 1 -  Scientific Software: Art, Engineering, or Science? (Robert)
 4. July 8 - Colliding Black Holes and Gravitational Waves (Michael)
-5. July 15 - TBD
+5. July 15 - What Does a Black Hole Look Like? (Eliot) <== Special time 1pm!
 6. July 22 - TBD
 7. July 29 - The Afterlife of Massive Stars or Stellar Forensics: What Supernova Remnants Reveal about Stellar Explosion (Tea)
 8. August 5 - USRP final presentations
