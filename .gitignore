@@ -1,8 +1,0 @@
-# Byte-compiled / optimized / DLL files
-*.py[cod]
-
-# ipython checkpoint folders
-.ipynb_checkpoints 
-
-*~
-.*
