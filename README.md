@@ -15,7 +15,7 @@ For live questions of general interest to the "camp masters" and to keep in touc
 * Day 3 - statistical data analysis, linear fitting, and astropy
 * Day 4 - 3 options: 1- more python basics, 2- advanced data analysis, 3- running hydro simulations
 
-All sessions take place in person in Green Hall, roon 1-C-4C, located on Washington Road near Nassau Street.
+All sessions take place in person in Green Hall, room 1-C-4C, located on Washington Road near Nassau Street.
 **The agenda for each days is detailed in the respective README files**. 
 
 ## Colloquia and seminars
