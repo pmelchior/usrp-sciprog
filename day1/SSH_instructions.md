@@ -1,18 +1,18 @@
 ## SSH and remote login
 
-We will now learn how to connect between your laptop and your department machine. That's what ssh does. With this you will be able to exchange files between your machine and the department machine. This is particularly useful if you need to do computation on datasets that are too large for your laptop to handle for instance. This way, your laptop can be used to develop code or use programs that are already installed on your machine. 
+We will now learn how to connect between your laptop and remote machine. That's what ssh does. With this you will be able to exchange files between your machine and the remote machine. This is particularly useful if you need to do computation on datasets that are too large for your laptop to handle for instance. This way, your laptop can be used to develop code or use programs that are already installed on your machine. 
 
 The detailed informations about ssh and remote login are described in the following:
 
 See the information here:
-https://www.astro.princeton.edu/docs/SSH
+https://researchcomputing.princeton.edu/ssh
 
 Make an SSH key:
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux
 
 We strongly recommend that you read these instructions to get a better understanding of ssh and ssh keys. In the following, we will see how to setup an ssh key and use it to. Connect remotely.
 
-This year, due to the ongoing pandemic and because campers won't have physical access to the department machines, instructions about key generation and exchange will be communicated via email.
+This year we will use **MyAdroit Web Portal** to run Jupyter Notebook.
 
 ### SSH key
 
@@ -20,50 +20,33 @@ SSH keys are a mean of identification between two machines. One machine, the one
 
 To setup an ssh key, simply type on your computer:
 
-	ssh-keygen -t rsa
+    ssh-keygen -t ecdsa -b 521
 
 You should the following lines appear:
 
-	Generating public/private rsa key pair.
-	Enter file in which to save the key (/Users/remy/.ssh/id_rsa):
+	Generating public/private ecdsa key pair.
+	Enter file in which to save the key (/Users/remy/.ssh/id_ecdsa):
 
 This is asking you to chose a file to save the key. The default choice is perfectly fine, so just type `enter`. 
 
 CAREFUL NOW!! The next line is more important. You should now see this appear:
-	
+
 	Enter passphrase (empty for no passphrase):
 
-At this point, you NEED to type a passphrase that you will be able to remember. You will be asked to enter your passphrase twice, and something like this will appear:
+At this point, you NEED to type a passphrase that you will be able to remember.
 
-	Your identification has been saved in /Users/remy/.ssh/id_rsa.
-	Your public key has been saved in /Users/remy/.ssh/id_rsa.pub.
-	The key fingerprint is:
-	SHA256:Vg1VEjLylkGjaOcMje5N9rPWQ3oHMe/1OPjdbUFgVQ remy@macbook-pro.lan
-	The key's randomart image is:
-	+---[RSA 2048]----+
-	|        . +ooB++E|
-	|        .o**O. =+|
-	|         oo+.=o.+|
-	|         .  +.* .|
-	|        S  o * =o|
-	|       .    + .0=|
-	|              .o+|
-	|               oo|
-	|                 |
-	+----[SHA256]-----+
-
-This has created a private key (/Users/remy/.ssh/id_rsa) that you should keep like it is your browser history. The public key (/Users/remy/.ssh/id_rsa.pub) is made to be shared with computers that would like to connect to. 
+This has created a private key (/Users/remy/.ssh/id_ecdsa) that you should keep like it is your browser history. The public key (/Users/remy/.ssh/id_ecdsa.pub) is made to be shared with computers that would like to connect to. 
 
 To make sure that no one else but you can see these, enter the following lines:
-	
+
 	chmod 700 ~/.ssh
-	chmod 600 ~/.ssh/id_rsa
+	chmod 600 ~/.ssh/id_ecdsa
 
 For this purpose, send your public key to Leigh Koven via secure send so that you can have it on your department machine.
 
-On your department machine, go to the folder where your `id_rsa.pub` is. We will now append our authorized_keys file to allow the key to be used on your laptop:
+On your department machine, go to the folder where your `id_ecdsa.pub` is. We will now append our authorized_keys file to allow the key to be used on your laptop:
 
-	cat id_rsa.pub >> ~/.ssh/authorized_keys
+	cat id_ecdsa.pub >> ~/.ssh/authorized_keys
 
 Again, let's make sure that our files remain visible only by us:
 
@@ -73,16 +56,8 @@ Again, let's make sure that our files remain visible only by us:
 
 Now you should be able to ssh your department machine from your computer.
 Type:
-	
-	ssh login@domain 
 
-It should actually look like this:
-	
-	ssh remy@coma.astro.princeton.edu
-or:
-	ssh remy@leto.astro.princeton.edu
-
-(Replace login and domain by the appropriate items) There you go, you are now using your department machine from your laptop.
+	ssh login@domain
 
 ### SCP
 
