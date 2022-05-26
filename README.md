@@ -24,25 +24,32 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 
 ### Seminar schedule
 
-1. June 7, 2022 - 
-2. June 14, 2022 - 
-3. June 21, 2022 - 
-3. June 28, 2022 - 
-5. July 05, 2022 - 
-6. July 12, 2022 - 
+1. June 07, 2022 - 
+2. June 14, 2022 - visualisation (Peter Melchior)
+3. June 21, 2022 - numerical techniques in astro: PIC method (Hayk Hakobayan)
+3. June 28, 2022 - statistics (Peter Melchior)
+5. July 05, 2022 - numerical techniques in astro: FV method (Jens Mahlmann)
+6. July 12, 2022 - TBD (Mike Lemonick)
 7. July 19, 2022 - 
-8. July 26, 2022 - Practice talks
 
 ### Colloquium schedule
 
-1. June 9, 2022 - 
-2. June 16, 2022 - 
-3. June 23, 2022 - 
-4. June 30, 2022 - 
-5. July 07, 2022 -  
-6. July 14, 2022- 
-7. July 21, 2022 - 
-8. July 28, 2022 - USRP final presentations
+1. June 09, 2022 - supernovae remmants in the era of JWST (Tea Temim)
+2. June 16, 2022 - computing the universe (Romain Teyssier)
+3. June 23, 2022 - TBD (Shaunak Modak)
+4. June 30, 2022 - neutron stars (Anatoly Spitkovsky)
+5. July 07, 2022 - TBD (Eliot Quataert)
+6. July 14, 2022 - TBD (Michael Strauss) 
+7. July 21, 2022 - fast radio bursts (Jens Mahlmann)
+
+### Lab visit schedule
+
+1- June 8, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
+
+### Final presentation
+
+1. July 27th, 2022 - Practice talks
+2. July 28th, 2022 - USRP finals
 
 Links of Interest
 ------------------
