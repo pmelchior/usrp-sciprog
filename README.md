@@ -26,7 +26,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 
 1. June 07, 2022 - 
 2. June 14, 2022 - visualisation (Peter Melchior)
-3. June 21, 2022 - numerical techniques in astro: PIC method (Hayk Hakobayan)
+3. June 21, 2022 - numerical techniques in astro: PIC method (Hayk Hakobyan)
 3. June 28, 2022 - statistics (Peter Melchior)
 5. July 05, 2022 - numerical techniques in astro: FV method (Jens Mahlmann)
 6. July 12, 2022 - TBD (Mike Lemonick)
