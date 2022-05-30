@@ -34,12 +34,12 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 
 ### Colloquium schedule
 
-1. June 09, 2022 - supernovae remmants in the era of JWST (Tea Temim)
+1. June 09, 2022 - supernovae remmants in the era of the James Webb space telescope (Tea Temim)
 2. June 16, 2022 - computing the universe (Romain Teyssier)
-3. June 23, 2022 - TBD (Shaunak Modak)
+3. June 23, 2022 - dynamical friction and the globular cluster timing problem (Shaunak Modak)
 4. June 30, 2022 - neutron stars (Anatoly Spitkovsky)
 5. July 07, 2022 - TBD (Eliot Quataert)
-6. July 14, 2022 - TBD (Michael Strauss) 
+6. July 14, 2022 - gravitational waves and colliding black holes (Michael Strauss) 
 7. July 21, 2022 - fast radio bursts (Jens Mahlmann)
 
 ### Lab visit schedule
