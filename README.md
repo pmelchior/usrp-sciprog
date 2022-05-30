@@ -25,7 +25,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 ### Seminar schedule
 
 1. June 07, 2022 - 
-2. June 14, 2022 - visualisation (Peter Melchior)
+2. June 14, 2022 - visualization (Peter Melchior)
 3. June 21, 2022 - numerical techniques in astro: PIC method (Hayk Hakobyan)
 3. June 28, 2022 - statistics (Peter Melchior)
 5. July 05, 2022 - numerical techniques in astro: FV method (Jens Mahlmann)
@@ -34,7 +34,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 
 ### Colloquium schedule
 
-1. June 09, 2022 - supernovae remmants in the era of the James Webb space telescope (Tea Temim)
+1. June 09, 2022 - supernovae remnants in the era of the James Webb space telescope (Tea Temim)
 2. June 16, 2022 - computing the universe (Romain Teyssier)
 3. June 23, 2022 - dynamical friction and the globular cluster timing problem (Shaunak Modak)
 4. June 30, 2022 - neutron stars (Anatoly Spitkovsky)
