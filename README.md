@@ -44,7 +44,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 
 ### Games
 
-1- June 08, 2022 - Outdoor game night
+1. June 08, 2022 - Outdoor game night
 
 ### Lab visit schedule
 
