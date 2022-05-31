@@ -1,0 +1,1 @@
+Hello! I'm a rising junior studying Physics with certificates (hopefully by the end of senior year) in Engineering Physics, Applied and Computational Math and Materials Science at Princeton University. I am interested in working on topics in theoretical astrophysics, specifically cosmology.
