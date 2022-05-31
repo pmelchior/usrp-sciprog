@@ -48,8 +48,8 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 
 ### Lab visit schedule
 
-1- June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
-2- June 22, 2022 = Visit of the Space Physics Lab tour on Wednesday from 12pm to 1pm
+1. June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
+2. June 22, 2022 - Visit of the Space Physics Lab tour on Wednesday from 12pm to 1pm
 
 ### Final presentation
 
