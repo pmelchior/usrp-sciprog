@@ -1,4 +1,4 @@
-Hello! I'm a rising junior in Physics with a certificate in Applied and Computational Math. I'm interested in plasma especially turbulent transport recently. Love this program.
+Hello! I'm Xinyu Liu a rising junior in Physics with a certificate in Applied and Computational Math. I'm interested in plasma especially turbulent transport recently. Love this program.
 
 Hello I am Mohan Richter-Addo and this is my first time making a github thingy. I am probably going to encounter issues with pull requesting this file but it will be fine, we'll work it out. I am from MIT and already I am greatly enjoying the campus here! It's very beautiful :). I love games of all kind and am always down to learn a new one. Looking to either major in Astrophysics or Mathematics. Very worried about grad school applications too :(.
 
