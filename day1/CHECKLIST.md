@@ -1,8 +1,8 @@
 # Day 1 checklist
 
-1. Choose a department computer for the summer, and log on to it.
+1. Get familiar with the university machines (e.g., adroit). See [Princeton Research Computing](https://researchcomputing.princeton.edu/systems/tiger)
 
-2. Do the following from from a terminal (on both laptop and desktop):
+2. Do the following from from a terminal (on both laptop and adroit):
     * Create a new directory
     * Navigate between directories
     * List the contents of a directory
@@ -27,4 +27,4 @@
     * Change existing files, commit those changes locally, and push those changes to Github.
     * Pull changes that other people have made onto your local repository.
 
-4. Install [anaconda](https://www.continuum.io/downloads) on both your personal computer and your department computer.
+4. Install [anaconda](https://www.continuum.io/downloads) on your personal computer and get familiar with [environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)

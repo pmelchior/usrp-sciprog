@@ -2,54 +2,59 @@
 
 This repo contains information about the USRP at the Department of Astrophysical Sciences, foremost material for its first week course "Intro to Scientific Programming", aka *bootcamp*.
 
-The plan for the first week is to give you an overview of good things to know when it comes to scientific computing, give you time to do some hands-on exercises, and provide resources for you to learn more. We aim to cover basic unix commands and remote login (ssh), software version control (git and github), the Python programming language and scientific programming stack, and basic statistics. Given that we only have a week, we will only scratch the surface on each of these topics, but many of us will be around and willing (physically or via email/Slack) to provide support and additional guidance throughout the summer.
+The plan for the first week is to give you an overview of good things to know when it comes to scientific computing, give you time to do some hands-on exercises, and provide resources for you to learn more. We aim to cover basic unix commands and remote login (ssh), software version control (git and github), the Python programming language and scientific programming stack, and basic statistics and simulations. Given that we only have a week, we will only scratch the surface on each of these topics, but many of us will be around and willing (physically or via email/Slack) to provide support and additional guidance throughout the summer.
 
-**Before you start, please make sure that you have all necessary software installed on your personal machine *before* we start the bootcamp. To help you along the way, have a look at [these instructions](SETUP-INSTALLATION.md).**
+**Before you start, please make sure that you have all requested access to the Adroit cluster following [this link](https://researchcomputing.princeton.edu/systems/adroit#access).**
 
 For live questions of general interest to the "camp masters" and to keep in touch with your fellow campers, please subscribe to the slack channels (details sent via email, or ask your camp master/mentor) .
 
 ## Schedule of the Bootcamp
 
-* Day 1 - unix commands, version control (github), ssh setup
+* Day 1 - unix commands, version control (github), ssh 
 * Day 2 - python and numpy
-* Day 3 - statistcal data analysis and astropy
-* Day 4 - Data exploration and min-project
+* Day 3 - statistical data analysis, linear fitting, and astropy
+* Day 4 - 3 options: 1- more python basics, 2- advanced data analysis, 3- running hydro simulations
 
-
-All sessions take place virtually on zoom. **The agenda for each days is detailed in the respective README files**, but in general every day looks roughly like this (all times Eastern):
-
-
-* 09:30-10:30 Course 1
-* 10:30-11:00  Astro Coffee (ask for zoom and slack channel)
-* 11:00-12:00  Course 2
-* 12:00-13:00  Lunch
-* 13:00-14:30  Course 3
-* 14:30-15:00 Break
-* 15:00-17:00  Course 4 / Open time
+All sessions take place in person in Green Hall, room 1-C-4C, located on Washington Road near Nassau Street.
+**The agenda for each days is detailed in the respective README files**. 
 
 ## Colloquia and seminars
 
-Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30. You'll receive zoom invitations for them.
+Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 
 ### Seminar schedule
 
-1. June 16 - Visualization (Peter)
-2. June 23 - How to find and read papers - [slides](https://slides.com/herjy/papers) (Rémy)
-3. June 30 - Statistics (Andy)
-4. July 7 - How to give presentations (Jamie)
-5. July 14 - How to apply for a job (Rachael)
-6. July 21 - How to write a paper / Latex (Brandon)
-7. July 28 -  Practice talks (all)
+1. June 07, 2022 - visualization (Peter Melchior)
+2. June 14, 2022 - how to give a presentation (Sophie Reed)
+3. June 21, 2022 - numerical techniques in astro: PIC method (Hayk Hakobyan)
+3. June 28, 2022 - statistics (Peter Melchior)
+5. July 05, 2022 - numerical techniques in astro: FV method (Jens Mahlmann)
+6. July 12, 2022 - TBD (Mike Lemonick)
+7. July 19, 2022 - 
 
 ### Colloquium schedule
 
-1. June 18 - Michael Strauss: Gravitational Waves and Colliding Black Holes
-2. June 25 - Neta Bahcall: Where is the Dark Matter?
-3. July 2 - Josh Winn: Exoplanets
-4. July 9 - Bruce Drain: What is Interstellar Dust Made of?
-5. July 16 - Dave McComas: Measuring the Heliosphere-Interstellar Boundary with IBEX
-6. July 23 - Chris Chyba: Don’t believe what senior astrobiologists tell you (especially me)
-7. July 30 - USRP final presentations
+1. June 09, 2022 - supernovae remnants in the era of the James Webb space telescope (Tea Temim)
+2. June 16, 2022 - computing the universe (Romain Teyssier)
+3. June 23, 2022 - dynamical friction and the globular cluster timing problem (Shaunak Modak)
+4. June 30, 2022 - neutron stars (Anatoly Spitkovsky)
+5. July 07, 2022 - TBD (Eliot Quataert)
+6. July 14, 2022 - gravitational waves and colliding black holes (Michael Strauss) 
+7. July 21, 2022 - fast radio bursts (Jens Mahlmann)
+
+### Games
+
+1. June 08, 2022 - Outdoor game night
+
+### Lab visit schedule
+
+1. June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
+2. June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
+
+### Final presentation
+
+1. July 27th, 2022 - Practice talks
+2. July 28th, 2022 - USRP finals
 
 Links of Interest
 ------------------
@@ -57,5 +62,6 @@ Links of Interest
 * [The Unix command line](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [A Beginner's Guide to Working with Astronomical Data](https://arxiv.org/abs/1905.13189)
 * [Python intro course notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks)
+* [Astronmy Workflow (with git and python)](https://christinahedges.github.io/astronomy_workflow/)
 * [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
 * [Fitting a model to data](http://arxiv.org/abs/1008.4686)
