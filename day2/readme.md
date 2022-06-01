@@ -2,9 +2,9 @@
 
 ## Schedule
 
-* 9:30 - 10:30 Introduction to python (optional if you can solve these [exercises])  
+* 9:30 - 10:30 Introduction to python
 * 10:30 - 11:00 AstroCoffee
-* 11:00 - 12:30 Python exercises (optional)
+* 11:00 - 12:30 Python exercises
 * 12:30 - 14:00 Lunch
 * 14:00 - 15:30 Introduction to numpy
 * 15:30 - 17:00 Numpy exercises
@@ -74,7 +74,6 @@ Example, here:
     5
 
 
-​    
 * Jupyter notebook: 
 An interactive terminal to execute python commands and comment code with a nice presentation
 
@@ -292,9 +291,8 @@ Ndarrays have a set of methods, i.e. functions that can be called directly on th
     a.flatten()         renders a multi-dimensional array as a line
 
 
-​    
 For the rest, practice is better than words, let us take a look at a few examples.
-​    
+
 # A quick word on IDEs
 
 So far we have been using `emacs` or `vim` with command lines. 
