@@ -1,6 +1,6 @@
 # Day 4: we will have three different courses:
 
-- Basic python programming continued
+- Reveiw Basics (CLI, git, python)
 
 - Nonlinear Fitting
 
