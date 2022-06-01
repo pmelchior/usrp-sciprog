@@ -1,4 +1,4 @@
-# Day 4: running hydro simulations:
+# Day 4: running hydro simulations
 
 ## Schedule
 
