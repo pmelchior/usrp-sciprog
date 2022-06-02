@@ -29,7 +29,7 @@ Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30.
 3. June 21, 2022 - numerical techniques in astro: PIC method (Hayk Hakobyan)
 3. June 28, 2022 - statistics (Peter Melchior)
 5. July 05, 2022 - numerical techniques in astro: FV method (Jens Mahlmann)
-6. July 12, 2022 - TBD (Mike Lemonick)
+6. July 12, 2022 - how to talk about astrophysics to non-experts (Mike Lemonick)
 7. July 19, 2022 - how to apply to grad school (TBC and Jenny Greene)
 
 ### Colloquium schedule
