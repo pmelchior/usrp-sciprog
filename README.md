@@ -20,7 +20,7 @@ All sessions take place in person in Green Hall, room 1-C-4C, located on Washing
 
 ## Colloquia and seminars
 
-Seminars are held every Tuesday 12:30, colloquia every Thursday 12:30pm.
+Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm.
 The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am for a quick bite before heading to the seminar location shortly after 12pm.
 
 ### Seminar schedule
