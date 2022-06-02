@@ -1,4 +1,4 @@
-# Day 4: we will have three different courses:
+# Day 4: running hydro simulations
 
 ## Schedule
 
