@@ -39,7 +39,7 @@ The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am f
 2. June 16, 2022 - computing the universe (Romain Teyssier)
 3. June 23, 2022 - dynamical friction and the globular cluster timing problem (Shaunak Modak)
 4. June 30, 2022 - neutron stars (Anatoly Spitkovsky)
-5. July 07, 2022 - TBD (Eliot Quataert)
+5. July 07, 2022 - inward bound: understanding the Event Horizon Telescope results (Eliot Quataert)
 6. July 14, 2022 - gravitational waves and colliding black holes (Michael Strauss) 
 7. July 21, 2022 - fast radio bursts (Jens Mahlmann)
 
