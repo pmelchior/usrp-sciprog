@@ -45,12 +45,13 @@ The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am f
 
 ### Games
 
-1. June 08, 2022 - Outdoor game night
+1. June 07, 2022 - Outdoor game night with dinner at 5:00pm outside Peyton Hall
 
 ### Lab visit schedule
 
 1. June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
-2. June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
+2. June 13, 2022 - Meet science librarian Anya Bartelmann by Peyton doors 1pm and tour Lewis Science Library
+3. June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
 
 ### Final presentation
 
