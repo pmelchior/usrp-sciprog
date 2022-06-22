@@ -46,6 +46,8 @@ The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am f
 ### Games
 
 1. June 07, 2022 - Outdoor game night with dinner at 5:00pm outside Peyton Hall
+2. June 15, 2022 - Kayaking/canoeing on the canal
+3. June 24, 2022 - Observing session with dinner @ 7:30 pm
 
 ### Lab visit schedule
 
