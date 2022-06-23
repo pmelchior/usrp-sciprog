@@ -39,18 +39,23 @@ The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am f
 2. June 16, 2022 - computing the universe (Romain Teyssier)
 3. June 23, 2022 - dynamical friction and the globular cluster timing problem (Shaunak Modak)
 4. June 30, 2022 - neutron stars (Anatoly Spitkovsky)
-5. July 07, 2022 - TBD (Eliot Quataert)
+5. July 07, 2022 - inward bound: understanding the Event Horizon Telescope results (Eliot Quataert)
 6. July 14, 2022 - gravitational waves and colliding black holes (Michael Strauss) 
 7. July 21, 2022 - fast radio bursts (Jens Mahlmann)
 
 ### Games
 
-1. June 08, 2022 - Outdoor game night
+1. June 07, 2022 - Outdoor game night with dinner at 5:00pm outside Peyton Hall
+2. June 15, 2022 - Kayaking/canoeing on the canal
+3. June 24, 2022 - Observing session with dinner @ 7:30 pm
+4. June 30, 2022 - Rock Climbing
+5. July 13, 2022 - Escape Room
 
 ### Lab visit schedule
 
 1. June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
-2. June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
+2. June 13, 2022 - Meet science librarian Anya Bartelmann by Peyton doors 1pm and tour Lewis Science Library
+3. June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
 
 ### Final presentation
 
