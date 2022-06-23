@@ -54,7 +54,8 @@ The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am f
 
 ### Final presentation
 
-1. July 27th, 2022 - Practice talks
+1. July 26th, 2022 - Practice talks
+2. July 27th, 2022 - Practice talks
 2. July 28th, 2022 - USRP finals
 
 Links of Interest
