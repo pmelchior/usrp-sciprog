@@ -47,9 +47,10 @@ The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am f
 
 1. June 07, 2022 - Outdoor game night with dinner at 5:00pm outside Peyton Hall
 2. June 15, 2022 - Kayaking/canoeing on the canal
-3. June 24, 2022 - Observing session with dinner @ 7:30 pm
-4. June 30, 2022 - Rock Climbing
-5. July 13, 2022 - Escape Room
+3. June 24, 2022 - Observing session at Peyton Hall with dinner @ 7:30 pm
+4. June 27, 2022 - Practicing Inclusive Research & Advocating for Yourself, 107 Schultz Lab, 3-5pm
+5. June 30, 2022 - Rock Climbing
+6. July 13, 2022 - Escape Room, 11:30 departure from Goheen Walk
 
 ### Lab visit schedule
 
