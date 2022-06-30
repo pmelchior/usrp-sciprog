@@ -29,7 +29,7 @@ The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am f
 2. June 14, 2022 - how to give a presentation (Sophie Reed)
 3. June 21, 2022 - numerical techniques in astro: PIC method (Hayk Hakobyan)
 3. June 28, 2022 - statistics (Peter Melchior)
-5. July 06, 2022 - numerical techniques in astro: FV method (Jens Mahlmann) ** new date! **
+5. July 06, 2022 - numerical techniques in astro: FV method (Jens Mahlmann) **New date!**
 6. July 12, 2022 - how to talk about astrophysics to non-experts (Mike Lemonick)
 7. July 19, 2022 - how to apply to grad school (Rodrigo Cordova and Jenny Greene)
 
