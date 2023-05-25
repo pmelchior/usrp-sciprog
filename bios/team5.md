@@ -1,9 +1,0 @@
-Hello! I'm Xinyu Liu a rising junior in Physics with a certificate in Applied and Computational Math. I'm interested in plasma especially turbulent transport recently. Love this program.
-
-Christian Robles is a rising senior in the Department of Astrophysical Sciences at Princeton University. He is primarily interested in astronomical instrumentation which he plans on hopefully pursuing later during graduate school. On-campus he is a dormitory assistant, works at the climbing wall, recuitment chair at Cloister Inn, cvice captain of the climbing team, and plays club lacrosse.
-
-Hello I am Mohan Richter-Addo and this is my first time making a github thingy. I am probably going to encounter issues with pull requesting this file but it will be fine, we'll work it out. I am from MIT and already I am greatly enjoying the campus here! It's very beautiful :). I love games of all kind and am always down to learn a new one. Looking to either major in Astrophysics or Mathematics. Very worried about grad school applications too :(.
-
-Hello! I'm Inci Karaaslan, a rising junior studying Physics with certificates (hopefully by the end of senior year) in Engineering Physics, Applied and Computational Math and Materials Science at Princeton University. I am interested in working on topics in theoretical astrophysics, specifically cosmology.
-
-Cole Meyer is a rising junior in the Astrophysical Sciences Department at Princeton University hoping to earn a certificate in Applied and Computational Mathematics. While he is hoping to explore instrumentation within astrophysics over Summer 2022 and throughout his final two years at Princeton, he is largely undecided about which field he would like to specialize in post-Princeton. Outside of class, he will be an RCA for Yeh College in the Fall, is the President of the Princeton Astronomy Club, and an avid coffee connoisseur.
