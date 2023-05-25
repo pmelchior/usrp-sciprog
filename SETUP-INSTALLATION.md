@@ -18,19 +18,19 @@ Most of us use a python package system called `anaconda`. It has many advantages
     
     (you may need to type your computer login password)
     
-3. Install Anaconda for Linux with Python 3.8 (note: *not* Anaconda for Windows!). To do this, in your command prompt, again make sure you are in the bash shell (if you still have the window open from the last step, use that, or type "bash" in a new command prompt). Then run:
+3. Install Anaconda for Linux with Python 3.9 (note: *not* Anaconda for Windows!). To do this, in your command prompt, again make sure you are in the bash shell (if you still have the window open from the last step, use that, or type "bash" in a new command prompt). Then run:
     ```
-    wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh
+    wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh
     ```
     
     To execute the script, type:
     ```
-    ./Anaconda3-2021.05-Linux-x86_64.sh
+    ./Anaconda3-2021.11-Linux-x86_64.sh
     ```
     
     If it doesn't execute, you need to change the access permissions and make it executable (we will learn what this means during [day1](https://github.com/pmelchior/usrp-sciprog/blob/master/day1/1-terminal-and-cmd-line.md#aparte):
     ```
-    chmod 755 Anaconda3-2021.05-Linux-x86_64.sh
+    chmod 755 Anaconda3-2021.11-Linux-x86_64.sh
     ```
     
 4. To access the content of your Linux distribution from your windows interface you should follow the steps described on [this website](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/). The summary is as follows:
@@ -48,10 +48,7 @@ Most of us use a python package system called `anaconda`. It has many advantages
 
 ## If you use Linux on your machine
 
-Install Anaconda for Linux with Python 3.8. Open a terminal prompt, then run:
-```
-wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh
-```
+Install Anaconda for Linux with Python 3.9. Open a terminal prompt, then follow step 3 above.
 
 ## If you use Mac OSX on your machine
 
@@ -60,7 +57,7 @@ wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh
     xcode-select --install
     ```
 
-2. Install Anaconda for Mac with Python 3.8. Download [this](https://repo.anaconda.com/archive/Anaconda3-2021.05-MacOSX-x86_64.pkg) installer, then double-click to open it and follow instructions to install.
+2. Install Anaconda for Mac with Python 3.9. Download [this](https://repo.anaconda.com/archive/Anaconda3-2021.11-Windows-x86_64.exe) installer, then double-click to open it and follow instructions to install.
 
 
 --------

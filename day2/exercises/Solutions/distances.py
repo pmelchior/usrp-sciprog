@@ -2,7 +2,7 @@ import numpy as np
 from scipy.spatial.distance import cdist
 
 
-def naive(coord1, coord2):
+def double_loop(coord1, coord2):
     '''Returns the distance between points in two sets of coordinates.
 	This function uses loops over all elements in each dataset to get the distances.
 	That is the most naive implementation of this function.
