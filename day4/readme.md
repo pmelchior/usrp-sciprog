@@ -1,9 +1,9 @@
-# Day 4: we will have three different courses:
+# Day 4: we will have three different options:
 
-- Reveiw Basics (CLI, git, python)
+- Review Basics (CLI, git, python)
 
-- Nonlinear Fitting
+- [Nonlinear Fitting](review_basics/readme.md)
 
-- Running hydro simulations on a cluster
+- [Running hydro simulations on a cluster](running_hydro_sims/readme.md)
 
 
