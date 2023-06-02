@@ -35,9 +35,9 @@ Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Pe
 
 1. June 15, 2023 - how to make good plots (Peter Melchior)
 2. June 22, 2023 - 
-3. June 29, 2023 - 
+3. June 29, 2023 - how to apply to grad school (Jared Siegel and Josh Winn)
 4. July 06, 2023 - 
-5. July 13, 2023 - how to apply to grad school (Alejandro Cardenas-Avendano and Jared Siegel)
+5. July 13, 2023 - 
 6. July 20, 2023 - how to give a presentation (Sophie Reed)
 
 ### Games and other activities (feel free to suggest options on slack #usrp2023, see below for examples from 2022)
