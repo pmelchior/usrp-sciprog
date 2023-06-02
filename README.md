@@ -13,56 +13,49 @@ For live questions of general interest to the "camp masters" and to keep in touc
 * Day 1 - unix commands, version control (github), ssh 
 * Day 2 - python and numpy
 * Day 3 - statistical data analysis, linear fitting, and astropy
-* Day 4 - 3 options: 1- more python basics, 2- advanced data analysis, 3- running hydro simulations
+* Day 4 - choose your own adventure: 1- more python basics, 2- advanced data analysis, 3- running hydro simulations
 
-All sessions take place in person in Green Hall, room 1-C-4C, located on Washington Road near Nassau Street.
+All sessions take place in person at CSML (aka Bendheim House, 26 Prospect Ave), Auditorium 103.
 **The agenda for each days is detailed in the respective README files**. 
 
 ## Colloquia and seminars
 
-Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm.
-The room is Fine Hall 214. Pizza will be delivered in Grand Central at 11:45am for a quick bite before heading to the seminar location shortly after 12pm.
+Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Peyton 145. Attendance is mandatory. Food will be served before the meeting.
 
-### Seminar schedule
+### Colloquium schedule (TBD)
 
-1. June 07, 2022 - visualization (Peter Melchior)
-2. June 14, 2022 - how to give a presentation (Sophie Reed)
-3. June 21, 2022 - numerical techniques in astro: PIC method (Hayk Hakobyan)
-3. June 28, 2022 - statistics (Peter Melchior)
-5. July 06, 2022 - numerical techniques in astro: FV method (Jens Mahlmann) **New date!**
-6. July 12, 2022 - how to talk about astrophysics to non-experts (Mike Lemonick)
-7. July 19, 2022 - how to apply to grad school (Rodrigo Cordova and Jenny Greene)
+1. June 13, 2023 - 
+2. June 20, 2023 - 
+3. June 27, 2023 - 
+4. July 04, 2023 - _no meeting_ 
+5. July 11, 2023 - 
+6. July 18, 2023 - 
 
-### Colloquium schedule
+### Seminar schedule (TBD)
 
-1. June 09, 2022 - supernovae remnants in the era of the James Webb space telescope (Tea Temim)
-2. June 16, 2022 - computing the universe (Romain Teyssier)
-3. June 23, 2022 - dynamical friction and the globular cluster timing problem (Shaunak Modak)
-4. June 30, 2022 - neutron stars (Anatoly Spitkovsky)
-5. July 07, 2022 - inward bound: understanding the Event Horizon Telescope results (Eliot Quataert)
-6. July 14, 2022 - gravitational waves and colliding black holes (Michael Strauss) 
-7. July 20, 2022 - fast radio bursts (Jens Mahlmann) **New date!**
+1. June 15, 2023 - how to make good plots (Peter Melchior)
+2. June 22, 2023 - 
+3. June 29, 2023 - 
+4. July 06, 2023 - 
+5. July 13, 2023 - how to apply to grad school (Alejandro Cardenas-Avendano and Jared Siegel)
+6. July 20, 2023 - how to give a presentation (Sophie Reed)
 
-### Games
+### Games and other activities (feel free to suggest options on slack #usrp2023, see below for examples from 2022)
 
 1. June 07, 2022 - Outdoor game night with dinner at 5:00pm outside Peyton Hall
-2. June 15, 2022 - Kayaking/canoeing on the canal
-3. June 24, 2022 - Observing session at Peyton Hall with dinner @ 7:30 pm
-4. June 27, 2022 - Practicing Inclusive Research & Advocating for Yourself, 107 Schultz Lab, 3-5pm
-5. June 30, 2022 - Rock Climbing 
-6. July 13, 2022 - Escape Room, 11:30 departure from Goheen Walk
-
-### Lab visit schedule
-
-1. June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
-2. June 13, 2022 - Meet science librarian Anya Bartelmann by Peyton doors 1pm and tour Lewis Science Library
-3. June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
+2. June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
+3. June 13, 2022 - Meet science librarian Anya Bartelmann by Peyton doors 1pm and tour Lewis Science Library
+4. June 15, 2022 - Kayaking/canoeing on the canal
+5. June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
+6. June 24, 2022 - Observing session at Peyton Hall with dinner @ 7:30 pm
+7. June 27, 2022 - Practicing Inclusive Research & Advocating for Yourself, 107 Schultz Lab, 3-5pm
+8. June 30, 2022 - Rock Climbing 
+9. July 13, 2022 - Escape Room, 11:30 departure from Goheen Walk
 
 ### Final presentation
 
-1. July 26th, 2022 - Practice talks
-2. July 27th, 2022 - Practice talks
-2. July 28th, 2022 - USRP finals
+1. July 25th, 2023 - Practice talks
+2. July 27th, 2023 - USRP finals
 
 Links of Interest
 ------------------
