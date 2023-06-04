@@ -12,13 +12,13 @@ You first need to install an X sever and a Terminal window manager.
 
 For MacOS, use:
 
-    - iTerm for the Terminal window [click here to download](https://iterm2.com)
-    - XQuartz for the X server [click here to download](https://www.xquartz.org)
+- iTerm for the Terminal window [click here to download](https://iterm2.com)
+- XQuartz for the X server [click here to download](https://www.xquartz.org)
 
 For Windows, use:
 
-    - PuTTY or KiTTY to connect remotely using the ssh protocol [click here to download](https://www.putty.org)
-    - Xming for the X server [click here to doanload](http://www.straightrunning.com/XmingNotes/)
+- PuTTY or KiTTY to connect remotely using the ssh protocol [click here to download](https://www.putty.org)
+- Xming for the X server [click here to doanload](http://www.straightrunning.com/XmingNotes/)
 
 
 
