@@ -24,7 +24,7 @@ Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Pe
 
 ### Colloquium schedule (TBD)
 
-1. June 13, 2023 - 
+1. June 13, 2023 - Gaspar Bakos "Transiting Exoplanets and Wide Field Surveys"
 2. June 20, 2023 - 
 3. June 27, 2023 - 
 4. July 04, 2023 - _no meeting_ 
