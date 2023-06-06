@@ -24,12 +24,12 @@ Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Pe
 
 ### Colloquium schedule (TBD)
 
-1. June 13, 2023 - 
-2. June 20, 2023 - 
-3. June 27, 2023 - 
+1. June 13, 2023 - Gaspar Bakos "Transiting Exoplanets and Wide Field Surveys"
+2. June 20, 2023 - Michael Strauss "A Primer on Gravitational Waves"
+3. June 27, 2023 - Michael D. Lemonick "Science Journalism"
 4. July 04, 2023 - _no meeting_ 
-5. July 11, 2023 - 
-6. July 18, 2023 - 
+5. July 11, 2023 - Riddhi Bandyopadhyay "Space Physics Research"
+6. July 18, 2023 - Vicente Valenzuela-Villaseca "Rotating plasmas, accretion disks, and jets: from the laboratory to the universe"
 
 ### Seminar schedule (TBD)
 

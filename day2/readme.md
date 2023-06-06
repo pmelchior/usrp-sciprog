@@ -1,13 +1,18 @@
 # Day 2: Introduction to python
 
+## Location
+
+CSML Auditorium, 26 Prospect Ave.
+
 ## Schedule
 
 * 9:30 - 10:30 Introduction to python
-* 10:30 - 11:00 AstroCoffee
+* 10:30 - 11:00 Break
 * 11:00 - 12:30 Python exercises
 * 12:30 - 14:00 Lunch
 * 14:00 - 15:30 Introduction to numpy
-* 15:30 - 17:00 Numpy exercises
+* 15:30 - 16:00 Break
+* 16:00 - 17:00 Numpy exercises
 
 ## Command line and scripts
 
@@ -297,8 +302,9 @@ For the rest, practice is better than words, let us take a look at a few example
 
 So far we have been using `emacs` or `vim` with command lines. 
 There are other interpreters out there that have some nice features to make coding simpler and more comfy. 
-Here are a few examples. You might now others. I invite you to look tem up on line.
+Here are a few examples. You might now others. I invite you to look them up on line.
 
+* VSCode
 * Sublime
 * idle
 * atom (customizable)
