@@ -23,7 +23,61 @@ This produces a map stored in the binary file `dens.map`. Then type (you need `a
 ```
 ./utils/py/map2img.py dens.map --log --out dens.png
 ```
-This produces the following `png` image of the density field at the final time of the simulation.
+This produces the following `dens.png` image of the density field at the final time of the simulation.
 
 ![density](dens.png)
+
+We will now learn out to submit a job to the job queue on `adroit`. First thing is to write a job script. Edit a file called `job.sh` with the following text inside:
+```
+#!/bin/bash -l
+#SBATCH --job-name=sedov2d
+#SBATCH --time=00:01:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=8
+module load openmpi/gcc/4.1.0
+export DATE=`date +%F_%Hh%M`
+cd ~/ramses
+srun bin/ramses2d namelist/sedov2d.nml > run_$DATE.log
+```
+You can submit this job using:
+```
+$ sbatch job.sh
+```
+It produces the same simulation as before but not interactively anymore but after it goes through the job queue.
+
+You can see
+if the job is running using:
+```
+$ squeue -u your_login_name
+```
+Now let's try to make a movie of this simulation. For this, first edit the namelist file `namelist/sedov2d.nml` to change the output frequency by adding the following block:
+```
+&OUTPUT_PARAMS
+tend=1.0
+delta_tout=0.01
+/
+```
+You can resubmit the job script. You will now get 101 snapshots instead of only 2.
+
+Create a bash script called `movie.sh` with the following text inside:
+```
+#!/bin/bash
+for i in `ls -d output_00*`
+do
+    echo $i
+    ./utils/f90/amr2map -inp $i -out dens.map -typ 1 -fil ascii -lma 8
+    gnuplot -e "set term jpeg; set palette rgbformulae 22,13,-31; set pm3d map; set size square; set cbrange [0:7]; splot 'dens.map' u 1:2:3 notitle" > pic_$i.jpeg
+done
+echo "converting to animated gif"
+convert -delay 1 pic_output_00* movie.gif
+rm -rf pic_output_00*
+```
+You have to transform this script into an executable using the command:
+```
+$ chmod a+x movie.sh
+```
+and then execute it:
+```
+$ ./movie.sh
+```
 
