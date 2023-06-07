@@ -27,6 +27,3 @@
 
 ## Content of the lecture notes
 
-
-
-
