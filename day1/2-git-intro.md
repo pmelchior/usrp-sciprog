@@ -41,6 +41,12 @@ After going through this mini tutorial, you should read [this longer tutorial](h
    		$ git commit -m 'descriptive but concise message'
    		$ git push
 
+	If you got an error message about missing user name and email during the `commit` step, you can set them up by
+	```
+	$ git config --global user.name "name"
+	$ git config --global user.email "email"
+ 	```
+  
 6. Use `git status` again to see that all changes have been committed
 
 7. Now, open another terminal window, ssh into your department computer and repeat steps 3-5:
