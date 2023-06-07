@@ -21,13 +21,12 @@
 
 - Compiling and running using MPI and slurm
 
-- Plotting using gnuplot, IDL and python
+- Plotting using gnuplot and python
 
 - Bash scripting
 
-## Download the lecture notes
+## Content of the lecture notes
 
-Click [here](Running_Hydro_Simulation.pdf) to download the lecture notes.
 
 
 
