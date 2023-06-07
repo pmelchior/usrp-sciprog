@@ -90,4 +90,4 @@ $ pip3 install yt
 ```
 and follow the instructions to load up a `RAMSES` dataset into a python Jupyter Notebook using the following [Web page](https://yt-project.org). 
 
-Try and visualize the samel snapshots using `yt`. This visualization package is quite powerful and can read a lot of different simulation data format as explained in [this page](https://yt-project.org/doc/examining/loading_data.html?highlight=ramses).
+Try and visualize the same snapshots using `yt`. This visualization package is quite powerful and can read a lot of different simulation data format as explained in [this page](https://yt-project.org/doc/examining/loading_data.html?highlight=ramses).
