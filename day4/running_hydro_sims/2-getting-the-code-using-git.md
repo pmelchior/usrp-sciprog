@@ -1,4 +1,4 @@
-# Software management: git version control with `git`
+# Software management: version control with `git`
 
 Version control is a technique that allows to keep track of all the changes in a complex software or in a complex document within a large collaboration. 
 
