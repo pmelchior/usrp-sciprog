@@ -55,31 +55,20 @@ In order to see what software packages are available on `adroit`, type:
 		
 You will see a long list of software like:
 
-`
----------------------------------- /usr/share/Modules/modulefiles -----------------------------------`
-
-`dot  module-git  module-info  modules  null  use.own`
-
-`-------------------------------------- /usr/share/modulefiles ---------------------------------------`
-
-`mpi/mpich-x86_64`
-
-`------------------------------- /usr/local/share/Modules/modulefiles --------------------------------`
-
-`boost/1.73.0                  fftw/gcc/openmpi-4.1.0/3.3.9                openblas/0.3.x`
-
-`cmake/3.18.2                  gsl/2.6                                     openmpi/gcc/4.1.0`
-
-`cudatoolkit/10.2              hdf5/gcc/1.10.6                             R/3.6.3`
-
-`cudatoolkit/11.1              hdf5/gcc/intel-mpi/1.10.6                   R/4.0.5`
-
-`cudatoolkit/11.3              hdf5/gcc/openmpi-4.0.4/1.10.6               R/4.1.3`
-
-`cudatoolkit/11.4              hdf5/gcc/openmpi-4.1.0/1.10.6               R/4.2.3`
-
-`cudatoolkit/11.7              netcdf/gcc/hdf5-1.10.6/4.7.3                ucx/1.9.0`
-
+```
+---------------------------------- /usr/share/Modules/modulefiles -----------------------------------
+dot  module-git  module-info  modules  null  use.own
+-------------------------------------- /usr/share/modulefiles ---------------------------------------
+mpi/mpich-x86_64
+------------------------------- /usr/local/share/Modules/modulefiles --------------------------------
+boost/1.73.0                  fftw/gcc/openmpi-4.1.0/3.3.9                openblas/0.3.x
+cmake/3.18.2                  gsl/2.6                                     openmpi/gcc/4.1.0
+cudatoolkit/10.2              hdf5/gcc/1.10.6                             R/3.6.3
+cudatoolkit/11.1              hdf5/gcc/intel-mpi/1.10.6                   R/4.0.5
+cudatoolkit/11.3              hdf5/gcc/openmpi-4.0.4/1.10.6               R/4.1.3
+cudatoolkit/11.4              hdf5/gcc/openmpi-4.1.0/1.10.6               R/4.2.3
+cudatoolkit/11.7              netcdf/gcc/hdf5-1.10.6/4.7.3                ucx/1.9.0
+```
 In order to see the list of packages already installed in your environment, type:
 
 		$ module list
