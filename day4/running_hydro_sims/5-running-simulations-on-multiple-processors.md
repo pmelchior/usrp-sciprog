@@ -80,4 +80,14 @@ and then execute it:
 ```
 $ ./movie.sh
 ```
+You should get this nice movie in a file called `movie.gif`:
 
+![movie dens](movie.gif)
+
+For those of you who have some time left, you can install the `yt` package using:
+```
+$ pip3 install yt
+```
+and follow the instructions to load up a `RAMSES` dataset into a python Jupyter Notebook using the following [Web page](https://ht-project.org). 
+
+Try and visualize the samel snapshots using `yt`. 
