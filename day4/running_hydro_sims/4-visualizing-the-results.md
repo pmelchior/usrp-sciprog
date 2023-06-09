@@ -94,21 +94,21 @@ http://127.0.0.1:1234/?token=9590a9d7cb1d618e9f0b8cb4cfe5f588fd8f997dd9b90c69
 ```
 It should open a Jupyter Notebook on `adroit`. In this Jupyter Notebook, type the following cells:
 ```
-[1]:    import numpy as np
-        import matplotlib.pyplot as plt
-        from astropy.io import ascii
+import numpy as np
+import matplotlib.pyplot as plt
+from astropy.io import ascii
 ```
 ```
-[2]:    !grep -n Output run.log > /tmp/out.txt
-        lines = ascii.read("/tmp/out.txt")
-        i = int(lines["col1"][-1][:-1])
-        n = int(lines["col3"][-1])
+!grep -n Output run.log > /tmp/out.txt
+lines = ascii.read("/tmp/out.txt")
+i = int(lines["col1"][-1][:-1])
+n = int(lines["col3"][-1])
 ```
 ```
-[3]:    data = ascii.read("run.log",header_start=i-2,data_start=i-1,data_end=i+n-1)  
+data = ascii.read("run.log",header_start=i-2,data_start=i-1,data_end=i+n-1)  
 ```
 ```
-[4]:    plt.plot(data["x"],data["d"])
+plt.plot(data["x"],data["d"])
 ```
 ![image][profile1.png]
 
