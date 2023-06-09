@@ -80,17 +80,20 @@ First we try with `python`. For this, you can use two options to launch a `jupyt
 - use a more complex but more powerful technique based on a SSH tunnel from one of `adroit` compute nodes. In the Terminal window on `adroit` type:
 ```
 salloc -n 1 -t 01:00:00
+```
+It should reply this"
+```
 salloc: Granted job allocation 1776094
 salloc: Waiting for resource configuration
 salloc: Nodes adroit-h11n6 are ready for job
 ```
-You are in the compute node for one hour. Now type in the Terminal window:
+You are in the compute node for one hour. Now type in the same Terminal window:
 
 ```
 module load anaconda3/2021.5
 jupyter-notebook --no-browser --port=1234 --ip=0.0.0.0
 ```
-Open a Terminal window on your laptop and type:
+Open a Terminal window **on your laptop** and type:
 ```
 ssh -N -f -L 1234:adroit-h11n6:1234 your_login_name@adroit.princeton.edu
 ```
