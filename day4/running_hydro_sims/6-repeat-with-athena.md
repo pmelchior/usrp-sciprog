@@ -58,7 +58,7 @@ zone-cycles/cpu_second = 2.2770012706480301e+06
 ### Visualize with gnuplot
 
 ```
-gnuplot -e "set term jpeg; plot "Sod.block0.out1.00025.tab" using 2:3 " > density.jpeg
+gnuplot -e 'set term jpeg; plot "Sod.block0.out1.00025.tab" using 2:3 ' > density.jpeg
 ```
 
 or you can use python plotting script provided by the code
