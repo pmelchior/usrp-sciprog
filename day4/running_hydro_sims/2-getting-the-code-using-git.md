@@ -6,7 +6,7 @@ In order to be able to manage your own software or documentation, you need first
 
 Once it is done, visit the BitBucket page of the `RAMSES` code [here](https://bitbucket.org/rteyssie/ramses). 
 
-You can see amnong other things the source code, a Wiki that contains the user's guide and an automatic test page. 
+You can see among other things the source code, a Wiki that contains the user's guide and an automatic test page. 
 
 Go to your Terminal window on `adroit` and type:
 
