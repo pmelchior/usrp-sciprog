@@ -11,13 +11,13 @@ You can see among other things the source code, a Wiki that contains the user's 
 Go to your Terminal window on `adroit` and type:
 
  ```console
-$ git clone https://bitbucket.org/rteyssie/ramses
+git clone https://bitbucket.org/rteyssie/ramses
 ```
 
 This will clone the entire code repository to your account on adroit. You can look at the history of the repository using:
 
 ```console
-$ git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 *   ebcb6769 2023-03-04 | Merge branch 'master' of bitbucket.org:rteyssie/ramses (HEAD -> master, origin/master, origin/HEAD) [Romain Teyssier]
 |\  
 | * 04ca371f 2023-03-03 | Add initial subgrid turbulence in godunov_fine [Romain Teyssier]
