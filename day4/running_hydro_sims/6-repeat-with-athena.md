@@ -158,7 +158,5 @@ Run the script:
 source movie_athena.sh
 ```
 
-The result is
-
 ![OrszagTang](OrszagTang.gif)
 
