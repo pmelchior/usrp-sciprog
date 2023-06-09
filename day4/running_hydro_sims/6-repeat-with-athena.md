@@ -150,7 +150,7 @@ pip install h5py
 For one snapsthot, you can use a provided python script. 
 
 ```
-../vis/python/plot_slice.py \
+~/athena/vis/python/plot_slice.py \
   OrszagTang.out2.00100.athdf \
   press \
   slice.png \
@@ -159,15 +159,16 @@ For one snapsthot, you can use a provided python script.
   --vmax 0.36 \
 ```
 
-Modifying `movie.sh` script created in the previous session, we can also generate time series images. Let's save the following to `movie_athena.sh`.
+Modifying `movie.sh` script created in the previous session, we can also generate a time series of images. Let's save the following to `movie_athena.sh`.
 
 ```sh
 #!/bin/bash
 PID=OrszagTang
+ATHENA_HOME=~/athena
 for i in `ls -d $PID.out2.00*.athdf`
 do
     echo $i
-    ../vis/python/plot_slice.py $i press slice_$i.png --colormap plasma --vmin 0.0 --vmax 0.36 
+    $ATHENA_HOME/vis/python/plot_slice.py $i press slice_$i.png --colormap plasma --vmin 0.0 --vmax 0.36 
 done
 echo "converting to animated gif"
 convert -delay 1 slice_$PID.*.png $PID.gif
