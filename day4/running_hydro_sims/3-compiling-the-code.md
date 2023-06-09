@@ -20,29 +20,29 @@ A `command` is an action that `make` will carry out. A rule may have more than o
 
 You can find a complex example here:
 ```
-$ cd ramses/bin
-$ make
-$ make clean
+cd ramses/bin
+make
+make clean
 ```
 and a simpler example here:
 
 ```
-$ cd ramses/utils/f90
-$ make
-$ make clean
+cd ramses/utils/f90
+make
+make clean
 ```
 
-Let us look at the simple example first. You are in directory `ramses/utils/f90`.
+Let us look at the simple example first. You are in directory `ramses/utils/f90`. You can check this using the command `pwd`:
 
 ```
-$ pwd
-/home/rt3504/usrp/ramses/utils/f90
+pwd
+/home/your_login_name/ramses/utils/f90
 ```
 
 You can have a look at the Makefile typing:
 
 ```
-$ more Makefile
+more Makefile
 # Makefile for RAMSES utils
 BINDIR=.
 
@@ -104,9 +104,9 @@ You recongize the target, dependencies and action structure in each block. Note 
 Now let's have a look at the more complex example in directory `ramses/bin`.
 
 ```
-$ pwd
-/Users/rt3504/ramses/bin
-$ more Makefile
+pwd
+/home/your_login_name/ramses/bin
+more Makefile
 #############################################################################
 # If you have problems with this makefile, contact Romain.Teyssier@gmail.com
 #############################################################################
@@ -361,7 +361,7 @@ What is the most important here is the beginning of the file with all the key co
 If you only type:
 
 ```
-$ make
+make
 ```
 
 you will use their default values, which are for the most important ones:
@@ -377,8 +377,8 @@ you will use their default values, which are for the most important ones:
 You can try and compile the code for a 2D simulation and with MPI by typing:
 
 ```
-$ make clean
-$ make NDIM=2 MPI=1
+make clean
+make NDIM=2 MPI=1
 ```
 
 It is very important to type `make clean` before changing such an important compilation time parameter than `NDIM`. On the other hand, if you modify slightly one file and don't want to recompile everything, just type `make NDIM=2 MPI=1` and `make` will only recompile the file that has changed since the last compilation. That's handy!
