@@ -2,7 +2,7 @@
 
 Most of this page has been presented to you already on Day 1. We repeat here what is specifically required for running hydro simulations on the `adroit` cluster.
 
-We will first explain how to connext to `adroit` using `ssh` on the Terminal window of your laptop or using a Web interface.We will then explain how to set up the software environment on `adroit` using the `module load` command.
+We will first explain how to connect to `adroit` using `ssh` on the Terminal window of your laptop or using a Web interface. We will then explain how to set up the software environment on `adroit` using the `module load` command.
 
 ## Using the Terminal window on your laptop
 
