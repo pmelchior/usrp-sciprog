@@ -2,7 +2,7 @@
 
 We will now run our first simulation. In principle, we have compiled the code for `NDIM=1` without MPI, obtaining in the `ramses/bin` directory the executable called `ramses1d`. 
 
-In order to use it, we need a parameter file. There are plenty of examples in directory `ramses/namelist'. In the Terminal window, type the following:
+In order to use it, we need a parameter file. There are plenty of examples in directory `ramses/namelist`. In the Terminal window, type the following:
 ```
 $ pwd
 /home/rt3504/usrp/ramses
