@@ -2,16 +2,16 @@
 
 We now describe how to run a parallel job on the `adroit` cluster. First we need to compile our code using the MPI library. For this, go back in the `ramses/bin` directory and type:
 ```
-$ module load openmpi/gcc/4.1.0
-$ make clean
-$ make NDIM=2 MPI=1
+module load openmpi/gcc/4.1.0
+make clean
+make NDIM=2 MPI=1
 ```
 This will produce the executable `ramses2d` that we will launch using the MPI runtime environement.
 
 For this, type:
 ```
-$ cd ..
-$ srun -n 8 -t 00:10:00 bin/ramses2d namelist/sedov2d.nml > run.log
+cd ..
+srun -n 8 -t 00:10:00 bin/ramses2d namelist/sedov2d.nml > run.log
 ```
 This should have produced two new directories called `output_00001` and `output_00002`. These are called _snapshots_ as they contain the fluid data at the initial time and at the final time. We will now visualize the final snapshot using a combination of tools.
 
@@ -41,14 +41,14 @@ srun bin/ramses2d namelist/sedov2d.nml > run_$DATE.log
 ```
 You can submit this job using:
 ```
-$ sbatch job.sh
+sbatch job.sh
 ```
 It produces the same simulation as before but not interactively anymore: it goes through the job queue.
 
 You can see
 if the job is running using:
 ```
-$ squeue -u your_login_name
+squeue -u your_login_name
 ```
 Now let's try to make a movie of this simulation. For this, first edit the namelist file `namelist/sedov2d.nml` to change the output frequency by adding the following block:
 ```
@@ -74,11 +74,11 @@ rm -rf pic_output_00*
 ```
 You have to transform this script into an executable using the command:
 ```
-$ chmod a+x movie.sh
+chmod a+x movie.sh
 ```
 and then execute it:
 ```
-$ ./movie.sh
+./movie.sh
 ```
 You should get this nice movie in a file called `movie.gif`:
 
@@ -86,7 +86,7 @@ You should get this nice movie in a file called `movie.gif`:
 
 For those of you who have some time left, you can install the `yt` package using:
 ```
-$ pip3 install yt
+pip3 install yt
 ```
 and follow the instructions to load up a `RAMSES` dataset into a python Jupyter Notebook using the following [Web page](https://yt-project.org). 
 
