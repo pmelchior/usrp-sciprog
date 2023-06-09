@@ -29,7 +29,7 @@ You have many different options to connect to the `adroit` supercomputing cluste
 
 - using `myadroit` and a Web interface. You need to be on campus or use a VPN connection. In your browser, connect to [myadroit.princeton.edu](https://myadroit.princeton.edu/pun/sys/dashboard). Go to the menu **Clusters** and choose the option **_Adroit Cluster Shell Access** [you can also click here](https://myadroit.princeton.edu/pun/sys/shell/ssh/adroit). 
 
-In both case, you shoud be now in a Terminal window on `adroit`. You need to get familiar with the Linux operating system and the corresponding languqge called `bash`. A few basic commands are listed here:
+In both case, you shoud be now in a Terminal window on `adroit`. You need to get familiar with the Linux operating system and the corresponding language called `bash`. A few basic commands are listed here:
 
 | Command | Examples | Description |
 | :----------- | :----------- | :----------- |
