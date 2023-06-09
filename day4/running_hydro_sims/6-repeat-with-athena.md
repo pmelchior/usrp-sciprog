@@ -183,3 +183,39 @@ source movie_athena.sh
 
 ![OrszagTang](OrszagTang.gif)
 
+## 3D MHD blast with yt
+
+### Compile
+```sh
+./configure.py --prob=blast -b -hdf5 -mpi --lib_path=$HDF5DIR/lib64
+make clean
+make all -j
+```
+
+### Prepare Run
+
+```sh
+cd /scratch/network/changgoo/
+mkdir blast
+cd blast/
+cp ~/athena/bin/athena .
+cp ~/athena/inputs/mhd/athinput.blast .
+```
+
+Modify input file and add into `athinput.blast`
+```
+<meshblock>
+nx1=32
+nx2=32
+nx3=32
+```
+
+### Run
+srun -n 8 -t 00:10:00 ./athena -i ./athinput.blast output1/file_type=hdf5
+
+### Visualize with yt
+
+```
+conda install yt
+```
+
