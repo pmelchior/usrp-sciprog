@@ -4,21 +4,21 @@ We will now run our first simulation. In principle, we have compiled the code fo
 
 In order to use it, we need a parameter file. There are plenty of examples in directory `ramses/namelist`. In the Terminal window, type the following:
 ```
-$ pwd
+pwd
 /home/your_login_name/ramses
-$ bin/ramses1d namelist/tube1d.nml
+bin/ramses1d namelist/tube1d.nml
 ```
 
 You should see the program running and outputting a load of data to screen. It is more convenient to redirect the standard output from the screen to a file. For this, type:
 
 ```
-$ bin/ramses1d namelist/tube1d.nml > run.log
+bin/ramses1d namelist/tube1d.nml > run.log
 ```
 
 This create a new file called `run.log` that you can store for later and examine by typing:
 
 ```
-$ more run.log
+more run.log
 ```
 It should start with:
 
@@ -73,7 +73,7 @@ First we try with `python`. For this, you can use two options to launch a `jupyt
 - use again [myadroit](https://myadroit.princeton.edu), selecting this time the option **Jupyter Notebook**.
 - use a more complex but more powerful technique based on a SSH tunnel from one of `adroit` compute nodes. In the Terminal window on `adroit` type:
 ```
-$ salloc -n 1 -t 01:00:00
+salloc -n 1 -t 01:00:00
 salloc: Granted job allocation 1776094
 salloc: Waiting for resource configuration
 salloc: Nodes adroit-h11n6 are ready for job
@@ -81,8 +81,8 @@ salloc: Nodes adroit-h11n6 are ready for job
 You are in the compute node for one hour. Now type in the Terminal window:
 
 ```
-$ module load anaconda3/2021.5
-$ jupyter-notebook --no-browser --port=1234 --ip=0.0.0.0
+module load anaconda3/2021.5
+jupyter-notebook --no-browser --port=1234 --ip=0.0.0.0
 ```
 Open a Terminal window on your laptop and type:
 ```
@@ -116,7 +116,7 @@ You should see the density profile of this famous 1D test called Sod's test. Not
 
 We can do the same using the `gnuplot` package directly within the Linux operating system. For this, type in the Terminal window on `adroit`:
 ```
-$ gnuplot
+gnuplot
 ```
 You are now inside the `gnuplot` program. You can now type:
 ```
@@ -128,7 +128,7 @@ You should see two density profiles, one corresponding to the initial conditions
 The real power of `gnuplot` is that it can be used directly on the command line. For example, after having first exited `gnuplot`, type directly in the Terminal window:
 
 ```
-$ gnuplot -e "set term jpeg; plot 'run.log' every ::1000 u 2:3 title 'final density' " > density.jpeg
+gnuplot -e "set term jpeg; plot 'run.log' every ::1000 u 2:3 title 'final density' " > density.jpeg
 ```
 This will create an image called `density.jpeg` that you can see using your Web browser on `adroit`. 
 
