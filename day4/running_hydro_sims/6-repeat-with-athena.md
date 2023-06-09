@@ -1,7 +1,7 @@
 # Hydro Simulations with Athena++
 
-[`Ramses`](https://bitbucket.org/rteyssie/ramses) is one great example of publich astrophysical fluid dynamics codes. 
-[`Athena++`](https://github.com/PrincetonUniversity/athena) is another good code developed by Princeton members. Let's try this too!
+[`Ramses`](https://bitbucket.org/rteyssie/ramses) is one great example of public astrophysical fluid dynamics codes. 
+[`Athena++`](https://github.com/PrincetonUniversity/athena) is another good code developed by Princeton members. Let's try this one too!
 
 ## Download code
 
