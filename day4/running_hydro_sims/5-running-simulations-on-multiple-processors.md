@@ -43,7 +43,7 @@ You can submit this job using:
 ```
 $ sbatch job.sh
 ```
-It produces the same simulation as before but not interactively anymore but after it goes through the job queue.
+It produces the same simulation as before but not interactively anymore: it goes through the job queue.
 
 You can see
 if the job is running using:
