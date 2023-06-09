@@ -70,7 +70,7 @@ We will now try and visualize the results using a nice plotting routine.
 
 First we try with `python`. For this, you can use two options to launch a `jupyter notebook`.
 
-- use again [mystellar](https://mystellar.princeton.edu), selecting this time the option **Jupyter Notebook**.
+- use again [myadroit](https://myadroit.princeton.edu), selecting this time the option **Jupyter Notebook**.
 - use a more complex but more powerful technique based on a SSH tunnel from one of `adroit` compute nodes. In the Terminal window on `adroit` type:
 ```
 $ salloc -n 1 -t 01:00:00
