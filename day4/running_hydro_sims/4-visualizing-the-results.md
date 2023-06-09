@@ -5,7 +5,13 @@ We will now run our first simulation. In principle, we have compiled the code fo
 In order to use it, we need a parameter file. There are plenty of examples in directory `ramses/namelist`. In the Terminal window, type the following:
 ```
 pwd
+```
+It should reply this:
+```
 /home/your_login_name/ramses
+```
+Otherwise, go to the correct folder using comand `cd`. Then type:
+```
 bin/ramses1d namelist/tube1d.nml
 ```
 
