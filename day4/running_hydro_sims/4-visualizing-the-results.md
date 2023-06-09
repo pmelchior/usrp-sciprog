@@ -86,7 +86,7 @@ $ jupyter-notebook --no-browser --port=1234 --ip=0.0.0.0
 ```
 Open a Terminal window on your laptop and type:
 ```
-ssh -N -f -L 1234:adroit-h11n6:1234 rt3504@adroit.princeton.edu
+ssh -N -f -L 1234:adroit-h11n6:1234 your_login_name@adroit.princeton.edu
 ```
 The Terminal window on `adroit` must have produced some text output. Copy the last line Web address to your Web browser. It should look like this one:
 ```
