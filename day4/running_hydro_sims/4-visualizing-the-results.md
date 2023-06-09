@@ -118,7 +118,7 @@ We can do the same using the `gnuplot` package directly within the Linux operati
 ```
 $ gnuplot
 ```
-You are now inside the `gnupot` program. You can now type:
+You are now inside the `gnuplot` program. You can now type:
 ```
 gnuplot> plot "run.log" every ::::1000 u 2:3 title "initial density"
 gnuplot> replot "run.log" every ::1000 u 2:3 title "final density"
