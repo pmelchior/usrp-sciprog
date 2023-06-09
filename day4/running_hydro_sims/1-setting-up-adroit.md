@@ -25,7 +25,7 @@ You have many different options to connect to the `adroit` supercomputing cluste
 
 - using the ssh protocol from a Terminal window on your laptop or using a ssh client such as PuTTY. Type in the Terminal window the following command line:
 
-		$ ssh -X yourlogin@adroit.princeton.edu
+		ssh -X yourlogin@adroit.princeton.edu
 
 - using `myadroit` and a Web interface. You need to be on campus or use a VPN connection. In your browser, connect to [myadroit.princeton.edu](https://myadroit.princeton.edu/pun/sys/dashboard). Go to the menu **Clusters** and choose the option **_Adroit Cluster Shell Access** [you can also click here](https://myadroit.princeton.edu/pun/sys/shell/ssh/adroit). 
 
@@ -51,7 +51,7 @@ The software environment can be configured using the **Environment Module Packag
 
 In order to see what software packages are available on `adroit`, type:
 
-		$ module avail
+		module avail
 		
 You will see a long list of software like:
 
@@ -71,30 +71,30 @@ cudatoolkit/11.7              netcdf/gcc/hdf5-1.10.6/4.7.3                ucx/1.
 ```
 In order to see the list of packages already installed in your environment, type:
 
-		$ module list
+		module list
 		No Modulefiles Currently Loaded.
 
 We want now to install the Message Passing Interface (MPI) library. For this, type:
 
-		$ module load openmpi/gcc/4.1.0
+		module load openmpi/gcc/4.1.0
 
 You can check that it has been properly loaded by typing:
 
-		$ module list
+		module list
 		Currently Loaded Modulefiles:
  		1) openmpi/gcc/4.1.0  
 
 You can unload it by typing:
 
-		$ module unload openmpi/gcc/4.1.0
+		module unload openmpi/gcc/4.1.0
 
 You can check it is gone by typing:
 
-		$ module list
+		module list
 		No Modulefiles Currently Loaded.
 
 You can load these 2 important packages that we will need later for running hydro simulations:
 
-		$ module load openmpi/gcc/4.1.0 
-		$ module load anaconda3/2021.5
+		module load openmpi/gcc/4.1.0 
+		module load anaconda3/2021.5
 
