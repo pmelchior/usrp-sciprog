@@ -381,5 +381,5 @@ $ make clean
 $ make NDIM=2 MPI=1
 ```
 
-It is very important to type `make clean` before changing such an important compilation time parameter than `NDIM`. On the other hand, if you modify slightly one file and don't want to recompile everything, just type 'make NDIM=2 MPI=1` and `make` will only recompile the file that has changed since the last compilation. That's handy!
+It is very important to type `make clean` before changing such an important compilation time parameter than `NDIM`. On the other hand, if you modify slightly one file and don't want to recompile everything, just type `make NDIM=2 MPI=1` and `make` will only recompile the file that has changed since the last compilation. That's handy!
 
