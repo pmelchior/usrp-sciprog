@@ -26,7 +26,7 @@ python configure.py --prob shock_tube
 make all -j
 ```
 
-For other examples, see this [tutoral](https://github.com/PrincetonUniversity/athena/wiki/Tutorial)
+For other examples, see this [tutorial](https://github.com/PrincetonUniversity/athena/wiki/Tutorial)
 
 ### Run
 
