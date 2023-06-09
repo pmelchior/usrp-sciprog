@@ -61,32 +61,20 @@ zone-cycles/cpu_second = 2.2770012706480301e+06
 gnuplot -e "set term jpeg; plot "Sod.block0.out1.00025.tab" using 2:3 " > density.jpeg
 ```
 
-## 2D Orszag Tang Vortex
-
-### Compile
-
-Move to the `athena` root directory. If you were on `athena/bin/` to run the example above, you may want to do
+or you can use python plotting script provided by the code
 
 ```
-cd ../
+../vis/python/plot_lines.py \
+  Sod.block0.out1.00000.tab,,Sod.block0.out1.00025.tab, \
+  x1v \
+  rho,press,rho,press \
+  lines.png \
+  --styles=--,--,-,- \
+  --colors b,r,b,r \
+  --labels '$\rho_\mathrm{initial}$,$p_\mathrm{initial}$,$\rho_\mathrm{final}$,$p_\mathrm{final}$' \
+  --x_min=-0.5 \
+  --x_max=0.5 \
+  --x_label '$x$'
 ```
 
-Then, configure and compile. Don't forget clean.
-
-```
-python configure.py --prob orszag_tang -b --flux hlld
-make clean
-make all -j
-```
-
-### Run
-
-```
-./athena -i ../inputs/mhd/athinput.orszag-tang
-```
-
-This will be much slower than 1D simulation. Let's run a parallel job.
-
-WORK IN PROGRESS
-
-
+![Sod](lines.png)
