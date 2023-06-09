@@ -9,17 +9,26 @@
 git clone https://github.com/PrincetonUniversity/athena
 ```
 
-## Compile for the Sod shock tube problem
+## 1D Sod shock tube simulation
+
+### Compile
+
+Move to the `athena` root directory.
 
 ```
 cd athena
+```
+
+Remember you `configure` your problem and `compile` (or make) always on the `athena` root directory.
+
+```
 python configure.py --prob shock_tube
 make all -j
 ```
 
 For other examples, see this [tutoral](https://github.com/PrincetonUniversity/athena/wiki/Tutorial)
 
-## Run
+### Run
 
 ```
 cd bin
@@ -46,8 +55,38 @@ cpu time used  = 1.9675000000000002e-02
 zone-cycles/cpu_second = 2.2770012706480301e+06
 ```
 
-## Visualize with gnuplot
+### Visualize with gnuplot
 
 ```
 gnuplot -e "set term jpeg; plot "Sod.block0.out1.00025.tab" using 2:3 " > density.jpeg
 ```
+
+## 2D Orszag Tang Vortex
+
+### Compile
+
+Move to the `athena` root directory. If you were on `athena/bin/` to run the example above, you may want to do
+
+```
+cd ../
+```
+
+Then, configure and compile. Don't forget clean.
+
+```
+python configure.py --prob orszag_tang -b --flux hlld
+make clean
+make all -j
+```
+
+### Run
+
+```
+./athena -i ../inputs/mhd/athinput.orszag-tang
+```
+
+This will be much slower than 1D simulation. Let's run a parallel job.
+
+WORK IN PROGRESS
+
+
