@@ -1,6 +1,6 @@
 # Running a parallel job on `adroit`
 
-We now describe how to run a parallel jon on the `adroit` cluster. First we need to compile our code using the MPI library. For this, go back in the `ramses/bin` directory and type:
+We now describe how to run a parallel job on the `adroit` cluster. First we need to compile our code using the MPI library. For this, go back in the `ramses/bin` directory and type:
 ```
 $ module load openmpi/gcc/4.1.0
 $ make clean
