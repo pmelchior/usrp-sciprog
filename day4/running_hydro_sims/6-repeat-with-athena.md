@@ -106,9 +106,31 @@ make all -j
 
 ### Run
 
+> Important!!
+> You may begin to filling up your storage quota, which is 100GB. To run larger simulations, you may want to do this on `scratch` directory.
+> Check your quota with
+> ```
+> checkquota
+> ```
+> Run your jobs on `/scratch/network/your_user_name`
+
+Let's move to the scratch directory. 
+
 ```
-cd bin/
-srun -n 8 -t 00:10:00 ./athena -i ../inputs/mhd/athinput.orszag-tang meshblock/nx1=100 meshblock/nx2=50 mesh/nx1=200 mesh/nx2=200 output2/file_type=hdf5 
+cd /scratch/network/your_user_name
+```
+
+Then, copy the executable and input files to the scratch directory.
+
+```
+cp ~/athena/bin/athena .
+cp ~/athena/input/mhd/athinput.orszag-tang .
+```
+
+Let's run the job with 8 cores.
+
+```
+srun -n 8 -t 00:10:00 ./athena -i ./athinput.orszag-tang meshblock/nx1=100 meshblock/nx2=50 mesh/nx1=200 mesh/nx2=200 output2/file_type=hdf5 
 ```
 
 ### Visualization one snapshot
