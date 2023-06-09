@@ -78,3 +78,76 @@ or you can use python plotting script provided by the code
 ```
 
 ![Sod](lines.png)
+
+## 2D Orszag Tang Vortex
+
+### Compile a parallel job
+
+Move to the `athena` root directory. If you were on `athena/bin/` to run the example above, you may want to do
+
+```
+cd ../
+```
+
+Load `openmpi` and `hdf5` modules:
+
+```
+module load openmpi/gcc/4.1.0
+module load hdf5/gcc/openmpi-4.1.0/1.10.6
+```
+
+Then, configure and compile. Don't forget to clean.
+
+```
+./configure.py --prob=orszag_tang -b -hdf5 -mpi --lib_path=$HDF5DIR/lib64
+make clean
+make all -j
+```
+
+### Run
+
+```
+cd bin/
+srun -n 8 -t 00:10:00 ./athena -i ../inputs/mhd/athinput.orszag-tang meshblock/nx1=100 meshblock/nx2=50 mesh/nx1=200 mesh/nx2=200 output2/file_type=hdf5 
+```
+
+### Visualization one snapshot
+
+You will need additional python package `h5py`. To install it under your conda environment, you can do either
+
+```
+conda install h5py
+```
+
+or
+
+```
+pip install h5py
+```
+
+For one snapsthot, you can use a provided python script. 
+
+```
+../vis/python/plot_slice.py \
+  OrszagTang.out2.00100.athdf \
+  press \
+  slice.png \
+  --colormap plasma \
+  --vmin 0.0 \
+  --vmax 0.36 \
+```
+
+Modifying `movie.sh` script created in the previous session, we can also generate time series images. See `movie_athena.sh`.
+
+```sh
+#!/bin/bash
+PID=OrszagTang
+for i in `ls -d $PID.out2.00*.athdf`
+do
+    echo $i
+    ../vis/python/plot_slice.py $i press slice_$i.png --colormap plasma --vmin 0.0 --vmax 0.36 
+done
+echo "converting to animated gif"
+convert -delay 1 slice_$PID.*.png $PID.gif
+rm -rf slice_$PID*
+```
