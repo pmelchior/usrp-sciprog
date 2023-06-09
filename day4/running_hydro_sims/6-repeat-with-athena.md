@@ -137,7 +137,7 @@ For one snapsthot, you can use a provided python script.
   --vmax 0.36 \
 ```
 
-Modifying `movie.sh` script created in the previous session, we can also generate time series images. See `movie_athena.sh`.
+Modifying `movie.sh` script created in the previous session, we can also generate time series images. Let's save the following to `movie_athena.sh`.
 
 ```sh
 #!/bin/bash
@@ -151,3 +151,14 @@ echo "converting to animated gif"
 convert -delay 1 slice_$PID.*.png $PID.gif
 rm -rf slice_$PID*
 ```
+
+Run the script:
+
+```
+source movie_athena.sh
+```
+
+The result is
+
+![OrszagTang](OrszagTang.gif)
+
