@@ -84,7 +84,66 @@ You should get this nice movie in a file called `movie.gif`:
 
 ![movie dens](movie.gif)
 
-For those of you who have some time left, you can install the `yt` package using:
+For those of you who have some time left, you can run your first 3D simulation and visualize it with the `yt` package.
+
+Compile the code in the `bin` folder by typing:
+```
+make clean
+make NDIM=3 MPI=1
+```
+
+Create a 3D parameter file called `my_sedov3d.nml' that contains this:
+```
+&RUN_PARAMS
+hydro=.true.
+ncontrol=1
+nrestart=0
+nremap=0
+nsubcycle=10*1
+/
+
+&AMR_PARAMS
+levelmin=7
+levelmax=7
+ngridtot=3000000
+nexpand=1
+boxlen=0.5
+/
+
+&INIT_PARAMS
+nregion=2
+region_type(1)='square'
+region_type(2)='point'
+x_center=0.5,0.0
+y_center=0.5,0.0
+z_center=0.5,0.0
+length_x=10.0,1.0
+length_y=10.0,1.0
+length_z=10.0,1.0
+exp_region=10.0,10.0
+d_region=1.0,0.0
+u_region=0.0,0.0
+v_region=0.0,0.0
+p_region=1e-5,0.4
+/
+
+&OUTPUT_PARAMS
+noutput=1
+tout=1e-3
+/
+
+&HYDRO_PARAMS
+gamma=1.4
+courant_factor=0.8
+scheme='muscl'
+slope_type=1
+/
+```
+Then execute the 3D simulation using `slurm`:
+```
+srun -n 8 -t 00:10:00 bin/ramses3d my_sedov3d.nml
+```
+Install the `yt` package using:
 ```
 pip3 install yt
 ```
