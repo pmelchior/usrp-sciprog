@@ -25,7 +25,7 @@ Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Pe
 ### Colloquium schedule (TBD)
 
 1. June 13, 2023 - Gaspar Bakos "Transiting Exoplanets and Wide Field Surveys"
-2. June 20, 2023 - Michael Strauss "A Primer on Gravitational Waves"
+2. June 20, 2023 - Michael Strauss "Gravitational waves, colliding black holes, and the origin of gold in the universe"
 3. June 27, 2023 - Michael D. Lemonick "Science Journalism"
 4. July 04, 2023 - _no meeting_ 
 5. July 11, 2023 - Riddhi Bandyopadhyay "Space Physics Research"
