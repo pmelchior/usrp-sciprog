@@ -22,7 +22,7 @@ All sessions take place in person at CSML (aka Bendheim House, 26 Prospect Ave),
 
 Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Peyton 145. Attendance is mandatory. Food will be served before the meeting.
 
-### Colloquium schedule (TBD)
+### Colloquium schedule
 
 1. June 13, 2023 - Gaspar Bakos "Transiting Exoplanets and Wide Field Surveys"
 2. June 20, 2023 - Michael Strauss "Gravitational waves, colliding black holes, and the origin of gold in the universe"
@@ -31,13 +31,13 @@ Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Pe
 5. July 11, 2023 - Riddhi Bandyopadhyay "Space Physics Research"
 6. July 18, 2023 - Vicente Valenzuela-Villaseca "Rotating plasmas, accretion disks, and jets: from the laboratory to the universe"
 
-### Seminar schedule (TBD)
+### Seminar schedule
 
 1. June 15, 2023 - how to make good plots (Peter Melchior)
-2. June 22, 2023 - 
+2. June 22, 2023 - how to read papers (Arun Kannawadi)
 3. June 29, 2023 - how to apply to grad school (Jared Siegel and Josh Winn)
-4. July 06, 2023 - 
-5. July 13, 2023 - 
+4. July 06, 2023 - how to write papers (Brandon Hensley)
+5. July 13, 2023 - how to be a good scientist (TBD)
 6. July 20, 2023 - how to give a presentation (Sophie Reed)
 
 ### Games and other activities (feel free to suggest options on slack #usrp2023, see below for examples from 2022)
