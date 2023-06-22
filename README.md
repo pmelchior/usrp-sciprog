@@ -34,7 +34,7 @@ Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Pe
 ### Seminar schedule
 
 1. June 15, 2023 - how to make good plots (Peter Melchior)
-2. June 22, 2023 - how to read papers (Arun Kannawadi)
+2. June 22, 2023 - how to read papers (Arun Kannawadi) [slides](https://docs.google.com/presentation/d/176ua_Ogo9Kr_ncekZrXMNT3PoWOCQJ4xrsNrHrauAIk/edit?usp=sharing)
 3. June 29, 2023 - how to apply to grad school (Jared Siegel and Josh Winn)
 4. July 06, 2023 - how to write papers (Brandon Hensley)
 5. July 13, 2023 - how to be a good scientist (TBD)
