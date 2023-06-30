@@ -18,45 +18,6 @@ For live questions of general interest to the "camp masters" and to keep in touc
 All sessions take place in person at CSML (aka Bendheim House, 26 Prospect Ave), Auditorium 103.
 **The agenda for each days is detailed in the respective README files**. 
 
-## Colloquia and seminars
-
-Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Peyton 145. Attendance is mandatory. Food will be served before the meeting.
-
-### Colloquium schedule
-
-1. June 13, 2023 - Gaspar Bakos "Transiting Exoplanets and Wide Field Surveys"
-2. June 20, 2023 - Michael Strauss "Gravitational waves, colliding black holes, and the origin of gold in the universe"
-3. June 27, 2023 - Michael D. Lemonick "Science Journalism"
-4. July 04, 2023 - _no meeting_ 
-5. July 11, 2023 - Riddhi Bandyopadhyay "Space Physics Research"
-6. July 18, 2023 - Vicente Valenzuela-Villaseca "Rotating plasmas, accretion disks, and jets: from the laboratory to the universe"
-
-### Seminar schedule
-
-1. June 15, 2023 - how to make good plots (Peter Melchior)
-2. June 22, 2023 - how to read papers (Arun Kannawadi) [slides](https://docs.google.com/presentation/d/176ua_Ogo9Kr_ncekZrXMNT3PoWOCQJ4xrsNrHrauAIk/edit?usp=sharing)
-3. June 29, 2023 - how to apply to grad school (Jared Siegel and Josh Winn)
-4. July 06, 2023 - how to write papers (Brandon Hensley)
-5. July 13, 2023 - how to be a good scientist (ChangHoon Hahn and Michael Strauss)
-6. July 20, 2023 - how to give a presentation (Sophie Reed)
-
-### Games and other activities (feel free to suggest options on slack #usrp2023, see below for examples from 2022)
-
-1. June 07, 2022 - Outdoor game night with dinner at 5:00pm outside Peyton Hall
-2. June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
-3. June 13, 2022 - Meet science librarian Anya Bartelmann by Peyton doors 1pm and tour Lewis Science Library
-4. June 15, 2022 - Kayaking/canoeing on the canal
-5. June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
-6. June 24, 2022 - Observing session at Peyton Hall with dinner @ 7:30 pm
-7. June 27, 2022 - Practicing Inclusive Research & Advocating for Yourself, 107 Schultz Lab, 3-5pm
-8. June 30, 2022 - Rock Climbing 
-9. July 13, 2022 - Escape Room, 11:30 departure from Goheen Walk
-
-### Final presentation
-
-1. July 25th, 2023 - Practice talks
-2. July 27th, 2023 - USRP finals
-
 Links of Interest
 ------------------
 
