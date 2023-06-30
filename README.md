@@ -37,7 +37,7 @@ Colloquia are held every Tuesday 12:30pm, seminars every Thursday 12:30pm, at Pe
 2. June 22, 2023 - how to read papers (Arun Kannawadi) [slides](https://docs.google.com/presentation/d/176ua_Ogo9Kr_ncekZrXMNT3PoWOCQJ4xrsNrHrauAIk/edit?usp=sharing)
 3. June 29, 2023 - how to apply to grad school (Jared Siegel and Josh Winn)
 4. July 06, 2023 - how to write papers (Brandon Hensley)
-5. July 13, 2023 - how to be a good scientist (TBD)
+5. July 13, 2023 - how to be a good scientist (ChangHoon Hahn and Michael Strauss)
 6. July 20, 2023 - how to give a presentation (Sophie Reed)
 
 ### Games and other activities (feel free to suggest options on slack #usrp2023, see below for examples from 2022)
