@@ -4,7 +4,7 @@ This repo contains information about the USRP at the Department of Astrophysical
 
 The plan for the first week is to give you an overview of good things to know when it comes to scientific computing, give you time to do some hands-on exercises, and provide resources for you to learn more. We aim to cover basic unix commands and remote login (ssh), software version control (git and github), the Python programming language and scientific programming stack, and basic statistics and simulations. Given that we only have a week, we will only scratch the surface on each of these topics, but many of us will be around and willing (physically or via email/Slack) to provide support and additional guidance throughout the summer.
 
-**Before you start, please make sure that you have all requested access to the Adroit cluster following [this link](https://researchcomputing.princeton.edu/systems/adroit#access).**
+**Before you start, please make sure that you have all requested access to the Adroit cluster following [this link](https://researchcomputing.princeton.edu/systems/adroit#access). If you want to install python on your own machine, please follow [these instructions](https://sml505.pmelchior.net/Setup.html).**
 
 For live questions of general interest to the "camp masters" and to keep in touch with your fellow campers, please subscribe to the slack channels (details sent via email, or ask your camp master/mentor) .
 
