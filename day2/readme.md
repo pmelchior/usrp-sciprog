@@ -2,12 +2,12 @@
 
 ## Location
 
-CSML Auditorium, 26 Prospect Ave.
+Lewis Library 138
 
 ## Schedule
 
 * 9:30 - 10:30 Introduction to python
-* 10:30 - 11:00 Break
+* 10:30 - 11:00 AstroCoffee
 * 11:00 - 12:30 Python exercises
 * 12:30 - 14:00 Lunch
 * 14:00 - 15:30 Introduction to numpy
