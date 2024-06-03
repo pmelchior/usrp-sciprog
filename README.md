@@ -15,7 +15,7 @@ For live questions of general interest to the "camp masters" and to keep in touc
 * Day 3 - statistical data analysis, linear fitting, and astropy
 * Day 4 - choose your own adventure: 1- more python basics, 2- advanced data analysis, 3- running hydro simulations
 
-All sessions take place in person at CSML (aka Bendheim House, 26 Prospect Ave), Auditorium 103.
+All sessions take place in person at Lewis Library 138.
 **The agenda for each days is detailed in the respective README files**. 
 
 Links of Interest
