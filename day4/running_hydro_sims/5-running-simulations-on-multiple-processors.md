@@ -31,7 +31,7 @@ We will now learn out to submit a job to the job queue on `adroit`. First thing 
 ```
 #!/bin/bash -l
 #SBATCH --job-name=sedov2d
-#SBATCH --time=00:01:00
+#SBATCH --time=00:10:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=8
 module load openmpi/gcc/4.1.0
