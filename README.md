@@ -23,6 +23,7 @@ All sessions take place in person at Lewis Library 138.
 Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The room is the main Auditorium in Peyton Hall. Pizza will be delivered in Grand Central at 11:45am for a quick bite before heading to the seminar location shortly after 12pm.
 
 Seminar schedule
+----------------
 * June 07, 2022 - 
 * June 14, 2022 - 
 * June 21, 2022 - 
