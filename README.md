@@ -18,6 +18,45 @@ For live questions of general interest to the "camp masters" and to keep in touc
 All sessions take place in person at Lewis Library 138.
 **The agenda for each days is detailed in the respective README files**. 
 
+## Colloquia and seminars 
+
+Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The room is the main Auditorium in Peyton Hall. Pizza will be delivered in Grand Central at 11:45am for a quick bite before heading to the seminar location shortly after 12pm.
+
+Seminar schedule
+* June 07, 2022 - 
+* June 14, 2022 - 
+* June 21, 2022 - 
+* June 28, 2022 - 
+* July 06, 2022 - 
+* July 12, 2022 - 
+* July 19, 2022 - 
+
+Colloquium schedule
+* June 09, 2022 - 
+* June 16, 2022 - 
+* June 23, 2022 - 
+* June 30, 2022 - 
+* July 07, 2022 - 
+* July 14, 2022 - 
+* July 20, 2022 - 
+
+Games
+   • June 07, 2022 - Outdoor game night with dinner at 5:00pm outside Peyton Hall
+   • June 15, 2022 - Kayaking/canoeing on the canal
+   • June 24, 2022 - Observing session at Peyton Hall with dinner @ 7:30 pm
+   • June 27, 2022 - Practicing Inclusive Research & Advocating for Yourself, 107 Schultz Lab, 3-5pm
+   • June 30, 2022 - Rock Climbing
+   • July 13, 2022 - Escape Room, 11:30 departure from Goheen Walk
+
+Lab visit schedule
+   • June 08, 2022 - Visit of the Starshade Lab or "How to discover an exo-earth?"
+   • June 13, 2022 - Meet science librarian Anya Bartelmann by Peyton doors 1pm and tour Lewis Science Library
+   • June 22, 2022 - Visit of the Space Physics Lab on Wednesday from 12pm to 1pm
+
+Final presentation
+   • July 26th, 2022 - Practice talks
+   • July 27th, 2022 - Practice talks
+   • July 28th, 2022 - USRP finals
 Links of Interest
 ------------------
 
