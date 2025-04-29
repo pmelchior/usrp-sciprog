@@ -25,7 +25,7 @@ Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The r
 Seminar schedule
 ----------------
 * June 10, 2025 - 
-* June 17, 2025 - 
+* June 17, 2025 - No seminar 
 * June 24, 2025 - 
 * July 01, 2025 - 
 * July 08, 2025 - 
@@ -34,7 +34,7 @@ Seminar schedule
 
 Colloquium schedule
 -------------------
-* June 12, 2025 - 
+* June 12, 2025 - Jamey Szalay - Plasmas and Jupiter's Moons
 * June 19, 2025 - 
 * June 26, 2025 - 
 * July 03, 2025 - 
@@ -53,7 +53,7 @@ Games
 
 Lab visit schedule
 ------------------
-* June 08, 2025 - 
+* June 18, 2025 - Princeton Supercomputing Center
 * June 13, 2025 - 
 * June 22, 2025 - 
 
