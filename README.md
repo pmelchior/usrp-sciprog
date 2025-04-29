@@ -38,7 +38,7 @@ Colloquium schedule
 * June 19, 2025 - 
 * June 26, 2025 - 
 * July 03, 2025 - 
-* July 10, 2025 - 
+* July 10, 2025 - Michael Strauss - Gravitational Waves
 * July 17, 2025 - 
 * July 24, 2025 - 
 
