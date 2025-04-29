@@ -35,10 +35,10 @@ Seminar schedule
 Colloquium schedule
 -------------------
 * June 12, 2025 - Jamey Szalay - Plasmas and Jupiter's Moons
-* June 19, 2025 - 
-* June 26, 2025 - 
+* June 19, 2025 - Juneteeth - No Colloquium
+* June 26, 2025 - Romain Teyssier - Computing the Universe
 * July 03, 2025 - Michael Strauss - Gravitational Waves
-* July 10, 2025 - Anatoly Spitkovsky - 
+* July 10, 2025 - Anatoly Spitkovsky - Particle Acceleration in the Universe
 * July 17, 2025 - 
 * July 24, 2025 - 
 
