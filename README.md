@@ -25,7 +25,7 @@ Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The r
 Seminar schedule
 ----------------
 * June 10, 2025 - 
-* June 17, 2025 - No seminar 
+* June 17, 2025 - Careful: Lewis Library! 
 * June 24, 2025 - 
 * July 01, 2025 - 
 * July 08, 2025 - 
