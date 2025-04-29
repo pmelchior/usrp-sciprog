@@ -37,8 +37,8 @@ Colloquium schedule
 * June 12, 2025 - Jamey Szalay - Plasmas and Jupiter's Moons
 * June 19, 2025 - 
 * June 26, 2025 - 
-* July 03, 2025 - 
-* July 10, 2025 - Michael Strauss - Gravitational Waves
+* July 03, 2025 - Michael Strauss - Gravitational Waves
+* July 10, 2025 - Anatoly Spitkovsky - 
 * July 17, 2025 - 
 * July 24, 2025 - 
 
