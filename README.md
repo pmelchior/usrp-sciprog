@@ -40,7 +40,7 @@ Colloquium schedule
 * July 03, 2025 - Michael Strauss - Gravitational Waves
 * July 10, 2025 - Anatoly Spitkovsky - Particle Acceleration in the Universe
 * July 17, 2025 - 
-* July 24, 2025 - 
+* July 24, 2025 - Robert Lupton - The Vera Rubin Observatory
 
 Games
 -----
