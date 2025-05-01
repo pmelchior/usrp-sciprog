@@ -30,7 +30,7 @@ Seminar schedule
 * July 01, 2025 - 
 * July 08, 2025 - 
 * July 15, 2025 - Neta Bahcall - Applying to Grad School
-* July 22, 2025 - 
+* July 22, 2025 - Matt Sampson - Machine Learning in Astronomy
 
 Colloquium schedule
 -------------------
