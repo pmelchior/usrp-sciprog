@@ -29,7 +29,7 @@ Seminar schedule
 * June 24, 2025 - 
 * July 01, 2025 - 
 * July 08, 2025 - 
-* July 15, 2025 - 
+* July 15, 2025 - Neta Bahcall - Applying to Grad School
 * July 22, 2025 - 
 
 Colloquium schedule
@@ -39,7 +39,7 @@ Colloquium schedule
 * June 26, 2025 - Romain Teyssier - Computing the Universe
 * July 03, 2025 - Michael Strauss - Gravitational Waves
 * July 10, 2025 - Anatoly Spitkovsky - Particle Acceleration in the Universe
-* July 17, 2025 - 
+* July 17, 2025 - Yue Pan - TBD
 * July 24, 2025 - Robert Lupton - The Vera Rubin Observatory
 
 Games
