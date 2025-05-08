@@ -2,11 +2,11 @@
 
 ## Schedule
 
-* 9:30 - 10:30 Seeting up your environment on Adroit and basic compilation
-* 10:30 - 11:00 AstroCoffee
-* 11:00 - 12:30 More advanced compilation and first execution on Adroit
-* 12:30 - 14:00 Lunch
-* 14:00 - 15:30 Running a parallel code and plotting results
+* 10:30 - 11:00 Astro Coffee (Peyton)
+* 11:00 - 12:30 Compiling the code and first execution on Adroit
+* 12:30 - 14:00 Lunch break
+* 14:00 - 15:30 Running in parallel code and plotting the results
+* 15:30 - 16:00 Coffee break
 * 15:30 - 17:00 More advanced hydro simulations
 
 ## Outline of the course
