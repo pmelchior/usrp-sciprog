@@ -6,7 +6,6 @@ Lewis Library 138
 
 ## Schedule
 
-* 9:30 - 10:30 Introduction to python
 * 10:30 - 11:00 AstroCoffee
 * 11:00 - 12:30 Python exercises
 * 12:30 - 14:00 Lunch
