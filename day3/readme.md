@@ -2,10 +2,10 @@
 
 ## Schedule
 
-* 10:30 - 11:00  Astro coffee in Grand Central (Peyton)
-* 11:00 - 12:30  Fitting a Line and intro to `astropy`
-* 12:30 - 14:00  Lunch
-* 14:00 - 14:30  
+* 10:30 - 11:00 Astro Coffee (Peyton)
+* 11:00 - 12:30 Fitting a Line and intro to `astropy`
+* 12:30 - 14:00 Lunch
+* 14:00 - 14:30 
 * 14:30 - 15:30  
 * 15:30 - 17:00  
 
