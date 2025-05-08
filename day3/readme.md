@@ -10,3 +10,5 @@
 * 16:00 - 17:00 Fitting a transient light curve
 
 We start with a crash course on statistical data analysis by [fitting a line to data](Fitting-a-line.ipynb), have a [brief look at `astropy`](Astropy-Demo.ipynb) for its use of physical units and coordinates, and then bring it all together by reproducing the work of Edwin Hubble and estimating the [expansion velocity of the universe](Hubble.ipynb).
+
+We will then continue with an [introduction to optimization](Newton-Method.ipynb) and an introduction to the most basic of all astronomical measurements: [photometry](transit/Photometry.ipynb). We will then combine these two to fit a [transient exoplanet signal](transit/Transit.ipynb) in the light curve of a star.
