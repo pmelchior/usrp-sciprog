@@ -6,11 +6,11 @@ Lewis Library 138
 
 ## Schedule
 
-* 10:30 - 11:00 AstroCoffee
+* 10:30 - 11:00 Astro Coffee (Peyton)
 * 11:00 - 12:30 Python exercises
-* 12:30 - 14:00 Lunch
+* 12:30 - 14:00 Lunch break
 * 14:00 - 15:30 Introduction to numpy
-* 15:30 - 16:00 Break
+* 15:30 - 16:00 Coffee break
 * 16:00 - 17:00 Numpy exercises
 
 ## Command line and scripts
