@@ -6,12 +6,13 @@ Lewis Library 138
 
 ## Schedule
 
-- Orientation w/ Breakfast (Peyton): 9:00-10:30
-- AstroCoffee (Peyton): 10:30-11:00
-- Setup, Linux Basics, SSH: 11:00–12:30 
-- Git: 14:00–15:30 
-- Break: 15:30–16:00
-- Git exercises: 16:00-17:00
+- 09:00-10:30: Orientation w/ Breakfast (Peyton)
+- 10:30-11:00: Astro Coffee (Peyton)
+- 11:00–12:30: Setup, Linux Basics, SSH
+- 12:30-14:00: Lunch break
+- 14:00–15:30: Git
+- 15:30–16:00: Coffee break
+- 16:00-17:00: Git exercises
 
 ## Goals
 
