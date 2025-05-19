@@ -53,7 +53,7 @@ Games
 
 Lab visit schedule
 ------------------
-* June 18, 2025 Princeton Supercomputing Center
+* June 18, 2025 Visit to the Princeton Supercomputing Center (departure 12.30pm via chartered Tiger Transit)
 * June 13, 2025 
 * June 22, 2025 
 
@@ -69,6 +69,6 @@ Links of Interest
 * [The Unix command line](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [A Beginner's Guide to Working with Astronomical Data](https://arxiv.org/abs/1905.13189)
 * [Python intro course notebooks](https://github.com/jakevdp/2014_fall_ASTR599/tree/master/notebooks)
-* [Astronmy Workflow (with git and python)](https://christinahedges.github.io/astronomy_workflow/)
+* [Astronomy Workflow (with git and python)](https://christinahedges.github.io/astronomy_workflow/)
 * [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
 * [Fitting a model to data](http://arxiv.org/abs/1008.4686)
