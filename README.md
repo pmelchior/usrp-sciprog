@@ -53,7 +53,7 @@ Games
 
 Lab visit schedule
 ------------------
-* June 18, 2025 Visit to the Princeton Supercomputing Center (departure 12.30pm via chartered Tiger Transit)
+* June 18, 2025 Visit to the Princeton Supercomputing Center (departure 12.30pm via chartered Tiger Transit bus)
 * June 13, 2025 
 * June 22, 2025 
 
