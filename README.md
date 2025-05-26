@@ -10,10 +10,10 @@ For live questions of general interest to the "camp masters" and to keep in touc
 
 ## Schedule of the Bootcamp
 
-* Day 1 Unix commands, version control, ssh 
-* Day 2 Python and numpy
-* Day 3 Statistical data analysis
-* Day 4 Running hydro simulations
+* June 3, 2025 Unix commands, version control, ssh 
+* June 4, 2025 Python and numpy
+* June 5, 2025 Statistical data analysis
+* June 6, 2025 Running hydro simulations
 
 All sessions take place in person at Lewis Library 138.
 **The agenda for each days is detailed in the respective README files**. 
@@ -45,11 +45,11 @@ Colloquium schedule
 Games
 -----
 * June 07, 2025 Outdoor game night with dinner at 5:00pm outside Peyton Hall
-* June 15, 2025 Kayaking/canoeing on the canal
-* June 24, 2025 Observing session at Peyton Hall with dinner @ 7:30 pm
-* June 27, 2025 Practicing Inclusive Research & Advocating for Yourself, 107 Schultz Lab, 3-5pm
-* June 30, 2025 Rock Climbing
-* July 13, 2025 Escape Room, 11:30 departure from Goheen Walk
+* June 15, 2025 
+* June 24, 2025 
+* June 27, 2025 
+* June 30, 2025 
+* July 13, 2025 
 
 Lab visit schedule
 ------------------
