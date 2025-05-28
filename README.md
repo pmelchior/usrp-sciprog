@@ -27,7 +27,7 @@ Seminar schedule
 * June 10, 2025 
 * June 17, 2025 Careful: Lewis Library! 
 * June 24, 2025 
-* July 01, 2025 
+* July 01, 2025 Charlotte Ward - How to write a scientific paper
 * July 08, 2025 Neta Bahcall and Anatoly Spitkovsky - Applying to Grad School
 * July 15, 2025 
 * July 22, 2025 Matt Sampson - Machine Learning in Astronomy
