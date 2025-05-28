@@ -44,7 +44,7 @@ Colloquium schedule
 
 Games
 -----
-* June 07, 2025 Outdoor game night with dinner at 5:00pm outside Peyton Hall
+* June 07, 2025
 * June 15, 2025 
 * June 24, 2025 
 * June 27, 2025 
