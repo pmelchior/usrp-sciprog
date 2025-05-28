@@ -25,7 +25,7 @@ Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The r
 Seminar schedule
 ----------------
 * June 10, 2025 
-* June 17, 2025 Careful: Lewis Library! 
+* June 17, 2025 Careful: Lewis Library! Peter Melchior - How to Make Good Scientific Plots
 * June 24, 2025 
 * July 01, 2025 Charlotte Ward - How to Write a Scientific Paper
 * July 08, 2025 Neta Bahcall and Anatoly Spitkovsky - How to Apply to Grad School
