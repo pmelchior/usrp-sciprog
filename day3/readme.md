@@ -1,5 +1,9 @@
 # Day 3: Linear fitting and the Hubble expansion
 
+## Location
+
+Lewis Library 121
+
 ## Schedule
 
 * 10:30 - 11:00 Astro Coffee (Peyton)
