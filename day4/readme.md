@@ -1,5 +1,9 @@
 # Day 4: running hydro simulations
 
+## Location
+
+Lewis Library 121
+
 ## Schedule
 
 * 10:30 - 11:00 Astro Coffee (Peyton)
