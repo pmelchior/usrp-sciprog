@@ -2,7 +2,7 @@
 
 ## Location
 
-Lewis Library 138
+Lewis Library 121
 
 ## Schedule
 
