@@ -30,7 +30,7 @@ Seminar schedule
 * July 01, 2025 Charlotte Ward - How to Write a Scientific Paper
 * July 08, 2025 Neta Bahcall and Anatoly Spitkovsky - How to Apply to Grad School
 * July 15, 2025 
-* July 22, 2025 Matt Sampson - Machine Learning in Astronomy
+* July 22, 2025 Matt Sampson - How to Use Machine Learning in Astronomy
 
 Colloquium schedule
 -------------------
