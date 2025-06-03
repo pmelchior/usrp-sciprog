@@ -15,7 +15,7 @@ For live questions of general interest to the "camp masters" and to keep in touc
 * June 5, 2025 Statistical data analysis
 * June 6, 2025 Running hydro simulations
 
-All sessions take place in person at Lewis Library 138.
+All sessions take place in person at Lewis Library 121.
 **The agenda for each days is detailed in the respective README files**. 
 
 ## Colloquia and seminars 
