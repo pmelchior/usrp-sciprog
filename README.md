@@ -39,7 +39,7 @@ Colloquium schedule
 * June 26, 2025 Romain Teyssier - Computing the Universe
 * July 03, 2025 Michael Strauss - Gravitational Waves
 * July 10, 2025 Anatoly Spitkovsky - Particle Acceleration in the Universe
-* July 17, 2025 Yue Pan - Caleb Lammers - Grad students Flash Talks
+* July 17, 2025 Yue Pan - Caleb Lammers - Minghao Guo - Grad students Flash Talks
 * July 24, 2025 Robert Lupton - The Vera Rubin Observatory
 
 Games
