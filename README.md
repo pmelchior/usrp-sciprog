@@ -44,12 +44,12 @@ Colloquium schedule
 
 Games
 -----
-* June 07, 2025
-* June 15, 2025 
-* June 24, 2025 
-* June 27, 2025 
-* June 30, 2025 
-* July 13, 2025 
+* June ##, 2025
+* June ##, 2025 
+* June ##, 2025 
+* June ##, 2025 
+* June ##, 2025 
+* July ##, 2025 
 
 Lab visit schedule
 ------------------
