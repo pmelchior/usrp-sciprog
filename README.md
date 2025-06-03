@@ -26,10 +26,10 @@ Seminar schedule
 ----------------
 * June 10, 2025 
 * June 17, 2025 *Careful: Lewis 122!* Peter Melchior - How to Make Good Scientific Plots
-* June 24, 2025 
+* June 24, 2025 Romain Teyssier - How to Code Up a Good Time Integrator
 * July 01, 2025 Charlotte Ward - How to Write a Scientific Paper
 * July 08, 2025 Neta Bahcall and Anatoly Spitkovsky - How to Apply to Grad School
-* July 15, 2025 
+* July 15, 2025 Matt Coleman - How to Code Up a Good Hydro Solver
 * July 22, 2025 Matt Sampson - How to Use Machine Learning in Astronomy
 
 Colloquium schedule
