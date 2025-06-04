@@ -19,7 +19,7 @@ def double_loop(coord1, coord2):
 
 	'''
     #Declare an array full of zeros to store the results
-    result = np.zeros((np.int(coord1.shape[0]), np.int(coord2.shape[0])))
+    result = np.zeros((int(coord1.shape[0]), int(coord2.shape[0])))
     #for each coordinate in coord1
     for i in range(coord1.shape[0]):
         #for each coordinate in coord2
@@ -52,7 +52,7 @@ def one_loop(coord1, coord2):
 
     '''
     #Declare an array to store the results
-    result = np.zeros((np.int(coord1.shape[0]), np.int(coord2.shape[0])))
+    result = np.zeros((int(coord1.shape[0]), int(coord2.shape[0])))
     #For each coordinate in coord1
     for i,c in enumerate(coord1):
         #compute the square of the Euclidean distance to all coordinates in the other dataset
@@ -78,7 +78,7 @@ def one_loop_reverse(coord1, coord2):
 
     '''
     #Same as previously, but coordinates are inverted
-    result = np.zeros((np.int(coord1.shape[0]), np.int(coord2.shape[0])))
+    result = np.zeros((int(coord1.shape[0]), int(coord2.shape[0])))
 
     for i,c in enumerate(coord2):
         result[:,i] = ((c[0]-coord1[:,0])**2+(c[1]-coord1[:,1])**2)
@@ -102,7 +102,7 @@ def with_indices(coord1, coord2):
 
     '''
     #Number of points in each dataset
-    n1,n2 = np.int(coord1.shape[0]), np.int(coord2.shape[0])
+    n1,n2 = int(coord1.shape[0]), int(coord2.shape[0])
     #coordinates of the correspondanc points the two datasets (not obvious, please ask me)
     rows, cols = np.where(np.zeros((n1,n2))==0)
     
