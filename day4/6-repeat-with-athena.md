@@ -92,8 +92,8 @@ cd ../
 Load `openmpi` and `hdf5` modules:
 
 ```
-module load openmpi/gcc/4.1.0
-module load hdf5/gcc/openmpi-4.1.0/1.10.6
+module load openmpi/gcc/4.1.6
+module load hdf5/gcc/openmpi-4.1.6/1.14.4
 ```
 
 Then, configure and compile. Don't forget to clean.
