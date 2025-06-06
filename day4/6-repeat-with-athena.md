@@ -1,6 +1,6 @@
 # Hydro Simulations with Athena++
 
-[`Ramses`](https://bitbucket.org/rteyssie/ramses) is one great example of public astrophysical fluid dynamics codes. 
+[`Ramses`](https://bitbucket.org/rteyssie/ramses) is one great example of public astrophysical fluid dynamics codes.
 [`Athena++`](https://github.com/PrincetonUniversity/athena) is another good code developed by Princeton members. Let's try this one too!
 
 ## Download code
@@ -114,7 +114,7 @@ make all -j
 > ```
 > Run your jobs on `/scratch/network/your_user_name`
 
-Let's move to the scratch directory. 
+Let's move to the scratch directory.
 
 ```
 cd /scratch/network/your_user_name
@@ -130,7 +130,7 @@ cp ~/athena/inputs/mhd/athinput.orszag-tang .
 Let's run the job with 8 cores.
 
 ```
-srun -n 8 -t 00:10:00 ./athena -i ./athinput.orszag-tang meshblock/nx1=100 meshblock/nx2=50 mesh/nx1=200 mesh/nx2=200 output2/file_type=hdf5 
+srun -n 8 -t 00:10:00 ./athena -i ./athinput.orszag-tang meshblock/nx1=100 meshblock/nx2=50 mesh/nx1=200 mesh/nx2=200 output2/file_type=hdf5
 ```
 
 ### Visualization one snapshot
@@ -147,7 +147,7 @@ or
 pip install h5py
 ```
 
-For one snapsthot, you can use a provided python script. 
+For one snapsthot, you can use a provided python script.
 
 ```
 ~/athena/vis/python/plot_slice.py \
@@ -168,7 +168,7 @@ ATHENA_HOME=~/athena
 for i in `ls -d $PID.out2.00*.athdf`
 do
     echo $i
-    $ATHENA_HOME/vis/python/plot_slice.py $i press slice_$i.png --colormap plasma --vmin 0.0 --vmax 0.36 
+    $ATHENA_HOME/vis/python/plot_slice.py $i press slice_$i.png --colormap plasma --vmin 0.0 --vmax 0.36
 done
 echo "converting to animated gif"
 convert -delay 1 slice_$PID.*.png $PID.gif
@@ -182,6 +182,27 @@ source movie_athena.sh
 ```
 
 ![OrszagTang](OrszagTang.gif)
+
+## When HDF5 doesn't work
+
+Let's run the job without the hdf5 option.
+
+```
+srun -n 8 -t 00:10:00 ./athena -i ./athinput.orszag-tang meshblock/nx1=100 meshblock/nx2=50 mesh/nx1=200 mesh/nx2=200
+```
+
+It will create 8 vtk outputs per snapshot. You can merge the vtk output using the script provided in `athena/vis/vtk`
+
+```
+cp ~/athena/vis/vtk/* .
+gcc -Wall -W -o join_vtk++ join_vtk++.c -lm
+join_vtk++.sh OrszagTang 2 7 101
+rm -f OrszagTang.block*
+```
+
+### Visualization one snapshot
+
+Use the notebook `athena_orszag-tang.ipynb`.
 
 ## 3D MHD blast with yt
 
