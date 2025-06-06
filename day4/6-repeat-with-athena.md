@@ -124,7 +124,7 @@ Then, copy the executable and input files to the scratch directory.
 
 ```
 cp ~/athena/bin/athena .
-cp ~/athena/input/mhd/athinput.orszag-tang .
+cp ~/athena/inputs/mhd/athinput.orszag-tang .
 ```
 
 Let's run the job with 8 cores.
