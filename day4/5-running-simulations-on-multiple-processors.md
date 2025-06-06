@@ -34,7 +34,7 @@ We will now learn out to submit a job to the job queue on `adroit`. First thing 
 #SBATCH --time=00:10:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=8
-module load openmpi/gcc/4.1.0
+module load openmpi/gcc/4.1.6
 export DATE=`date +%F_%Hh%M`
 cd ~/ramses
 srun bin/ramses2d namelist/sedov2d.nml > run_$DATE.log
