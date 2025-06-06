@@ -2,7 +2,7 @@
 
 We now describe how to run a parallel job on the `adroit` cluster. First we need to compile our code using the MPI library. For this, go back in the `ramses/bin` directory and type:
 ```
-module load openmpi/gcc/4.1.0
+module load openmpi/gcc/4.1.6
 make clean
 make NDIM=2 MPI=1
 ```
