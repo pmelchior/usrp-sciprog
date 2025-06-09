@@ -133,6 +133,12 @@ Let's run the job with 8 cores.
 srun -n 8 -t 00:10:00 ./athena -i ./athinput.orszag-tang meshblock/nx1=100 meshblock/nx2=50 mesh/nx1=200 mesh/nx2=200 output2/file_type=hdf5
 ```
 
+> Note that there were some issues for parallel writes on adroit `/home` or `/scratch/network` as `openmpi` considers `NFS` is unsafe for parallel writes. This slows down the file I/O using HDF5 in this example. You can either set an environment variable for a temporary workaround
+> ```
+> export OMPI_MCA_fs_ufs_lock_algorithm=1
+> ```
+> or jump to **When HDF5 doesn't work**
+
 ### Visualization one snapshot
 
 You will need additional python package `h5py`. To install it under your conda environment, you can do either
