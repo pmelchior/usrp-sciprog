@@ -42,19 +42,10 @@ Colloquium schedule
 * July 17, 2025 Yue Pan - Caleb Lammers - Minghao Guo - Nick Loudas - Grad students Flash Talks
 * July 24, 2025 Robert Lupton - The Vera Rubin Observatory
 
-Games
------
-* June ##, 2025
-* June ##, 2025 
-* June ##, 2025 
-* June ##, 2025 
-* June ##, 2025 
-* July ##, 2025 
-
 Lab visit schedule
 ------------------
 * June 18, 2025 Visit to the Princeton Supercomputing Center (departure 12.30pm via chartered Tiger Transit bus)
-* July 09, 2025 Visit of PPPL
+* July 14, 2025 Visit of PPPL (departure 10am from Peyton via chartered Tiger Transit bus)
 
 Final presentation
 ------------------
