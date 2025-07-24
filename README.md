@@ -40,7 +40,7 @@ Colloquium schedule
 * July 03, 2025 Michael Strauss - Gravitational Waves
 * July 10, 2025 Anatoly Spitkovsky - Particle Acceleration in the Universe
 * July 17, 2025 Yue Pan - Caleb Lammers - Minghao Guo - Nick Loudas - Grad Students Flash Talks
-* July 24, 2025 Robert Lupton - The Vera Rubin Observatory
+* July 24, 2025 Zack Andalman - Tidal Disruption Events
 
 Lab visit schedule
 ------------------
