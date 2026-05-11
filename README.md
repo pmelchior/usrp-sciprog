@@ -10,10 +10,10 @@ For live questions of general interest to the "camp masters" and to keep in touc
 
 ## Schedule of the Bootcamp
 
-* June 3, 2025 Unix commands, version control, ssh 
-* June 4, 2025 Python and numpy
-* June 5, 2025 Statistical data analysis
-* June 6, 2025 Running hydro simulations
+* June 2, 2026 Unix commands, version control, ssh 
+* June 3, 2026 Python and numpy
+* June 4, 2026 Statistical data analysis
+* June 5, 2026 Running hydro simulations
 
 All sessions take place in person at Lewis Library 121.
 **The agenda for each days is detailed in the respective README files**. 
@@ -24,34 +24,34 @@ Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The r
 
 Seminar schedule
 ----------------
-* June 10, 2025 
-* June 17, 2025 *Careful: Lewis 122!* Peter Melchior - How to Make Good Scientific Plots
-* June 24, 2025 Romain Teyssier - How to Write Good Time Integrators
-* July 01, 2025 Charlotte Ward - How to Write a Scientific Paper
-* July 08, 2025 Neta Bahcall and Anatoly Spitkovsky - How to Apply to Grad School
-* July 15, 2025 Matt Coleman - How to Write a Good Hydro Solver
-* July 22, 2025 Matt Sampson - How to Use Machine Learning in Astronomy
+* June 09, 2026 
+* June 16, 2026 
+* June 23, 2026 
+* June 31, 2026 
+* July 07, 2026 
+* July 14, 2026 
+* July 21, 2026 
 
 Colloquium schedule
 -------------------
-* June 12, 2025 Jamey Szalay - Plasmas and Jupiter's Moons
-* June 19, 2025 Juneteeth - No Colloquium
-* June 26, 2025 Romain Teyssier - Computing the Universe
-* July 03, 2025 Michael Strauss - Gravitational Waves
-* July 10, 2025 Anatoly Spitkovsky - Particle Acceleration in the Universe
-* July 17, 2025 Yue Pan - Caleb Lammers - Minghao Guo - Nick Loudas - Grad Students Flash Talks
-* July 24, 2025 Zack Andalman - Tidal Disruption Events
+* June 12, 2026 
+* June 19, 2026 
+* June 26, 2026 
+* July 03, 2026 
+* July 10, 2026 
+* July 17, 2026 
+* July 24, 2026 
 
 Lab visit schedule
 ------------------
-* June 18, 2025 Visit to the Princeton Supercomputing Center (departure 12.30pm via chartered Tiger Transit bus)
-* July 14, 2025 Visit of PPPL (departure 10am from Peyton via chartered Tiger Transit bus)
+* June 17, 2026 Visit to the Institute for Advanced Study
+* July 15, 2026 Visit to the Princeton Supercomputer Center
 
 Final presentation
 ------------------
-* July 29th, 2025 Practice talks
-* July 30th, 2025 Practice talks
-* July 31th, 2025 USRP finals
+* July 28th, 2026 Practice talks
+* July 29th, 2026 Practice talks
+* July 30th, 2026 USRP finals
 
 Links of Interest
 ------------------
