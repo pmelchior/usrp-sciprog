@@ -34,13 +34,13 @@ Seminar schedule
 
 Colloquium schedule
 -------------------
-* June 12, 2026 
-* June 19, 2026 
-* June 26, 2026 
-* July 03, 2026 
-* July 10, 2026 
-* July 17, 2026 
-* July 24, 2026 
+* June 11, 2026 
+* June 18, 2026 
+* June 25, 2026 
+* July 02, 2026 
+* July 09, 2026 
+* July 16, 2026 
+* July 23, 2026 
 
 Lab visit schedule
 ------------------
