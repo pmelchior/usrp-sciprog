@@ -45,6 +45,7 @@ Colloquium schedule
 Lab visit schedule
 ------------------
 * June 17, 2026 Visit to the Institute for Advanced Study
+* June 24, 2026 Visit to the Princeton Plasma Physics Laboratory
 * July 08, 2026 Visit to the Princeton Supercomputer Center
 
 Final presentation
