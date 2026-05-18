@@ -27,7 +27,7 @@ Seminar schedule
 * June 09, 2026 
 * June 16, 2026 
 * June 23, 2026 
-* June 31, 2026 
+* June 30, 2026 
 * July 07, 2026 
 * July 14, 2026 
 * July 21, 2026 
