@@ -20,7 +20,7 @@ All sessions take place in person at Lewis Library 121.
 
 ## Colloquia and seminars 
 
-Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The room is the main Auditorium in Peyton Hall. Pizza and cookies will be delivered in Grand Central at 12:00pm for lunch.
+Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The room is TBD. Pizza and cookies will be delivered in TBD at 12:00pm for lunch.
 
 Seminar schedule
 ----------------
