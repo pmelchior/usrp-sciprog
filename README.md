@@ -24,13 +24,13 @@ Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The r
 
 Seminar schedule
 ----------------
-* June 09, 2026 
-* June 16, 2026 
-* June 23, 2026 
-* June 30, 2026 
-* July 07, 2026 
-* July 14, 2026 
-* July 21, 2026 
+* June 09, 2026 Marcus DuPont -- Getting Up to Speed with Claude Code
+* June 16, 2026 Neta Bahcall -- Applying to Graduate School
+* June 23, 2026 Chang-Goo Kim -- How to find/read/manage papers
+* June 30, 2026 Matt Coleman -- How to Write a Good Hydro Solver
+* July 07, 2026 Abbey Ellis -- How to Get Your Research into The New York Times
+* July 14, 2026 Alex Dittmann -- How to Make Good Plots
+* July 21, 2026 Romain Teyssier -- How to Write a Good ODE Solver 
 
 Colloquium schedule
 -------------------
