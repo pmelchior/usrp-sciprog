@@ -2,7 +2,7 @@
 
 ## Location
 
-Lewis Library 121
+Green Hall [1-C-4C](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_id=01&rm_id=0048_01_V24&bc=GREEN&img=00481C4C.JPG&rn=1-C-4C)
 
 ## Schedule
 
