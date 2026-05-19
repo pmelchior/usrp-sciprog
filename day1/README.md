@@ -6,8 +6,8 @@ Green Hall [1-C-4C](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_
 
 ## Schedule
 
-- 09:00 - 10:30 Orientation w/ Breakfast (Peyton)
-- 10:30 - 11:00 Astro Coffee (Peyton)
+- 09:00 - 10:30 Orientation w/ Breakfast (Green Hall 1-C-6)
+- 10:30 - 11:00 Astro Coffee (Green Hall 2-C-18)
 - 11:00 – 12:30 Setup, Linux Basics, SSH
 - 12:30 - 14:00 Lunch break
 - 14:00 – 15:30 Git
