@@ -2,11 +2,11 @@
 
 ## Location
 
-Lewis Library 134
+Green Hall [1-C-4C](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_id=01&rm_id=0048_01_V24&bc=GREEN&img=00481C4C.JPG&rn=1-C-4C)
 
 ## Schedule
 
-* 10:30 - 11:00 Astro Coffee (Peyton)
+* 10:30 - 11:00 Astro Coffee (Green Hall 2-C-18)
 * 11:00 - 12:30 Compiling the code and first execution on Adroit
 * 12:30 - 14:00 Lunch break
 * 14:00 - 15:30 Running in parallel code and plotting the results
