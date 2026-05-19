@@ -34,13 +34,14 @@ Seminar schedule
 
 Colloquium schedule
 -------------------
-* June 11, 2026 
-* June 18, 2026 
-* June 25, 2026 
-* July 02, 2026 
-* July 09, 2026 
-* July 16, 2026 
-* July 23, 2026 
+* June 11, 2026 Uddipan Banik
+* June 18, 2026	Mor Rozner -- Dynamical origins of gravitational waves
+* June 25, 2026 Michael Strauss	-- Large scale structure as a cosmological probe
+* July 02, 2026 Josh Winn	-- Twenty Years of the Transiting Exoplanet Survey Satellite
+* July 9, 2026 Nehpreet Walia	-- Mapping the Outer Heliosphere using NASA's Interstellar Mapping and Acceleration Probe
+* July 16, 2026	Chris Hamilton	-- Spiral structure in galaxies
+* July 23, 2026	Shaunak Modak	-- Interstellar gas and the evolution of galactic disks
+
 
 Lab visit schedule
 ------------------
