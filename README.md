@@ -15,12 +15,12 @@ For live questions of general interest to the "camp masters" and to keep in touc
 * June 4, 2026 Statistical data analysis
 * June 5, 2026 Running hydro simulations
 
-All sessions take place in person at TBC in Green Hall.
+All sessions take place in person at Green Hall [1-C-4C](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_id=01&rm_id=0048_01_V24&bc=GREEN&img=00481C4C.JPG&rn=1-C-4C).
 **The agenda for each days is detailed in the respective README files**. 
 
 ## Colloquia and seminars 
 
-Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The room is TBD. Pizza and cookies will be delivered in TBD at 12:00pm for lunch.
+Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The room is Green Hall [0-S-6](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_id=00&rm_id=0048_00_HH35&bc=GREEN&img=00480S6.JPG&rn=0-S-6). Pizza and cookies will be delivered in Green Hall [1-C-6](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_id=01&rm_id=0048_01_FF21&bc=GREEN&img=00481C6.JPG&rn=1-C-6) at 12:00pm for lunch.
 
 Seminar schedule
 ----------------
