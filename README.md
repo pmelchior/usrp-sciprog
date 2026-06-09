@@ -20,7 +20,7 @@ All sessions take place in person at Green Hall [1-C-4C](https://classroominfo.p
 
 ## Colloquia and seminars 
 
-Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The room is Green Hall [0-S-6](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_id=00&rm_id=0048_00_HH35&bc=GREEN&img=00480S6.JPG&rn=0-S-6). Pizza and cookies will be delivered in Green Hall [1-C-6](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_id=01&rm_id=0048_01_FF21&bc=GREEN&img=00481C6.JPG&rn=1-C-6) at 12:00pm for lunch.
+Seminars are held every Tuesday 12:30pm, colloquia every Thursday 12:30pm. The room is Green Hall [0-S-6](https://classroominfo.princeton.edu/View.aspx?bl_id=0048&fl_id=00&rm_id=0048_00_HH35&bc=GREEN&img=00480S6.JPG&rn=0-S-6). Lunch will be delivered outside room 0-S-6 at 12:00pm.
 
 Seminar schedule
 ----------------
@@ -34,7 +34,7 @@ Seminar schedule
 
 Colloquium schedule
 -------------------
-* June 11, 2026 Uddipan Banik
+* June 11, 2026 Uddipan Banik -- Gravity, magnetism and the growth of cosmic structure
 * June 18, 2026	Mor Rozner -- Dynamical origins of gravitational waves
 * June 25, 2026 Michael Strauss	-- Large scale structure as a cosmological probe
 * July 02, 2026 Josh Winn	-- Twenty Years of the Transiting Exoplanet Survey Satellite
