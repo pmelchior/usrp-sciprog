@@ -34,7 +34,7 @@ Seminar schedule
 
 Colloquium schedule
 -------------------
-* June 11, 2026 Uddipan Banik
+* June 11, 2026 Uddipan Banik -- Gravity, magnetism and the growth of cosmic structure
 * June 18, 2026	Mor Rozner -- Dynamical origins of gravitational waves
 * June 25, 2026 Michael Strauss	-- Large scale structure as a cosmological probe
 * July 02, 2026 Josh Winn	-- Twenty Years of the Transiting Exoplanet Survey Satellite
